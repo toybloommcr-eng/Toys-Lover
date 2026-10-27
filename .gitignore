@@ -51,3 +51,6 @@ VIDEOS/
 whatsapp-photos/
 
 public/images/products/whatsapp/
+
+# Needs token with workflow scope to push; keep local copy
+.github/workflows/
