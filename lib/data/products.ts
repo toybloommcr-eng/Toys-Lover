@@ -1775,7 +1775,7 @@ const SQUISHY_BOX_SLUGS = new Set<string>([
 ]);
 
 /** Squishy aisles sold each (listed price = per piece). Min order still 12 pcs. */
-const SQUISHY_EACH_SLUGS = new Set<string>(["small-squishies", "butter-squishies"]);
+const SQUISHY_EACH_SLUGS = new Set<string>(["small-squishies", "butter-squishies", "jumbo-squishies", "vaseline-squishies", "christmas-squishies"]);
 
 /** Keep a non-12 MOQ only for true small packs (1-11 pcs). Factory carton labels are ignored. */
 function isNonDefaultSquishyMoq(product: Product) {
