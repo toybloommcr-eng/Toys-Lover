@@ -1,0 +1,253 @@
+# Older catalogue minimum orders
+
+Non-Telegram products that were on a minimum of 1. A box quantity was set only when the product name, description, or features state one. Squishies are listed in `SQUISHY_MOQ_FLAGS.md`.
+
+## Changed
+
+| Slug | Old | New | Reason |
+| --- | --- | --- | --- |
+| — | — | — | No older non-squishy product stated a box or case quantity while still on a minimum of 1. |
+
+## Left at 1
+
+- `piano-fitness-gym` — Piano Fitness Gym
+- `dino-world-musical-mat` — Dino World Musical Mat
+- `wrap-around-plush-monkey` — Wrap-Around Plush Monkey
+- `guardsman-bear` — Guardsman Bear
+- `snuggle-puppy-plush` — Snuggle Puppy Plush
+- `rainbow-leopard-plush` — Rainbow Leopard Plush
+- `eva-number-foam-puzzle` — EVA Number Foam Puzzle
+- `farmyard-peg-puzzle` — Farmyard Peg Puzzle
+- `dream-castle-playset` — Dream Castle Playset
+- `fashion-girl-twin-gowns` — Fashion Girl Twin Gowns
+- `bear-bubbles-twin-dolls` — Bear Bubbles Twin Dolls
+- `realistic-baby-care-doll` — Realistic Baby Care Doll
+- `fashion-fairy-doll` — Fashion Fairy Doll
+- `lovely-doll-with-pet` — Lovely Doll With Pet
+- `stage-star-fashion-doll` — Stage Star Fashion Doll
+- `beauty-princess-doll` — Beauty Princess Doll
+- `sofia-nursery-stroller-set` — Sofia Nursery Stroller Set
+- `funtasy-bubble-gun` — FunTasy Bubble Gun
+- `rocket-48-bubble-machine` — Rocket 48-Hole Bubble Machine
+- `bubble-bazooka-32` — 32-Hole Bubble Bazooka
+- `fairy-light-bubble-wand` — Fairy Light Bubble Wand
+- `electric-water-blaster` — Electric Water Blaster
+- `basketball-play-set` — Basketball Play Set
+- `ride-on-4x4-jeep` — Ride-On 4x4 Jeep
+- `ride-on-farm-tractor` — Ride-On Farm Tractor
+- `super-arrow-set` — Super Arrow Set
+- `sports-ball-pack` — Sports Ball Pack
+- `fruit-garden-bucket` — Fruit Garden Bucket Set
+- `soft-dart-modular-blaster` — Soft Dart Modular Blaster
+- `kitchen-cook-set` — Kitchen Cook Set
+- `pretend-vacuum-cleaner` — Pretend Vacuum Cleaner
+- `hair-salon-set` — Hair Salon Set
+- `doctor-clinic-set` — Doctor Clinic Set
+- `airline-play-set` — Airline Play Set
+- `rc-tank-truck` — RC Tank Truck
+- `firepower-roleplay-rifle` — Firepower Role-Play Rifle
+- `sequin-cowboy-hat` — Sequin Cowboy Hat
+- `machine-soldier-transformer` — Machine Soldier Transformer
+- `police-robot-car` — Police Robot Car
+- `alloy-diecast-racer` — Alloy Die-Cast Racer
+- `engineering-dump-truck` — Engineering Dump Truck
+- `city-rescue-garage` — City Rescue Garage
+- `dino-chariot-vehicle` — Dinosaur Chariot Vehicle
+- `hero-league-figure` — Hero League Figure
+- `hipper-collectible-pack` — Hipper Collectible Pack
+- `dino-expedition-build` — Dinosaur Expedition Build
+- `mech-pioneer-build` — Mech Pioneer Build
+- `soccer-star-table-game` — Soccer Star Table Game
+- `tabletop-football-pitch` — Tabletop Football Pitch
+- `stage-quest-card-game` — Stage Quest Card Game
+- `cat-face-musical-guitar` — Cat-Face Musical Guitar
+- `unicorn-vanity-kit` — Unicorn Vanity Kit
+- `toy-cosmetics-set` — Toy Cosmetics Set
+- `diy-bead-jewelry-set` — DIY Bead Jewellery Set
+- `explorer-binoculars` — Explorer Binoculars 4×30
+- `space-explorer-kit` — Space Explorer Kit
+- `volt-workshop-kit` — Volt Workshop Kit
+- `brave-geeker-crawler` — Brave Geeker Rock Crawler
+- `speed-phantom-rc` — Speed Phantom RC
+- `rc-monster-truck` — RC Monster Truck
+- `offroad-racing-pioneer` — Off-Road Racing Pioneer
+- `racers-camera-car` — Racers Camera Car
+- `spray-smoke-rc-suv` — Spray-Smoke RC SUV
+- `street-graffiti-rc` — Street Graffiti RC
+- `quick-push-console` — Quick-Push Fidget Console
+- `dancing-cactus-pal` — Dancing Cactus Pal
+- `pocket-breeze-fan` — Pocket Breeze Fan
+- `crystal-mood-lamp` — Crystal Mood Lamp
+- `unicorn-snuggle-plush` — Unicorn Snuggle Plush
+- `mermaid-dress-up-set` — Mermaid Dress-Up Set
+- `twin-track-rc-set` — Twin Track RC Set
+- `beach-bucket-set` — Beach Bucket Set
+- `chick-bubble-camera` — Chick Bubble Camera
+- `frog-bubble-camera` — Frog Bubble Camera
+- `pink-octopus-bubble-blower` — Pink Octopus Bubble Blower
+- `animal-bubble-camera-set` — Animal Bubble Camera Set
+- `panda-bubble-camera` — Panda Bubble Camera
+- `bunny-bubble-camera` — Bunny Bubble Camera
+- `green-octopus-bubble-blower` — Green Octopus Bubble Blower
+- `octopus-bubble-blower-pair` — Octopus Bubble Blower Pair
+- `christmas-surprise-figure-bag` — Christmas Surprise Figure Bag
+- `ear-buddy-plush-pair` — Blue & Pink Ear Buddy Plush
+- `st-george-england-flag` — St George England Flag
+- `union-jack-flag` — Union Jack Flag
+- `pop-star-figure-pack` — Pop Star Figure Pack
+- `world-cup-mini-figures` — World Cup Mini Figures
+- `rainbow-pocket-figures` — Rainbow Pocket Figures
+- `bunny-glow-wands` — Bunny Glow Wands
+- `trio-glow-spinner-wands` — Trio Glow Spinner Wands
+- `toy-light-sabres` — Toy Light Sabres
+- `bunny-led-wands` — Bunny LED Wands
+- `rainbow-cloud-flop-hat` — Rainbow Cloud Flop Hat
+- `snowman-flop-hat` — Snowman Flop Hat
+- `pumpkin-flop-hat` — Pumpkin Flop Hat
+- `rainbow-cat-flop-hat` — Rainbow Cat Flop Hat
+- `blue-speed-flop-hat` — Blue Speed Flop Hat
+- `dark-bow-flop-hat` — Dark Bow Flop Hat
+- `yellow-goggle-flop-hat` — Yellow Goggle Flop Hat
+- `night-dragon-flop-hat` — Night Dragon Flop Hat
+- `dark-hero-mask` — Dark Hero Mask
+- `web-hero-mask` — Web Hero Mask
+- `gold-armor-mask` — Gold Armor Mask
+- `bow-kitty-flop-hat` — Bow Kitty Flop Hat
+- `bow-kitty-plush-wand` — Bow Kitty Plush Wand
+- `cloud-pup-plush-pair` — Cloud Pup Plush Pair
+- `sleepy-unicorn-bag` — Sleepy Unicorn Plush Bag
+- `pink-idol-plush` — Pink Idol Plush
+- `flop-ear-glow-headband` — Flop-Ear Glow Headband
+- `neon-unicorn-wand-trio` — Neon Unicorn Wand Trio
+- `fibre-optic-party-wands` — Fibre-Optic Party Wands
+- `spinner-character-wands` — Spinner Character Wands
+- `kaleido-fan-wand` — Kaleido Fan Wand
+- `bow-glow-wand` — Bow Glow Wand
+- `club-glow-wand` — Club Glow Wand
+- `pine-tree-glow-wands` — Pine Tree Glow Wands
+- `candy-sports-bucket-hats` — Candy Sports Bucket Hats
+- `mixed-sports-bucket-hats` — Mixed Sports Bucket Hats
+- `speed-crew-keyrings` — Speed Crew Keyrings
+- `mini-sneaker-keyrings` — Mini Sneaker Keyrings
+- `alien-crew-keyrings` — Alien Crew Keyrings
+- `cartoon-crew-keyrings` — Cartoon Crew Keyrings
+- `hedgehog-duo-keyrings` — Hedgehog Duo Keyrings
+- `yellow-duo-keyrings` — Yellow Duo Keyrings
+- `hero-trio-keyrings` — Hero Trio Keyrings
+- `coffee-bear-keyrings` — Coffee Bear Keyrings
+- `mini-lit-christmas-trees` — Mini Lit Christmas Trees
+- `reindeer-snow-lanterns` — Reindeer Snow Lanterns
+- `led-snow-globe-lanterns` — LED Snow Globe Lanterns
+- `glowing-snowman-set` — Glowing Snowman Set
+- `christmas-booth-lanterns` — Christmas Booth Lanterns
+- `glowing-star-trees` — Glowing Star Trees
+- `white-village-trees` — White Village Trees
+- `santa-house-lanterns` — Santa House Lanterns
+- `snow-scene-lanterns` — Snow Scene Lanterns
+- `red-christmas-lanterns` — Red Christmas Lanterns
+- `butterfly-light-wands` — Butterfly Light Wands
+- `gold-snow-lanterns` — Gold Snow Lanterns
+- `hanging-snow-lantern` — Hanging Snow Lantern
+- `character-3d-night-light` — Character 3D Night Light
+- `lace-heart-wands` — Lace Heart Wands
+- `star-princess-wands` — Star Princess Wands
+- `fibre-unicorn-wands` — Fibre Unicorn Wands
+- `lollipop-light-wands` — Lollipop Light Wands
+- `rainbow-sphynx-keyring-set` — Rainbow Sphynx Keyring Set
+- `sphynx-keyring-duo` — Sphynx Keyring Duo
+- `sunset-sphynx-keyring` — Sunset Sphynx Keyring
+- `teal-jointed-lizard` — Teal Jointed Lizard
+- `navy-pocket-fan` — Navy Pocket Fan
+- `lilac-pocket-fan` — Lilac Pocket Fan
+- `mint-table-fan` — Mint Table Fan
+- `mint-handle-fan` — Mint Handle Fan
+- `sage-table-fan` — Sage Table Fan
+- `chrome-spray-fan` — Chrome Spray Fan
+- `purple-spray-fan` — Purple Spray Fan
+- `sports-bottle-plush-set` — Sports Bottle Plush Set
+- `santa-snow-train` — Santa Snow Train
+- `santa-glow-lantern-pair` — Santa Glow Lantern Pair
+- `character-glow-wands` — Character Glow Wands
+- `princess-electric-glow-stick` — Princess Electric Glow Stick
+- `rainbow-heart-glow-sticks` — Rainbow Heart Glow Sticks
+- `character-play-balls` — Character Play Balls
+- `hero-fidget-spinner-range` — Hero Fidget Spinner Range
+- `monster-buddy-big-bag-01` — Monster Buddy Big Bag 01
+- `monster-buddy-big-bag-02` — Monster Buddy Big Bag 02
+- `monster-buddy-big-bag-03` — Monster Buddy Big Bag 03
+- `monster-buddy-big-bag-04` — Monster Buddy Big Bag 04
+- `monster-buddy-big-bag-05` — Monster Buddy Big Bag 05
+- `monster-buddy-big-bag-06` — Monster Buddy Big Bag 06
+- `monster-buddy-big-bag-07` — Monster Buddy Big Bag 07
+- `monster-buddy-big-bag-08` — Monster Buddy Big Bag 08
+- `monster-buddy-big-bag-09` — Monster Buddy Big Bag 09
+- `monster-buddy-big-bag-10` — Monster Buddy Big Bag 10
+- `monster-buddy-big-bag-11` — Monster Buddy Big Bag 11
+- `monster-buddy-big-bag-12` — Monster Buddy Big Bag 12
+- `hatch-dragon-egg-01` — Hatch Dragon Egg 01
+- `hatch-dragon-egg-02` — Hatch Dragon Egg 02
+- `hatch-dragon-egg-03` — Hatch Dragon Egg 03
+- `hatch-dragon-egg-04` — Hatch Dragon Egg 04
+- `hatch-dragon-egg-05` — Hatch Dragon Egg 05
+- `hatch-dragon-egg-06` — Hatch Dragon Egg 06
+- `fashion-play-set-01` — Fashion Play Set 01
+- `fashion-play-set-02` — Fashion Play Set 02
+- `fashion-play-set-03` — Fashion Play Set 03
+- `fashion-play-set-04` — Fashion Play Set 04
+- `monster-buddy-large-bag-02` — Monster Buddy Large Bag 02
+- `monster-buddy-large-bag-03` — Monster Buddy Large Bag 03
+- `monster-buddy-large-bag-05` — Monster Buddy Large Bag 05
+- `monster-buddy-large-bag-07` — Monster Buddy Large Bag 07
+- `monster-buddy-medium-bag-02` — Monster Buddy Medium Bag 02
+- `monster-buddy-bag-02` — Monster Buddy Bag 02
+- `monster-buddy-keyring-01` — Monster Buddy Keyring 01
+- `monster-buddy-keyring-02` — Monster Buddy Keyring 02
+- `monster-buddy-keyring-03` — Monster Buddy Keyring 03
+- `monster-buddy-keyring-04` — Monster Buddy Keyring 04
+- `monster-buddy-keyring-05` — Monster Buddy Keyring 05
+- `monster-buddy-small-bag-01` — Monster Buddy Small Bag 01
+- `monster-buddy-small-bag-02` — Monster Buddy Small Bag 02
+- `monster-buddy-small-bag-03` — Monster Buddy Small Bag 03
+- `light-up-party-hat-01` — Light-Up Party Hat 01
+- `light-up-party-hat-02` — Light-Up Party Hat 02
+- `light-up-party-hat-03` — Light-Up Party Hat 03
+- `light-up-party-hat-04` — Light-Up Party Hat 04
+- `light-up-party-hat-05` — Light-Up Party Hat 05
+- `light-up-party-hat-06` — Light-Up Party Hat 06
+- `light-up-party-hat-07` — Light-Up Party Hat 07
+- `light-up-party-hat-08` — Light-Up Party Hat 08
+- `metal-charm-keyring-01` — Metal Charm Keyring 01
+- `metal-charm-keyring-02` — Metal Charm Keyring 02
+- `metal-charm-keyring-03` — Metal Charm Keyring 03
+- `metal-charm-keyring-04` — Metal Charm Keyring 04
+- `mini-shoulder-bag` — Mini Shoulder Bag
+- `pocket-critter-keyring-01` — Pocket Critter Keyring 01
+- `pocket-critter-keyring-02` — Pocket Critter Keyring 02
+- `push-pop-game-01` — Push Pop Game 01
+- `push-pop-game-03` — Push Pop Game 03
+- `star-buddy-cup-01` — Star Buddy Cup 01
+- `star-buddy-cup-02` — Star Buddy Cup 02
+- `star-buddy-cup-03` — Star Buddy Cup 03
+- `star-buddy-cup-04` — Star Buddy Cup 04
+- `star-buddy-cup-05` — Star Buddy Cup 05
+- `star-buddy-cup-06` — Star Buddy Cup 06
+- `star-buddy-plush-01` — Star Buddy Plush 01
+- `star-buddy-plush-02` — Star Buddy Plush 02
+- `star-buddy-plush-03` — Star Buddy Plush 03
+- `star-buddy-plush-04` — Star Buddy Plush 04
+- `star-buddy-plush-05` — Star Buddy Plush 05
+- `halloween-party-hat` — Halloween Party Hat
+- `light-up-shutter-glasses` — Light-Up Shutter Glasses
+- `light-up-party-gloves` — Light-Up Party Gloves
+- `glow-party-hat` — Glow Party Hat
+- `pixel-glow-sword-01` — Pixel Glow Sword 01
+- `pixel-glow-sword-02` — Pixel Glow Sword 02
+- `pixel-glow-sword-03` — Pixel Glow Sword 03
+- `aircraft-tanks-2in1` — 2 In 1 Aircraft & Tanks
+- `super-driver-blue` — Super Driver Musical Wheel (Blue)
+- `fluffy-monster-bag-charm` — Fluffy Monster Bag Charm
+- `gear-train-transparent` — Gear Train Transparent
+- `marine-swat-justice-ship` — Marine Swat Justice Ship
+- `colorful-gear-sport-car` — Colorful Gear Sport Car
+
+0 changed. 239 left at 1.

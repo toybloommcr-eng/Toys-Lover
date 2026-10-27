@@ -1,0 +1,56 @@
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+.yarn/install-state.gz
+
+# testing
+/coverage
+
+# next.js
+/.next/
+/out/
+
+# production
+/build
+
+# misc
+.DS_Store
+*.pem
+
+# debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# env
+.env*.local
+
+# typescript
+*.tsbuildinfo
+next-env.d.ts
+
+# raw source photo packs (site uses public/images)
+/Toys Advance Category/
+/Toys Extra Category/
+/Toys New Categories/
+/Toys Images/
+/Toys Pics/
+/Website logo.jpeg
+/scripts/_*.txt
+/China Items Listings/
+/Innovative category Squeeshies/
+/_china_extract/
+/toybloom-godaddy.zip
+
+.cursor/
+
+
+.playwright-mcp/
+VIDEOS/
+whatsapp-photos/
+
+public/images/products/whatsapp/
+
+# GitHub Actions
+.github/workflows/
