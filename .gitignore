@@ -54,3 +54,6 @@ public/images/products/whatsapp/
 
 # Needs token with workflow scope to push; keep local copy
 .github/workflows/
+
+# client photo dumps (site uses public/images)
+/CLIENT-STOCK/

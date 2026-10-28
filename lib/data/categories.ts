@@ -6,9 +6,9 @@ export const categories: Category[] = [
     slug: "squishies",
     name: "Squishies",
     shortName: "Squishies",
-    description: "Jumbo, Small, Sugar, Wax, Butter, Crunchy, Vaseline, Dumpling and Christmas squishies.",
+    description: "Jumbo, Small, Sugar, Wax, Butter, Crunchy, Vaseline, Dumpling, Christmas and NeeDoh squishies.",
     longDescription:
-      "Every squishy in the shop lives here: Jumbo, Small, Sugar, Wax, Butter, Crunchy, Vaseline, Dumpling and Christmas. One aisle family, priced mostly as boxes of 12.",
+      "Every squishy in the shop lives here: Jumbo, Small, Sugar, Wax, Butter, Crunchy, Vaseline, Dumpling, Christmas and NeeDoh. One aisle family, priced mostly as boxes of 12.",
     image: categoryCovers.squishies,
     accent: "coral",
     ageLabel: "Ages 3+",
@@ -117,6 +117,18 @@ export const categories: Category[] = [
     longDescription:
       "Merry & Bright water squishies, gingerbread and NeeDoh Christmas cubes from the client Christmas squishy stock. Display-box Taba character sets are not listed here. Advent calendars stay under Seasonal.",
     image: categoryCovers["christmas-squishies"],
+    accent: "coral",
+    ageLabel: "Ages 3+",
+    parentSlug: "squishies",
+  },
+  {
+    slug: "needoh-squishies",
+    name: "NeeDoh Squishies",
+    shortName: "NeeDoh",
+    description: "NeeDoh Nice-Sicle, Dream Drop and assorted NeeDoh squeezes. £24 box of 12.",
+    longDescription:
+      "Official-feel NeeDoh sensory squeezes from the Manchester Toys Telegram dump: Nice-Sicle, Dream Drop and mixed assortments. Priced as a box of 12 at £24.",
+    image: categoryCovers.squishies,
     accent: "coral",
     ageLabel: "Ages 3+",
     parentSlug: "squishies",

@@ -40,6 +40,7 @@ const SQUISHY_CATEGORY_SLUGS_FOR_PRICE = new Set([
   "vaseline-squishies",
   "dumpling-squishies",
   "christmas-squishies",
+  "needoh-squishies",
 ]);
 
 /** Small + Butter: listed price is per piece (still min order 12). */
