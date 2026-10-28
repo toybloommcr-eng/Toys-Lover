@@ -3,12 +3,12 @@
 No Vercel. No Cloudflare. No GoDaddy paid hosting required.
 
 ## How it works
-1. GitHub Actions builds the static site from this repo (`out/`).
+1. GitHub Actions builds the static site from this repo (out/).
 2. GitHub Pages hosts the files.
-3. GoDaddy DNS points `toybloom.co.uk` at GitHub Pages.
+3. GoDaddy DNS points 	oybloom.co.uk at GitHub Pages.
 
-## GoDaddy DNS (Domain → DNS)
-Delete parking A records (e.g. `3.33.130.190`, `15.197.148.33`).
+## GoDaddy DNS (Domain -> DNS)
+Delete parking A records (e.g. 3.33.130.190, 15.197.148.33).
 
 Add:
 
@@ -18,14 +18,14 @@ Add:
 | A | @ | 185.199.109.153 | 600 |
 | A | @ | 185.199.110.153 | 600 |
 | A | @ | 185.199.111.153 | 600 |
-| CNAME | www | studyextremeconsultltd-hub.github.io | 600 |
+| CNAME | www | toybloommcr-eng.github.io | 600 |
 
-Keep GoDaddy nameservers (`*.domaincontrol.com`).
+Keep GoDaddy nameservers (*.domaincontrol.com).
 
 ## GitHub
-- Repo: https://github.com/studyextremeconsultltd-hub/Toys-Lover
-- Settings → Pages → Source: **GitHub Actions**
-- Custom domain: `toybloom.co.uk` (Enforce HTTPS after DNS works)
+- Repo: https://github.com/toybloommcr-eng/Toys-Lover (public)
+- Settings -> Pages -> Source: **GitHub Actions**
+- Custom domain: 	oybloom.co.uk (Enforce HTTPS after DNS works)
 
 ## After each update
-Push to `main` — Actions rebuilds and publishes automatically.
+Push to main -- Actions rebuilds and publishes automatically.
