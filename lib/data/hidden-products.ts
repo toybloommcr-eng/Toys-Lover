@@ -3,6 +3,13 @@
  * Data is kept in the stock files; remove a slug here to unhide it.
  */
 export const HIDDEN_PRODUCT_SLUGS: string[] = [
+  // Older non-Telegram squishies removed: squishies are Manchester Toys Telegram stock only.
+  "funky-frights-set",
+  "rk-1141-grinch-buns",
+  "ra2895-17-santa-squishy",
+  "halloween-candy-glitter-squishy",
+  "mystery-dumpling-countdown-calendar",
+  "funny-green-dumpling-advent-calendar",
   "needoh-advent-calendar",
   "yangmei-smoothie-squishy-ball",
   "world-cup-advent-calendar",
