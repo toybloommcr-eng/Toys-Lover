@@ -885,7 +885,7 @@ export const telegramSquishies: Product[] = [
   {
     slug: "sq-dumplings-advent-calendar",
     name: "Mini Squishies Mystery Dumpling Advent Calendar 24pcs",
-    price: 7.50,
+    price: 6.99,
     ageRange: "3-5 years",
     brand: "Toy Bloom Wholesale",
     theme: "Telegram stock",
@@ -1104,8 +1104,8 @@ export const telegramSquishies: Product[] = [
   },
   {
     slug: "sq-christmas-jelly-tree",
-    name: "Christmas Squishy Malt Sugar Toy – Jelly Christmas Trees",
-    price: 42.00,
+    name: "Christmas Glitter Jelly Sugar Maltose Squishy – Christmas Trees",
+    price: 39.00,
     ageRange: "3-5 years",
     brand: "Toy Bloom Wholesale",
     theme: "Telegram stock",
