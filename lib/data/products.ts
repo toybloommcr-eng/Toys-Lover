@@ -8,6 +8,7 @@ import { innovativeStock } from "@/lib/data/innovative-stock";
 import { octoberNewStock } from "@/lib/data/october-new-stock";
 import { telegramStock } from "@/lib/data/telegram-stock";
 import { telegramSquishNewStock } from "@/lib/data/telegram-squish-new-stock";
+import { telegramSquishies } from "@/lib/data/telegram-squishies";
 import { whatsappStock } from "@/lib/data/whatsapp-stock";
 import { videoUnmatchedStock } from "@/lib/data/video-unmatched-stock";
 import { HIDDEN_PRODUCT_SLUGS } from "@/lib/data/hidden-products";
@@ -1754,6 +1755,7 @@ const catalog: Product[] = [
   ...octoberNewStock,
   ...telegramStock,
   ...telegramSquishNewStock,
+  ...telegramSquishies,
   ...whatsappStock,
   ...videoUnmatchedStock,
 ];
@@ -1775,10 +1777,14 @@ const SQUISHY_BOX_SLUGS = new Set<string>([
   "dumpling-squishies",
   "christmas-squishies",
   "needoh-squishies",
+  "fruit-squishies",
+  "food-squishies",
+  "character-squishies",
+  "stretchy-squishies",
 ]);
 
 /** Squishy aisles sold each (listed price = per piece). Min order still 12 pcs. */
-const SQUISHY_EACH_SLUGS = new Set<string>(["small-squishies", "butter-squishies", "jumbo-squishies", "vaseline-squishies", "christmas-squishies"]);
+const SQUISHY_EACH_SLUGS = new Set<string>([]);
 
 /** Keep a non-12 MOQ only for true small packs (1-11 pcs). Factory carton labels are ignored. */
 function isNonDefaultSquishyMoq(product: Product) {
@@ -1788,10 +1794,10 @@ function isNonDefaultSquishyMoq(product: Product) {
   return false;
 }
 
-export const products: Product[] = catalog.filter((product) => !HIDDEN_PRODUCT_SLUGS.includes(product.slug)).map((product) => {
+export const products: Product[] = catalog.filter((product) => !HIDDEN_PRODUCT_SLUGS.includes(product.slug) && !product.slug.startsWith("tg-new-")).map((product) => {
   const categorySlug = assignedCategory[product.slug] ?? product.categorySlug;
   const pieces = product.piecesPerBox && product.piecesPerBox > 0 ? product.piecesPerBox : getPiecesPerBox(product) ?? 1;
-  const keepCustomMoq = isNonDefaultSquishyMoq(product) || (product.slug.startsWith("tg-new-") && Boolean(product.moqLabel));
+  const keepCustomMoq = product.slug.startsWith("sq-") || isNonDefaultSquishyMoq(product) || (product.slug.startsWith("tg-new-") && Boolean(product.moqLabel));
   const soldEach = SQUISHY_EACH_SLUGS.has(categorySlug) && !(product.slug.startsWith("tg-new-") && product.piecesPerBox && product.piecesPerBox >= 12);
   const boxMoq = SQUISHY_BOX_SLUGS.has(categorySlug) && !keepCustomMoq && !soldEach;
   const boxPieces = soldEach ? 1 : keepCustomMoq ? pieces : boxMoq ? 12 : pieces;
@@ -1831,22 +1837,26 @@ export function getProduct(slug: string) {
 
 /** Squishies sub-aisles (parent /shop/squishies lists all of these). */
 export const SQUISHY_CATEGORY_SLUGS = [
-  "jumbo-squishies",
-  "small-squishies",
-  "sugar-squishies",
-  "wax-squishies",
-  "butter-squishies",
-  "crunchy-squishies",
-  "vaseline-squishies",
   "dumpling-squishies",
-  "christmas-squishies",
+  "fruit-squishies",
+  "food-squishies",
+  "character-squishies",
+  "jumbo-squishies",
+  "sugar-squishies",
+  "butter-squishies",
+  "vaseline-squishies",
+  "stretchy-squishies",
   "needoh-squishies",
+  "christmas-squishies",
 ] as const;
 
 const SQUISHY_SLUG_SET = new Set<string>([...SQUISHY_CATEGORY_SLUGS, "squishies"]);
 
 export function getSquishies() {
-  return rankProducts(products.filter((product) => SQUISHY_SLUG_SET.has(product.categorySlug)));
+  // Grouped by type (dumplings, fruit, food, characters ...), never one mixed list.
+  return SQUISHY_CATEGORY_SLUGS.flatMap((slug) =>
+    rankProducts(products.filter((product) => product.categorySlug === slug)),
+  ).concat(rankProducts(products.filter((product) => product.categorySlug === "squishies")));
 }
 
 export function getSquishyCount() {

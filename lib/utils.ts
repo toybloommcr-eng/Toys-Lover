@@ -41,10 +41,15 @@ const SQUISHY_CATEGORY_SLUGS_FOR_PRICE = new Set([
   "dumpling-squishies",
   "christmas-squishies",
   "needoh-squishies",
+  "fruit-squishies",
+  "food-squishies",
+  "character-squishies",
+  "stretchy-squishies",
 ]);
 
 /** Small + Butter: listed price is per piece (still min order 12). */
-const SQUISHY_EACH_CATEGORY_SLUGS = new Set(["small-squishies", "butter-squishies", "jumbo-squishies", "vaseline-squishies", "christmas-squishies"]);
+/** Every squishy now sells as a box of 12 (box price shown). */
+const SQUISHY_EACH_CATEGORY_SLUGS = new Set<string>([]);
 
 export function isSquishyCategorySlug(slug?: string) {
   return Boolean(slug && SQUISHY_CATEGORY_SLUGS_FOR_PRICE.has(slug));

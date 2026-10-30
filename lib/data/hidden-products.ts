@@ -3,6 +3,34 @@
  * Data is kept in the stock files; remove a slug here to unhide it.
  */
 export const HIDDEN_PRODUCT_SLUGS: string[] = [
+  // Replaced by type-sorted box-of-12 lines in telegram-squishies.ts (same Telegram photos).
+  "tg-all-crocs-squishy-162",
+  "tg-stich-squishy-522",
+  "tg-shape-maker-hard-coloured-squishy-hello-kitty-and--523",
+  "tg-squish-multiple-colours-1203",
+  "tg-squeeze-dinosaur-1288",
+  "tg-latest-sugar-squishy-in-different-characters-1860",
+  "tg-lububu-squishy-2083",
+  "tg-christmas-taba-squishy-2409",
+  "tg-k-pop-squishy-2505",
+  "tg-brain-rot-squishy-2602",
+  "tg-dumplings-rainbow-squeeze-cube-3426",
+  "tg-butter-squishy-3436",
+  "tg-dumplings-squishy-case-3451",
+  "tg-needoh-squishies-full-range-3483",
+  "tg-puffer-ball-squishy-in-character-3513",
+  "tg-jumbo-squishy-3519",
+  "tg-trends-squishy-smushers-3529",
+  "tg-needoh-full-range-cube-can-bottle-burger-more-3575",
+  "tg-mini-dumplings-3584",
+  "tg-dumplings-squishy-full-range-3604",
+  "tg-slow-rise-squishy-3640",
+  "tg-all-jumbo-size-squishy-3655",
+  "tg-trendy-vaseline-cheese-3660",
+  "tg-sugar-peanut-with-individual-packaging-3663",
+  "tg-dumplings-advent-calendar-3666",
+  // All telegram-squish-new lines are re-listed as sq-* products.
+
   // Older non-Telegram squishies removed: squishies are Manchester Toys Telegram stock only.
   "funky-frights-set",
   "rk-1141-grinch-buns",

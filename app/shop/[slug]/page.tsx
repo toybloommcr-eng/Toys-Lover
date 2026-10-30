@@ -7,6 +7,7 @@ import { toTitleCase } from "@/lib/utils";
 import { Container } from "@/components/ui/Container";
 import { Section } from "@/components/ui/Section";
 import { CategoryShop } from "@/components/shop/CategoryShop";
+import { ProductGrid } from "@/components/product/ProductGrid";
 import { PageHero } from "@/components/ui/PageHero";
 
 type Props = { params: { slug: string } };
@@ -72,7 +73,28 @@ export default function CategoryPage({ params }: Props) {
               })}
             </div>
           ) : null}
-          <CategoryShop category={category} products={products} />
+          {category.slug === "squishies" ? (
+            <div className="space-y-12">
+              {SQUISHY_CATEGORY_SLUGS.map((slug) => {
+                const sub = getCategory(slug);
+                const items = getProductsByCategory(slug);
+                if (!sub || !items.length) return null;
+                return (
+                  <section key={slug} id={slug}>
+                    <div className="mb-4 flex items-baseline justify-between gap-3">
+                      <h2 className="font-display text-2xl font-bold text-ink-900">{sub.name}</h2>
+                      <Link href={`/shop/${slug}`} className="text-sm font-semibold text-[#E85D8C]">
+                        {items.length} {items.length === 1 ? "product" : "products"} →
+                      </Link>
+                    </div>
+                    <ProductGrid products={items} compact wide />
+                  </section>
+                );
+              })}
+            </div>
+          ) : (
+            <CategoryShop category={category} products={products} />
+          )}
         </Container>
       </Section>
     </>

@@ -45,7 +45,7 @@ export function SquishyLane() {
                 Squishy favourites.
               </h2>
               <p className="mt-2 max-w-md text-sm text-white/95">
-                Every squishy, squeeze, dumpling and butter toy in one aisle. Small and Butter priced each (min 12); other aisles mostly as a box of 12.
+                Manchester Toys squishies sorted by type – dumplings, fruit, food, characters and more. Every squishy sells as a box of 12; the price shown is the box price.
               </p>
               <div className="mt-4 flex flex-wrap gap-2">
                 <Button href="/shop/squishies" size="lg" variant="sun" className="w-fit">
