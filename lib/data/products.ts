@@ -9,6 +9,7 @@ import { octoberNewStock } from "@/lib/data/october-new-stock";
 import { telegramStock } from "@/lib/data/telegram-stock";
 import { telegramSquishNewStock } from "@/lib/data/telegram-squish-new-stock";
 import { telegramSquishies } from "@/lib/data/telegram-squishies";
+import { telegramToysOct29 } from "@/lib/data/telegram-toys-oct29";
 import { whatsappStock } from "@/lib/data/whatsapp-stock";
 import { videoUnmatchedStock } from "@/lib/data/video-unmatched-stock";
 import { HIDDEN_PRODUCT_SLUGS } from "@/lib/data/hidden-products";
@@ -1756,6 +1757,7 @@ const catalog: Product[] = [
   ...telegramStock,
   ...telegramSquishNewStock,
   ...telegramSquishies,
+  ...telegramToysOct29,
   ...whatsappStock,
   ...videoUnmatchedStock,
 ];

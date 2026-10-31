@@ -3,6 +3,7 @@
  * Data is kept in the stock files; remove a slug here to unhide it.
  */
 export const HIDDEN_PRODUCT_SLUGS: string[] = [
+  "tg-needoh-advent-calendar-3671", // replaced by sq-needoh-advent-calendar
   // Replaced by type-sorted box-of-12 lines in telegram-squishies.ts (same Telegram photos).
   "tg-all-crocs-squishy-162",
   "tg-stich-squishy-522",
