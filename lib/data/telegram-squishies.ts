@@ -1105,7 +1105,7 @@ export const telegramSquishies: Product[] = [
   {
     slug: "sq-christmas-jelly-tree",
     name: "Christmas Glitter Jelly Sugar Maltose Squishy – Christmas Trees",
-    price: 39.00,
+    price: 36.00,
     ageRange: "3-5 years",
     brand: "Toy Bloom Wholesale",
     theme: "Telegram stock",
@@ -1125,8 +1125,7 @@ export const telegramSquishies: Product[] = [
   {
     slug: "sq-ocean-shell-vaseline",
     name: "Ocean Shell Squishy – Vaseline-Filled Stretch & Squeeze",
-    price: 0.00,
-    priceTBC: true,
+    price: 42.00,
     ageRange: "3-5 years",
     brand: "Toy Bloom Wholesale",
     theme: "Telegram stock",
@@ -1146,7 +1145,7 @@ export const telegramSquishies: Product[] = [
   {
     slug: "sq-slush-crush-butter",
     name: "Slush Crush Butter Squishy Toy – Colourful Sensory Squeeze Toy",
-    price: 54.00,
+    price: 42.00,
     ageRange: "3-5 years",
     brand: "Toy Bloom Wholesale",
     theme: "Telegram stock",
@@ -1186,8 +1185,7 @@ export const telegramSquishies: Product[] = [
   {
     slug: "sq-highland-cow-advent",
     name: "24 Days of Highland Cow Magic Advent Calendar",
-    price: 0.00,
-    priceTBC: true,
+    price: 6.50,
     ageRange: "3-5 years",
     brand: "Toy Bloom Wholesale",
     theme: "Telegram stock",
