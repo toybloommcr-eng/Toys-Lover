@@ -34,6 +34,7 @@ export function buildStripeCheckoutUrl(options: {
     throw new Error("Stripe Payment Link is not configured.");
   }
   const url = new URL(stripeLink);
+  url.searchParams.set("locale", "en-GB");
   if (options.email) {
     url.searchParams.set("prefilled_email", options.email);
   }
