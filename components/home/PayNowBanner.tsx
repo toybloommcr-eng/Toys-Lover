@@ -24,8 +24,7 @@ export function PayNowBanner() {
               </h2>
               <p className="mt-3 max-w-xl text-sm leading-relaxed text-teal-50 sm:text-base">
                 Tap Pay Now, enter your details, then finish on the official{" "}
-                <strong className="text-white">Stripe</strong> or{" "}
-                <strong className="text-white">PayPal</strong> page — card details never sit on Toy Bloom.
+                <strong className="text-white">Stripe</strong> page — card details never sit on Toy Bloom.
               </p>
 
               <div className="mt-6 flex flex-wrap items-center gap-3">
@@ -39,7 +38,7 @@ export function PayNowBanner() {
                 </Link>
                 <p className="inline-flex items-center gap-1.5 text-xs font-semibold text-teal-50">
                   <Lock className="h-3.5 w-3.5" />
-                  Encrypted handoff to Stripe / PayPal
+                  Encrypted handoff to Stripe
                 </p>
               </div>
             </div>
@@ -54,18 +53,6 @@ export function PayNowBanner() {
                   </div>
                   <span className="rounded-xl bg-[#635BFF] px-3 py-2 font-display text-xs font-black text-white">
                     STRIPE
-                  </span>
-                </div>
-              </div>
-              <div className="rounded-2xl bg-white p-4 text-ink-900 shadow-soft">
-                <div className="flex items-center justify-between gap-3">
-                  <div>
-                    <p className="text-[10px] font-bold uppercase tracking-[0.14em] text-[#003087]">PayPal account</p>
-                    <p className="mt-1 font-display text-lg font-extrabold">{PAYMENT_ACCOUNTS.paypal.label}</p>
-                    <p className="mt-0.5 text-xs text-ink-500">{PAYMENT_ACCOUNTS.paypal.blurb}</p>
-                  </div>
-                  <span className="rounded-xl bg-[#003087] px-3 py-2 font-display text-xs font-black text-white">
-                    PayPal
                   </span>
                 </div>
               </div>

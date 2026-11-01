@@ -6,13 +6,12 @@ import { useCart } from "@/lib/context/CartContext";
 import { cartSubtotal, resolveCartLines } from "@/lib/cart-lines";
 import { formatPrice, isPriceOnRequest, toTitleCase } from "@/lib/utils";
 import { CONTACT } from "@/lib/constants";
-import { buildPaypalCheckoutUrl, buildStripeCheckoutUrl } from "@/lib/payments";
+import { buildStripeCheckoutUrl } from "@/lib/payments";
 import { Input, Select, Textarea } from "@/components/ui/Input";
 import { Button } from "@/components/ui/Button";
 
 const methodLabel: Record<string, string> = {
   stripe: "Stripe",
-  paypal: "PayPal",
   card: "Credit / debit card",
 };
 
@@ -25,7 +24,6 @@ export function CheckoutForm({ method = "stripe" }: { method?: string }) {
   const [busy, setBusy] = useState(false);
   const [error, setError] = useState("");
   const payName = methodLabel[method] ?? "Stripe";
-  const usePaypal = method === "paypal";
 
   if (lines.length === 0) {
     return (
@@ -58,10 +56,6 @@ export function CheckoutForm({ method = "stripe" }: { method?: string }) {
           if (phone.replace(/\D/g, "").length < 7) throw new Error("Please enter a valid phone number.");
           if (total < 1) throw new Error("Add a priced item before paying.");
           const slugs = lines.map(({ product, quantity }) => `${product.slug}x${quantity}`).join(",");
-          if (usePaypal) {
-            window.location.assign(buildPaypalCheckoutUrl(total));
-            return;
-          }
           window.location.assign(
             buildStripeCheckoutUrl({
               email,

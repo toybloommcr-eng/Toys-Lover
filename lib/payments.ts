@@ -10,15 +10,7 @@ export const PAYMENT_ACCOUNTS = {
     label: process.env.NEXT_PUBLIC_STRIPE_ACCOUNT_LABEL || "Toy Bloom · Stripe",
     blurb: "Card checkout on Stripe’s official secure page.",
   },
-  paypal: {
-    id: "paypal" as const,
-    name: "PayPal",
-    label: process.env.NEXT_PUBLIC_PAYPAL_ACCOUNT_LABEL || "Toy Bloom · PayPal",
-    blurb: "PayPal balance or card on PayPal’s official page.",
-  },
 };
-
-export type PayMethodId = keyof typeof PAYMENT_ACCOUNTS;
 
 /** Live Toy Bloom Payment Link (acct_1UReoL1hBb7OocMn). Public URL, not a secret. */
 const LIVE_STRIPE_PAYMENT_LINK = "https://buy.stripe.com/14AcMXaxigANeuIbtSb7y00";
@@ -29,10 +21,6 @@ export function stripePaymentLink(): string {
     return fromEnv;
   }
   return LIVE_STRIPE_PAYMENT_LINK;
-}
-
-export function paypalMeLink(): string {
-  return (process.env.NEXT_PUBLIC_PAYPAL_ME_LINK || "").trim();
 }
 
 /** Build a Stripe Payment Link URL with deposit/cart amount in pence. */
@@ -56,12 +44,4 @@ export function buildStripeCheckoutUrl(options: {
     url.searchParams.set("client_reference_id", options.reference.slice(0, 200));
   }
   return url.toString();
-}
-
-export function buildPaypalCheckoutUrl(amountGbp: number): string {
-  const paypalLink = paypalMeLink();
-  if (!paypalLink.startsWith("https://")) {
-    throw new Error("PayPal.Me link is not configured.");
-  }
-  return `${paypalLink.replace(/\/$/, "")}/${amountGbp.toFixed(2)}`;
 }

@@ -2,15 +2,13 @@
 
 import { useMemo, useState } from "react";
 import { useSearchParams } from "next/navigation";
-import { CheckCircle2, CreditCard, Loader2, Lock, ShieldCheck, Wallet } from "lucide-react";
+import { CheckCircle2, CreditCard, Loader2, Lock, ShieldCheck } from "lucide-react";
 import { CONTACT, SITE_NAME } from "@/lib/constants";
 import {
   DEFAULT_DEPOSIT_GBP,
   DEPOSIT_PRESETS_GBP,
   PAYMENT_ACCOUNTS,
-  buildPaypalCheckoutUrl,
   buildStripeCheckoutUrl,
-  type PayMethodId,
 } from "@/lib/payments";
 import { cn, formatPrice } from "@/lib/utils";
 import { Button } from "@/components/ui/Button";
@@ -27,22 +25,10 @@ function StripeMark({ className }: { className?: string }) {
   );
 }
 
-function PayPalMark({ className }: { className?: string }) {
-  return (
-    <svg className={className} viewBox="0 0 80 20" aria-hidden="true">
-      <text x="0" y="15" fill="currentColor" fontFamily="Arial, sans-serif" fontWeight="800" fontSize="16">
-        PayPal
-      </text>
-    </svg>
-  );
-}
-
 export function DepositPayForm() {
   const params = useSearchParams();
   const status = params.get("status");
-  const provider = params.get("provider");
 
-  const [method, setMethod] = useState<PayMethodId>("stripe");
   const [amount, setAmount] = useState(DEFAULT_DEPOSIT_GBP);
   const [custom, setCustom] = useState("");
   const [busy, setBusy] = useState(false);
@@ -64,8 +50,8 @@ export function DepositPayForm() {
           Deposit received
         </h2>
         <p className="mx-auto mt-3 max-w-md text-sm leading-relaxed text-ink-600">
-          Thanks — your {provider === "paypal" ? "PayPal" : "Stripe"} payment went through on their
-          official page. We’ll confirm your Toy Bloom order by email shortly.
+          Thanks — your Stripe payment went through on their official page. We’ll confirm your Toy
+          Bloom order by email shortly.
         </p>
         <Button href="/shop" className="mt-6" size="lg">
           Continue shopping
@@ -79,7 +65,7 @@ export function DepositPayForm() {
       <div className="rounded-[1.75rem] bg-white p-8 text-center shadow-card ring-1 ring-coral-100 sm:p-10">
         <h2 className="font-display text-2xl font-extrabold text-ink-900">Checkout cancelled</h2>
         <p className="mx-auto mt-3 max-w-md text-sm text-ink-600">
-          No deposit was taken. Your details are still ready — choose Stripe or PayPal below and try again.
+          No deposit was taken. Your details are still ready — try Stripe again below.
         </p>
         <Button href="/pay" className="mt-6" size="lg">
           Try again
@@ -106,18 +92,13 @@ export function DepositPayForm() {
           if (phone.replace(/\D/g, "").length < 7) throw new Error("Please enter a valid phone number.");
           if (!effectiveAmount || effectiveAmount < 1) throw new Error("Enter a deposit of at least £1.");
 
-          if (method === "stripe") {
-            window.location.assign(
-              buildStripeCheckoutUrl({
-                email,
-                amountGbp: effectiveAmount,
-                reference: `${name}|${phone}|${effectiveAmount}|${note}`,
-              }),
-            );
-            return;
-          }
-
-          window.location.assign(buildPaypalCheckoutUrl(effectiveAmount));
+          window.location.assign(
+            buildStripeCheckoutUrl({
+              email,
+              amountGbp: effectiveAmount,
+              reference: `${name}|${phone}|${effectiveAmount}|${note}`,
+            }),
+          );
         } catch (err) {
           setError(err instanceof Error ? err.message : "Payment could not be started.");
           setBusy(false);
@@ -128,7 +109,7 @@ export function DepositPayForm() {
         <div className="flex items-start gap-3 rounded-2xl bg-mint-50 px-4 py-3 text-sm text-mint-900 ring-1 ring-mint-200">
           <ShieldCheck className="mt-0.5 h-5 w-5 shrink-0 text-teal-600" />
           <p>
-            Enter your details here, then you’ll be taken to the <strong>official Stripe or PayPal</strong>{" "}
+            Enter your details here, then you’ll be taken to the <strong>official Stripe</strong>{" "}
             page to pay your deposit. Card numbers are never typed on {SITE_NAME}.
           </p>
         </div>
@@ -191,56 +172,26 @@ export function DepositPayForm() {
       <aside className="h-fit space-y-4 rounded-[1.75rem] bg-gradient-to-br from-teal-700 via-teal-800 to-ink-900 p-6 text-white shadow-lift sm:p-7">
         <p className="text-[11px] font-bold uppercase tracking-[0.18em] text-sun-300">Pay deposit now</p>
         <h2 className="font-display text-2xl font-extrabold leading-tight">
-          Choose your account
+          Pay with Stripe
         </h2>
         <p className="text-sm text-teal-100">
-          You’ll finish on Stripe or PayPal’s own secure checkout — same pattern as professional UK shops.
+          You’ll finish on Stripe’s own secure checkout — same pattern as professional UK shops.
         </p>
 
-        <div className="grid gap-3">
-          {(Object.keys(PAYMENT_ACCOUNTS) as PayMethodId[]).map((id) => {
-            const account = PAYMENT_ACCOUNTS[id];
-            const active = method === id;
-            const Icon = id === "stripe" ? CreditCard : Wallet;
-            return (
-              <button
-                key={id}
-                type="button"
-                onClick={() => setMethod(id)}
-                className={cn(
-                  "flex items-center gap-3 rounded-2xl border-2 p-4 text-left transition",
-                  active
-                    ? "border-sun-300 bg-white text-ink-900 shadow-soft"
-                    : "border-white/20 bg-white/5 text-white hover:bg-white/10",
-                )}
-              >
-                <span
-                  className={cn(
-                    "grid h-11 w-11 place-items-center rounded-xl",
-                    active ? (id === "stripe" ? "bg-[#635BFF] text-white" : "bg-[#003087] text-white") : "bg-white/15",
-                  )}
-                >
-                  <Icon className="h-5 w-5" />
-                </span>
-                <span className="min-w-0 flex-1">
-                  <span className="flex items-center justify-between gap-2">
-                    <span className="font-display text-base font-extrabold">{account.name}</span>
-                    {id === "stripe" ? (
-                      <StripeMark className={cn("h-4 w-14", active ? "text-[#635BFF]" : "text-white/80")} />
-                    ) : (
-                      <PayPalMark className={cn("h-4 w-16", active ? "text-[#003087]" : "text-white/80")} />
-                    )}
-                  </span>
-                  <span className={cn("mt-0.5 block text-xs font-semibold", active ? "text-ink-500" : "text-teal-100")}>
-                    {account.label}
-                  </span>
-                  <span className={cn("mt-1 block text-xs", active ? "text-ink-500" : "text-teal-100/90")}>
-                    {account.blurb}
-                  </span>
-                </span>
-              </button>
-            );
-          })}
+        <div className="flex items-center gap-3 rounded-2xl border-2 border-sun-300 bg-white p-4 text-ink-900 shadow-soft">
+          <span className="grid h-11 w-11 place-items-center rounded-xl bg-[#635BFF] text-white">
+            <CreditCard className="h-5 w-5" />
+          </span>
+          <span className="min-w-0 flex-1">
+            <span className="flex items-center justify-between gap-2">
+              <span className="font-display text-base font-extrabold">{PAYMENT_ACCOUNTS.stripe.name}</span>
+              <StripeMark className="h-4 w-14 text-[#635BFF]" />
+            </span>
+            <span className="mt-0.5 block text-xs font-semibold text-ink-500">
+              {PAYMENT_ACCOUNTS.stripe.label}
+            </span>
+            <span className="mt-1 block text-xs text-ink-500">{PAYMENT_ACCOUNTS.stripe.blurb}</span>
+          </span>
         </div>
 
         <div className="rounded-2xl bg-white/10 px-4 py-3 text-sm">
@@ -265,18 +216,18 @@ export function DepositPayForm() {
           {busy ? (
             <>
               <Loader2 className="h-5 w-5 animate-spin" />
-              Opening {PAYMENT_ACCOUNTS[method].name}…
+              Opening Stripe…
             </>
           ) : (
             <>
-              Pay Now with {PAYMENT_ACCOUNTS[method].name}
+              Pay Now with Stripe
             </>
           )}
         </Button>
 
         <p className="flex items-center justify-center gap-1.5 text-[11px] font-semibold uppercase tracking-wide text-teal-100">
           <Lock className="h-3.5 w-3.5" />
-          Encrypted · Official {PAYMENT_ACCOUNTS[method].name} page next
+          Encrypted · Official Stripe page next
         </p>
       </aside>
     </form>

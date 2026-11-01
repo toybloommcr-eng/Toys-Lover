@@ -59,7 +59,7 @@ export const faqs: FaqItem[] = [
     group: "Payments",
     question: "Which payment methods do you accept?",
     answer:
-      "We accept secure deposits and payments through Stripe (cards) and PayPal. Tap Pay Now, enter your details on Toy Bloom, then finish on Stripe or PayPal’s official checkout. Prices are in pounds sterling.",
+      "We accept secure deposits and payments through Stripe (cards, Apple Pay, Klarna). Tap Pay Now, enter your details on Toy Bloom, then finish on Stripe’s official checkout. Prices are in pounds sterling.",
   },
   {
     group: "Orders",

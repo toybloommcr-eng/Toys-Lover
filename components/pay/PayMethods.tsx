@@ -2,7 +2,7 @@
 
 import { useState } from "react";
 import { useRouter } from "next/navigation";
-import { CreditCard, Lock, ShieldCheck, Wallet } from "lucide-react";
+import { CreditCard, Lock, ShieldCheck } from "lucide-react";
 import { cn, toTitleCase } from "@/lib/utils";
 import { Button } from "@/components/ui/Button";
 
@@ -13,13 +13,6 @@ const methods = [
     text: "Pay by card through Stripe’s encrypted checkout. Card details never sit on our servers.",
     icon: CreditCard,
     tone: "bg-[#635BFF]",
-  },
-  {
-    id: "paypal",
-    name: "PayPal",
-    text: "Continue to PayPal. You can use a PayPal balance or a card stored with them.",
-    icon: Wallet,
-    tone: "bg-[#003087]",
   },
   {
     id: "card",
