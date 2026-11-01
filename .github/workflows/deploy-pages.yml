@@ -35,6 +35,8 @@ jobs:
         run: npm run build
         env:
           NEXT_PUBLIC_SITE_URL: https://toybloom.co.uk
+          NEXT_PUBLIC_STRIPE_PAYMENT_LINK: https://buy.stripe.com/14AcMXaxigANeuIbtSb7y00
+          NEXT_PUBLIC_STRIPE_ACCOUNT_LABEL: Toy Bloom · Stripe
 
       - name: Ensure CNAME in export
         run: echo "toybloom.co.uk" > out/CNAME

@@ -20,8 +20,15 @@ export const PAYMENT_ACCOUNTS = {
 
 export type PayMethodId = keyof typeof PAYMENT_ACCOUNTS;
 
+/** Live Toy Bloom Payment Link (acct_1UReoL1hBb7OocMn). Public URL, not a secret. */
+const LIVE_STRIPE_PAYMENT_LINK = "https://buy.stripe.com/14AcMXaxigANeuIbtSb7y00";
+
 export function stripePaymentLink(): string {
-  return (process.env.NEXT_PUBLIC_STRIPE_PAYMENT_LINK || "").trim();
+  const fromEnv = (process.env.NEXT_PUBLIC_STRIPE_PAYMENT_LINK || "").trim();
+  if (fromEnv.startsWith("https://") && !fromEnv.includes("/test_")) {
+    return fromEnv;
+  }
+  return LIVE_STRIPE_PAYMENT_LINK;
 }
 
 export function paypalMeLink(): string {
