@@ -19,6 +19,7 @@ import { assignedPrice } from "@/lib/data/assigned-prices";
 import { productGallery, shop } from "@/lib/media";
 import { rankProducts } from "@/lib/rank";
 import { getPiecesPerBox } from "@/lib/utils";
+import { crmProducts } from "@/lib/data/crm";
 
 const catalog: Product[] = [
   {
@@ -1796,7 +1797,7 @@ function isNonDefaultSquishyMoq(product: Product) {
   return false;
 }
 
-export const products: Product[] = catalog.filter((product) => !HIDDEN_PRODUCT_SLUGS.includes(product.slug) && !product.slug.startsWith("tg-new-")).map((product) => {
+const legacyProducts: Product[] = catalog.filter((product) => !HIDDEN_PRODUCT_SLUGS.includes(product.slug) && !product.slug.startsWith("tg-new-")).map((product) => {
   const categorySlug = assignedCategory[product.slug] ?? product.categorySlug;
   const pieces = product.piecesPerBox && product.piecesPerBox > 0 ? product.piecesPerBox : getPiecesPerBox(product) ?? 1;
   const keepCustomMoq = product.slug.startsWith("sq-") || isNonDefaultSquishyMoq(product) || (product.slug.startsWith("tg-new-") && Boolean(product.moqLabel));
@@ -1832,6 +1833,9 @@ export const products: Product[] = catalog.filter((product) => !HIDDEN_PRODUCT_S
     images: productGallery(product.slug, categorySlug, product.images),
   };
 });
+
+/** Shop CRM data (data/crm/products.json) wins when present. */
+export const products: Product[] = crmProducts ?? legacyProducts;
 
 export function getProduct(slug: string) {
   return products.find((product) => product.slug === slug);

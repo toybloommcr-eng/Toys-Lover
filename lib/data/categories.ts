@@ -1,7 +1,8 @@
 import type { AgeRange, Category } from "@/lib/types";
 import { categoryCovers } from "@/lib/data/category-covers";
+import { crmCategories } from "@/lib/data/crm";
 
-export const categories: Category[] = [
+const legacyCategories: Category[] = [
   {
     slug: "squishies",
     name: "Squishies",
@@ -387,6 +388,9 @@ export const categories: Category[] = [
     ageLabel: "All ages",
   },
 ];
+
+/** Shop CRM data (data/crm/categories.json) wins when present. */
+export const categories: Category[] = crmCategories ?? legacyCategories;
 
 export function getCategory(slug: string) {
   return categories.find((category) => category.slug === slug);
