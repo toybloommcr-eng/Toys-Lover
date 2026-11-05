@@ -1,0 +1,356 @@
+[
+  {
+    "slug": "squishies",
+    "name": "Squishies",
+    "shortName": "Squishies",
+    "description": "Manchester Toys squishies sorted by type: Dumplings, Fruit, Food, Characters, Jumbo, Sugar, Butter, Vaseline, Stretchy, NeeDoh and Christmas.",
+    "longDescription": "Every squishy is sorted into its own type aisle. All squishies sell as a box of 12 – the price shown is the full box price.",
+    "image": "/images/products/gummy-bear-squeeze-box.jpg",
+    "accent": "coral",
+    "ageLabel": "Ages 3+"
+  },
+  {
+    "slug": "fruit-squishies",
+    "name": "Fruit Squishies",
+    "shortName": "Fruit",
+    "description": "Mango, banana, peach and mixed fruit squishies. Box of 12.",
+    "longDescription": "Mango, banana, peach and mixed fruit squishies. Box of 12.",
+    "image": "/images/products/gummy-bear-squeeze-box.jpg",
+    "accent": "coral",
+    "ageLabel": "Ages 3+",
+    "parentSlug": "squishies"
+  },
+  {
+    "slug": "food-squishies",
+    "name": "Food Squishies",
+    "shortName": "Food",
+    "description": "Burger, pizza, cookie, ice cream, peanut and soda squishies. Box of 12.",
+    "longDescription": "Burger, pizza, cookie, ice cream, peanut and soda squishies. Box of 12.",
+    "image": "/images/products/gummy-bear-squeeze-box.jpg",
+    "accent": "coral",
+    "ageLabel": "Ages 3+",
+    "parentSlug": "squishies"
+  },
+  {
+    "slug": "character-squishies",
+    "name": "Character & Animal Squishies",
+    "shortName": "Characters",
+    "description": "Stitch, Labubu, puffer balls, Smushers and animal squishies. Box of 12.",
+    "longDescription": "Stitch, Labubu, puffer balls, Smushers and animal squishies. Box of 12.",
+    "image": "/images/products/gummy-bear-squeeze-box.jpg",
+    "accent": "coral",
+    "ageLabel": "Ages 3+",
+    "parentSlug": "squishies"
+  },
+  {
+    "slug": "stretchy-squishies",
+    "name": "Stretchy Squishies",
+    "shortName": "Stretchy",
+    "description": "Stretchy swirl squishy tubes. Box of 12.",
+    "longDescription": "Stretchy swirl squishy tubes. Box of 12.",
+    "image": "/images/products/gummy-bear-squeeze-box.jpg",
+    "accent": "coral",
+    "ageLabel": "Ages 3+",
+    "parentSlug": "squishies"
+  },
+  {
+    "slug": "jumbo-squishies",
+    "name": "Jumbo Squishies",
+    "shortName": "Jumbo",
+    "description": "Giant and jumbo-size squishies for big squeezes.",
+    "longDescription": "Oversized fruit, food, pickle, rocket and cheese squishies — the jumbo aisle of Squishies.",
+    "image": "/images/products/gummy-bear-squeeze-box.jpg",
+    "accent": "coral",
+    "ageLabel": "Ages 3+",
+    "parentSlug": "squishies"
+  },
+  {
+    "slug": "small-squishies",
+    "name": "Small Squishies",
+    "shortName": "Small",
+    "description": "Pocket and desk squishies. £1.50 each — minimum order 12 pieces.",
+    "longDescription": "Everyday small squishies, fruit squeezes and sensory jars. Priced each at £1.50, with a minimum order of 12 pieces.",
+    "image": "/images/products/gummy-bear-squeeze-box.jpg",
+    "accent": "coral",
+    "ageLabel": "Ages 3+",
+    "parentSlug": "squishies"
+  },
+  {
+    "slug": "sugar-squishies",
+    "name": "Sugar Squishies",
+    "shortName": "Sugar",
+    "description": "Candy, glitter, cube-squeeze and soft-cute sugar squishies. Minimum order 12 pieces.",
+    "longDescription": "Candy-shaped glitter squeezes, cube boxes, expression squares, block packs and Nice Cream-style sugar squishies. Minimum order 12 pieces.",
+    "image": "/images/products/gummy-bear-squeeze-box.jpg",
+    "accent": "coral",
+    "ageLabel": "Ages 3+",
+    "parentSlug": "squishies"
+  },
+  {
+    "slug": "wax-squishies",
+    "name": "Wax Squishies",
+    "shortName": "Wax",
+    "description": "Crispy chocolate and wax-feel squishies in clear tubs.",
+    "longDescription": "Crisp Choco bars and crispy pastel balls in clear tubs — the wax aisle of Squishies.",
+    "image": "/images/products/gummy-bear-squeeze-box.jpg",
+    "accent": "coral",
+    "ageLabel": "Ages 3+",
+    "parentSlug": "squishies"
+  },
+  {
+    "slug": "crunchy-squishies",
+    "name": "Crunchy Squishies",
+    "shortName": "Crunchy",
+    "description": "Crunchy and crispy sensory squishies.",
+    "longDescription": "Crunchy, crispy and crackle-feel squishies for that satisfying squeeze sound.",
+    "image": "/images/products/gummy-bear-squeeze-box.jpg",
+    "accent": "coral",
+    "ageLabel": "Ages 3+",
+    "parentSlug": "squishies"
+  },
+  {
+    "slug": "vaseline-squishies",
+    "name": "Vaseline Squishies",
+    "shortName": "Vaseline",
+    "description": "Soft Vaseline-style butter and fruit squishies.",
+    "longDescription": "Vaseline butter sticks, fruit Vaseline jars and slow-rise cream squeezes.",
+    "image": "/images/products/gummy-bear-squeeze-box.jpg",
+    "accent": "coral",
+    "ageLabel": "Ages 3+",
+    "parentSlug": "squishies"
+  },
+  {
+    "slug": "dumpling-squishies",
+    "name": "Dumpling Squishies",
+    "shortName": "Dumpling",
+    "description": "Dumpling, bun and Scrunchems mega dumpling sets.",
+    "longDescription": "Face dumplings, festive dumplings, 3D buns and mega rainbow dumpling packs.",
+    "image": "/images/products/gummy-bear-squeeze-box.jpg",
+    "accent": "coral",
+    "ageLabel": "Ages 3+",
+    "parentSlug": "squishies"
+  },
+  {
+    "slug": "butter-squishies",
+    "name": "Butter Squishies",
+    "shortName": "Butter",
+    "description": "Butter bricks and sticks. Priced each — small £2.50, big £4.50. Minimum order 12.",
+    "longDescription": "Slow-rise butter bricks, rainbow butter and big butter sticks. Priced each (small £2.50 / big £4.50), minimum order 12 pieces.",
+    "image": "/images/products/rainbow-butter-squishy.jpg",
+    "accent": "coral",
+    "ageLabel": "Ages 3+",
+    "parentSlug": "squishies"
+  },
+  {
+    "slug": "christmas-squishies",
+    "name": "Christmas Squishies",
+    "shortName": "Christmas",
+    "description": "Real Christmas squishies from the client Christmas folder. Prices on request until confirmed.",
+    "longDescription": "Merry & Bright water squishies, gingerbread and NeeDoh Christmas cubes from the client Christmas squishy stock. Display-box Taba character sets are not listed here. Advent calendars stay under Seasonal.",
+    "image": "/images/products/merry-bright-christmas-water-squishies.jpg",
+    "accent": "coral",
+    "ageLabel": "Ages 3+",
+    "parentSlug": "squishies"
+  },
+  {
+    "slug": "needoh-squishies",
+    "name": "NeeDoh Squishies",
+    "shortName": "NeeDoh",
+    "description": "NeeDoh Nice-Sicle, Dream Drop and assorted NeeDoh squeezes. £24 box of 12.",
+    "longDescription": "Official-feel NeeDoh sensory squeezes from the Manchester Toys Telegram dump: Nice-Sicle, Dream Drop and mixed assortments. Priced as a box of 12 at £24.",
+    "image": "/images/products/gummy-bear-squeeze-box.jpg",
+    "accent": "coral",
+    "ageLabel": "Ages 3+",
+    "parentSlug": "squishies"
+  },
+  {
+    "slug": "cars-vehicles",
+    "name": "Cars & Vehicles",
+    "shortName": "Cars & Vehicles",
+    "description": "Die-cast cars, trucks, aircraft and remote-control vehicles.",
+    "longDescription": "Metal model cars, fire trucks, stunt racers, aircraft and other vehicles with a clear photo and a UK price on every card.",
+    "image": "/images/products/telegram/tg-mercedes-metal-model-car-with-light-sound-22cm-725-1.webp",
+    "accent": "sky",
+    "ageLabel": "Ages 3–12"
+  },
+  {
+    "slug": "dolls",
+    "name": "Dolls",
+    "shortName": "Dolls",
+    "description": "Fashion dolls, baby dolls, princess dolls and doll playsets.",
+    "longDescription": "Dolls you can dress, care for and take on a day out — fashion dolls, baby dolls, princess dolls, cry baby dolls and doll playsets, each with its own photo.",
+    "image": "/images/categories/dolls.jpg",
+    "accent": "coral",
+    "ageLabel": "Ages 3–8"
+  },
+  {
+    "slug": "plush-soft-toys",
+    "name": "Plush & Soft Toys",
+    "shortName": "Plush & Soft Toys",
+    "description": "Teddies, character plush and hug-size soft toys.",
+    "longDescription": "Soft toys and plush characters — teddies, Stitch, Bluey and other hug-size friends. Labubu has its own aisle. Plush keyrings stay with the keyrings.",
+    "image": "/images/products/telegram/tg-soft-toys-stich-and-bluye-with-cover-zip-685-1.webp",
+    "accent": "coral",
+    "ageLabel": "Ages 0–8"
+  },
+  {
+    "slug": "labubu",
+    "name": "Labubu",
+    "shortName": "Labubu",
+    "description": "Labubu plush, outfits, bags and surprise boxes.",
+    "longDescription": "The Labubu aisle: plush, outfits, bags, surprise boxes and big sizes. Squishy Labubu stays with the squishies.",
+    "image": "/images/categories/labubu.jpg",
+    "accent": "mint",
+    "ageLabel": "Ages 6+"
+  },
+  {
+    "slug": "action-figures",
+    "name": "K-Pop & Collectible Figures",
+    "shortName": "K-Pop & Figures",
+    "description": "K-Pop sets, Sonny Angels and collectible figures.",
+    "longDescription": "K-Pop dolls and figures, Sonny Angels, character figures and surprise figure packs. Keyrings stay in the keyring aisle.",
+    "image": "/images/products/telegram/tg-k-pop-figures-2558-1.webp",
+    "accent": "sun",
+    "ageLabel": "Ages 6+"
+  },
+  {
+    "slug": "fidget-spinners",
+    "name": "Fidget & Sensory",
+    "shortName": "Fidget & Sensory",
+    "description": "Spinners, slime, pop-its and stress toys.",
+    "longDescription": "Desk fidgets that are not squishies: spinners, slime, pop-its, push-pops and stress toys.",
+    "image": "/images/products/telegram/tg-mini-slimes-1181-1.webp",
+    "accent": "sky",
+    "ageLabel": "Ages 6+"
+  },
+  {
+    "slug": "light-up-toys",
+    "name": "Light-Up Toys",
+    "shortName": "Light-Up Toys",
+    "description": "LED toys, glow swords, lanterns and light-up wands.",
+    "longDescription": "Toys picked for the light: swords, wands, lanterns, glasses and other LED play. Christmas light sets sit in Seasonal.",
+    "image": "/images/categories/light-up-toys.jpg",
+    "accent": "sun",
+    "ageLabel": "Ages 3–12"
+  },
+  {
+    "slug": "novelty-keyrings",
+    "name": "Keyrings & Bag Charms",
+    "shortName": "Keyrings & Charms",
+    "description": "Keyrings, bag charms and clip-on characters.",
+    "longDescription": "Bag charms and keyrings, from soft critters to metal clips. One listing per style so the charm is easy to see.",
+    "image": "/images/products/metal-charm-keyring-01.jpg",
+    "accent": "coral",
+    "ageLabel": "Ages 6+"
+  },
+  {
+    "slug": "bubble-blowers",
+    "name": "Bubbles & Water Toys",
+    "shortName": "Bubbles & Water",
+    "description": "Bubble guns, bubble cameras and splash water toys.",
+    "longDescription": "Garden bubbles and water play: bubble guns, animal bubble cameras and splash balls.",
+    "image": "/images/products/telegram/tg-character-bubble-toy-2026-1.webp",
+    "accent": "sky",
+    "ageLabel": "Ages 3–8"
+  },
+  {
+    "slug": "outdoor-sports",
+    "name": "Outdoor & Sports",
+    "shortName": "Outdoor & Sports",
+    "description": "Balls, blasters, bikes and garden sports.",
+    "longDescription": "Outside play: balls, blasters, skateboards, bikes and other garden sports.",
+    "image": "/images/products/telegram/tg-designs-off-football-1022-1.webp",
+    "accent": "mint",
+    "ageLabel": "Ages 3–12"
+  },
+  {
+    "slug": "building-sets",
+    "name": "Building & Construction",
+    "shortName": "Building",
+    "description": "Blocks, tracks and construction sets.",
+    "longDescription": "Building sets, block packs and track play. Slow-rise food blocks stay with the squishies.",
+    "image": "/images/products/telegram/tg-dinasour-track-848-1.webp",
+    "accent": "sun",
+    "ageLabel": "Ages 3–12"
+  },
+  {
+    "slug": "arts-crafts",
+    "name": "Arts, Crafts & Stationery",
+    "shortName": "Arts & Stationery",
+    "description": "Pens, stickers, calendars and making kits.",
+    "longDescription": "Stationery and making: gel pens, stickers, calendars and craft sets.",
+    "image": "/images/products/telegram/tg-calendar-2439-1.webp",
+    "accent": "sun",
+    "ageLabel": "Ages 3–12"
+  },
+  {
+    "slug": "role-play",
+    "name": "Role Play & Pretend Play",
+    "shortName": "Role Play",
+    "description": "Kitchens, salons, castles and pretend-play sets.",
+    "longDescription": "Pretend play: kitchens, salons, castles, doctor kits and other dress-up sets.",
+    "image": "/images/categories/role-play.jpg",
+    "accent": "coral",
+    "ageLabel": "Ages 3–8"
+  },
+  {
+    "slug": "board-games",
+    "name": "Games & Cards",
+    "shortName": "Games & Cards",
+    "description": "Playing cards, table games and puzzles.",
+    "longDescription": "Cards, table games and puzzles for a kitchen-table round.",
+    "image": "/images/products/telegram/tg-3d-plastic-playing-cards-7-1.webp",
+    "accent": "mint",
+    "ageLabel": "Ages 4–12"
+  },
+  {
+    "slug": "baby-toddler",
+    "name": "Baby & Toddler",
+    "shortName": "Baby & Toddler",
+    "description": "First gyms, mats and push toys for the youngest players.",
+    "longDescription": "Early play: activity gyms, musical mats and first ride-ons sized for toddlers.",
+    "image": "/images/products/telegram/tg-kids-push-car-age-1-3-970-1.webp",
+    "accent": "sky",
+    "ageLabel": "Ages 0–2"
+  },
+  {
+    "slug": "bags-accessories",
+    "name": "Bags & Accessories",
+    "shortName": "Bags & Accessories",
+    "description": "Character bags, purses and small accessories.",
+    "longDescription": "Bags, purses, trolleys and character accessories, listed one style at a time.",
+    "image": "/images/products/telegram/tg-lol-surprise-glitter-set-trolley-bag-151-1.webp",
+    "accent": "coral",
+    "ageLabel": "Ages 3–12"
+  },
+  {
+    "slug": "party-spotlight",
+    "name": "Party, Hats & Dress-Up",
+    "shortName": "Party & Hats",
+    "description": "Party hats, masks, flags and dress-up.",
+    "longDescription": "Hats, masks, flags and dress-up for parties. Halloween and Christmas pieces also appear under Seasonal.",
+    "image": "/images/categories/party-spotlight.jpg",
+    "accent": "sun",
+    "ageLabel": "Ages 3–12"
+  },
+  {
+    "slug": "seasonal",
+    "name": "Seasonal (Halloween & Christmas)",
+    "shortName": "Seasonal",
+    "description": "Halloween and Christmas toys, lights and advent calendars.",
+    "longDescription": "Halloween and Christmas: masks, advent calendars, Santa toys and festive lights. Seasonal squishies stay in Squishies.",
+    "image": "/images/categories/seasonal.jpg",
+    "accent": "coral",
+    "ageLabel": "Ages 3+"
+  },
+  {
+    "slug": "home-gifts",
+    "name": "Home & Gifts",
+    "shortName": "Home & Gifts",
+    "description": "Blankets, fans, cups, bottles, frames and gift-home bits.",
+    "longDescription": "Home and gift lines: bedding, blankets, towels, cups, bottles, fans, cushion covers, umbrellas and frames.",
+    "image": "/images/categories/home-gifts.jpg",
+    "accent": "mint",
+    "ageLabel": "All ages"
+  }
+]
