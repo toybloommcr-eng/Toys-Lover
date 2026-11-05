@@ -1,0 +1,24 @@
+{
+  "shopName": "Toy Bloom",
+  "currency": "GBP",
+  "logo": "https://toybloom.co.uk/icon.png",
+  "returnAddress": {
+    "line1": "Toy Bloom",
+    "line2": "",
+    "city": "Manchester",
+    "postcode": "",
+    "country": "United Kingdom"
+  },
+  "shippingMethods": [
+    {
+      "name": "Standard",
+      "price": 3.99,
+      "cost": 2.7
+    },
+    {
+      "name": "Express",
+      "price": 6.99,
+      "cost": 5
+    }
+  ]
+}
