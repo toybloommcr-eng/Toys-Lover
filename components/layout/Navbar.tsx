@@ -51,9 +51,9 @@ export function Navbar() {
 
   return (
     <header className="sticky top-0 z-50 border-b border-cream-200/80 bg-white/95 backdrop-blur-md">
-      <div className={cn("px-4 py-1 text-[11px] font-semibold text-white sm:py-1.5 sm:text-xs", christmas ? "bg-gradient-to-r from-emerald-800 via-emerald-700 to-red-800" : "bg-coral-500")}>
+      <div className="bg-coral-500 px-4 py-1 text-[11px] font-semibold text-white sm:py-1.5 sm:text-xs">
         <div className="mx-auto flex max-w-7xl items-center justify-between gap-2">
-          <p>{christmas ? "Merry Christmas - festive stock up front until Boxing Day" : `Free UK shipping over £${FREE_SHIPPING_GBP}`}</p>
+          <p>{`Free UK shipping over £${FREE_SHIPPING_GBP}`}</p>
           <p className="hidden items-center gap-1 sm:inline-flex">
             <MapPin className="h-3.5 w-3.5" aria-hidden />
             United Kingdom

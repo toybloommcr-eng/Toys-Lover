@@ -16,7 +16,7 @@ export function ChristmasBanner() {
       <Container className="flex flex-wrap items-center justify-between gap-3 py-2.5 sm:py-3">
         <p className="inline-flex items-center gap-2 font-display text-sm font-extrabold tracking-tight sm:text-base">
           <Snowflake className="h-4 w-4 shrink-0 text-sky-200" aria-hidden />
-          Merry Christmas from Toy Bloom - festive stock is up front until Boxing Day
+          Merry Christmas from Toy Bloom
         </p>
         <div className="flex flex-wrap gap-2">
           <Link
