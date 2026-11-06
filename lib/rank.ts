@@ -1,4 +1,5 @@
 import type { Product } from "@/lib/types";
+import { isChristmasProduct, isChristmasSeason } from "@/lib/christmas";
 
 export function hasClearPrice(product: Pick<Product, "price" | "priceTBC">) {
   return !product.priceTBC && product.price > 0;
@@ -41,6 +42,8 @@ export function rankScore(product: Product) {
   score += Math.min(product.images?.length ?? 0, 4) * 6;
   if (product.isBestSeller) score += 15;
   if (product.slug.startsWith("tg-")) score += 10;
+  // During UK Christmas season, festive stock leads every default listing.
+  if (isChristmasSeason() && isChristmasProduct(product)) score += 80;
   return score;
 }
 

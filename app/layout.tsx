@@ -11,6 +11,7 @@ import {
 import { Providers } from "@/lib/context/Providers";
 import { Navbar } from "@/components/layout/Navbar";
 import { Footer } from "@/components/layout/Footer";
+import { ChristmasTheme } from "@/components/home/ChristmasTheme";
 import "./globals.css";
 
 const fredoka = Fredoka({
@@ -155,6 +156,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
           Skip to content
         </a>
         <Providers>
+          <ChristmasTheme />
           <Navbar />
           <main id="main">{children}</main>
           <Footer />

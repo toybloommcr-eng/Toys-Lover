@@ -1,4 +1,8 @@
+"use client";
+
+import { useMemo } from "react";
 import type { Product } from "@/lib/types";
+import { rankProducts } from "@/lib/rank";
 import { ProductTile } from "@/components/product/ProductTile";
 import { ProductCard } from "@/components/product/ProductCard";
 
@@ -11,7 +15,9 @@ export function ProductGrid({
   compact?: boolean;
   wide?: boolean;
 }) {
-  if (products.length === 0) {
+  const sorted = useMemo(() => rankProducts(products), [products]);
+
+  if (sorted.length === 0) {
     return (
       <p className="rounded-3xl border border-dashed border-ink-200 bg-white p-10 text-center text-ink-500">
         No products in this aisle yet.
@@ -29,7 +35,7 @@ export function ProductGrid({
           : "grid grid-cols-2 gap-2.5 sm:grid-cols-3 sm:gap-3 lg:grid-cols-4 xl:grid-cols-5 2xl:grid-cols-6"
       }
     >
-      {products.map((product) => (
+      {sorted.map((product) => (
         <Card key={product.slug} product={product} />
       ))}
     </div>

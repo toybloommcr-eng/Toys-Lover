@@ -9,8 +9,9 @@ import { useWishlist } from "@/lib/context/WishlistContext";
 import { FREE_SHIPPING_GBP } from "@/lib/constants";
 import { cn } from "@/lib/utils";
 import { Logo } from "@/components/layout/Logo";
+import { isChristmasSeason } from "@/lib/christmas";
 
-const links = [
+const baseLinks = [
   { href: "/shop/squishies", label: "Squishies" },
   { href: "/shop", label: "Shop All" },
   { href: "/#all-categories", label: "Toys" },
@@ -23,6 +24,19 @@ export function Navbar() {
   const { itemCount } = useCart();
   const { count: wishCount } = useWishlist();
   const [open, setOpen] = useState(false);
+  const [christmas, setChristmas] = useState(false);
+
+  useEffect(() => {
+    setChristmas(isChristmasSeason());
+  }, []);
+
+  const links = christmas
+    ? [
+        { href: "/shop/christmas-squishies", label: "Christmas" },
+        { href: "/shop/seasonal", label: "Seasonal" },
+        ...baseLinks.filter((l) => l.href !== "/shop/seasonal"),
+      ]
+    : baseLinks;
 
   useEffect(() => {
     setOpen(false);
@@ -37,9 +51,9 @@ export function Navbar() {
 
   return (
     <header className="sticky top-0 z-50 border-b border-cream-200/80 bg-white/95 backdrop-blur-md">
-      <div className="bg-coral-500 px-4 py-1 text-[11px] font-semibold text-white sm:py-1.5 sm:text-xs">
+      <div className={cn("px-4 py-1 text-[11px] font-semibold text-white sm:py-1.5 sm:text-xs", christmas ? "bg-gradient-to-r from-emerald-800 via-emerald-700 to-red-800" : "bg-coral-500")}>
         <div className="mx-auto flex max-w-7xl items-center justify-between gap-2">
-          <p>Free UK shipping over £{FREE_SHIPPING_GBP}</p>
+          <p>{christmas ? "Merry Christmas - festive stock up front until Boxing Day" : `Free UK shipping over £${FREE_SHIPPING_GBP}`}</p>
           <p className="hidden items-center gap-1 sm:inline-flex">
             <MapPin className="h-3.5 w-3.5" aria-hidden />
             United Kingdom
@@ -62,7 +76,7 @@ export function Navbar() {
                 data-active={active ? "true" : "false"}
                 className={cn(
                   "nav-link-glow rounded-full px-4 py-2.5 font-display text-lg font-extrabold tracking-tight hover:bg-cream-50 xl:px-5 xl:text-xl",
-                  link.href === "/shop/squishies" && "bg-gradient-to-r from-[#FFE4F0] to-[#FFF0E8] ring-1 ring-[#E85D8C]/35",
+                  (link.href === "/shop/squishies" || link.href === "/shop/christmas-squishies") && "bg-gradient-to-r from-[#FFE4F0] to-[#FFF0E8] ring-1 ring-[#E85D8C]/35",
                   active && "bg-cream-100",
                   active && link.href === "/shop/squishies" && "bg-[#E85D8C] text-white ring-[#E85D8C]",
                 )}

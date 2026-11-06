@@ -516,3 +516,27 @@ img.product-shot,
     animation: none !important;
   }
 }
+
+
+/* Christmas season chrome — toggled by ChristmasTheme (Europe/London, off after 25 Dec) */
+html.christmas-season body {
+  background-image:
+    radial-gradient(circle at 12% 8%, rgba(220, 38, 38, 0.06), transparent 28%),
+    radial-gradient(circle at 88% 4%, rgba(22, 163, 74, 0.07), transparent 26%);
+}
+
+html.christmas-season .christmas-banner {
+  box-shadow: 0 8px 24px -12px rgba(127, 29, 29, 0.45);
+}
+
+html.christmas-season header.sticky {
+  border-bottom-color: rgba(22, 101, 52, 0.25);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html.christmas-season .christmas-banner,
+  html.christmas-season .christmas-lane {
+    transition: none !important;
+    animation: none !important;
+  }
+}
