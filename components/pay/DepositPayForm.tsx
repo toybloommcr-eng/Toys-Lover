@@ -89,14 +89,30 @@ export function DepositPayForm() {
           const note = String(form.get("note") || "").trim();
           if (name.length < 2) throw new Error("Please enter your full name.");
           if (!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email)) throw new Error("Please enter a valid email address.");
+          const street = String(form.get("street") || "").trim();
+          const city = String(form.get("city") || "").trim();
+          const region = String(form.get("region") || "").trim();
+          const postcode = String(form.get("postcode") || "").trim().toUpperCase();
+          const country = String(form.get("country") || "").trim();
           if (phone.replace(/\D/g, "").length < 7) throw new Error("Please enter a valid phone number.");
+          if (street.length < 3) throw new Error("Please enter the shipping street address.");
+          if (city.length < 2) throw new Error("Please enter the shipping city / town.");
+          if (postcode.length < 5) throw new Error("Please enter a valid UK postcode.");
+          if (country.length < 2) throw new Error("Please enter the shipping country.");
           if (!effectiveAmount || effectiveAmount < 1) throw new Error("Enter a deposit of at least £1.");
+
+          const ship = `${street}, ${city}${region ? `, ${region}` : ""}, ${postcode}, ${country}`;
+          const reference = [name, phone, String(effectiveAmount), ship, note]
+            .map((part) => part.replace(/\|/g, "/").trim())
+            .filter(Boolean)
+            .join("|")
+            .slice(0, 200);
 
           window.location.assign(
             buildStripeCheckoutUrl({
               email,
               amountGbp: effectiveAmount,
-              reference: `${name}|${phone}|${effectiveAmount}|${note}`,
+              reference,
             }),
           );
         } catch (err) {
@@ -125,6 +141,20 @@ export function DepositPayForm() {
             placeholder={CONTACT.phone}
             className="sm:col-span-2"
           />
+        </div>
+
+        <div>
+          <p className="font-display text-sm font-semibold text-ink-800">Shipping address</p>
+          <p className="mt-1 text-xs text-ink-500">Required before payment so we know where to send the order.</p>
+          <div className="mt-3 space-y-4">
+            <Input label="Street address" name="street" required autoComplete="street-address" placeholder="House number and street" />
+            <div className="grid gap-4 sm:grid-cols-2">
+              <Input label="City / town" name="city" required autoComplete="address-level2" />
+              <Input label="County / region" name="region" autoComplete="address-level1" placeholder="Optional" />
+              <Input label="Postcode" name="postcode" required autoComplete="postal-code" placeholder="e.g. M1 1AE" />
+              <Input label="Country" name="country" required autoComplete="country-name" defaultValue="United Kingdom" />
+            </div>
+          </div>
         </div>
 
         <div>

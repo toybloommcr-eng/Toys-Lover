@@ -15,6 +15,14 @@ const methodLabel: Record<string, string> = {
   card: "Credit / debit card",
 };
 
+function compactRef(parts: string[]) {
+  return parts
+    .map((p) => p.replace(/\|/g, "/").trim())
+    .filter(Boolean)
+    .join("|")
+    .slice(0, 200);
+}
+
 export function CheckoutForm({ method = "stripe" }: { method?: string }) {
   const { items, itemCount } = useCart();
   const lines = useMemo(() => resolveCartLines(items), [items]);
@@ -50,17 +58,28 @@ export function CheckoutForm({ method = "stripe" }: { method?: string }) {
           const name = String(form.get("name") || "").trim();
           const email = String(form.get("email") || "").trim().toLowerCase();
           const phone = String(form.get("phone") || "").trim();
+          const street = String(form.get("street") || "").trim();
+          const city = String(form.get("city") || "").trim();
+          const region = String(form.get("region") || "").trim();
+          const postcode = String(form.get("postcode") || "").trim().toUpperCase();
+          const country = String(form.get("country") || "").trim();
+          const delivery = String(form.get("delivery") || "standard").trim();
           const note = String(form.get("note") || "").trim();
           if (name.length < 2) throw new Error("Please enter your full name.");
           if (!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email)) throw new Error("Please enter a valid email address.");
           if (phone.replace(/\D/g, "").length < 7) throw new Error("Please enter a valid phone number.");
+          if (street.length < 3) throw new Error("Please enter the shipping street address.");
+          if (city.length < 2) throw new Error("Please enter the shipping city / town.");
+          if (postcode.length < 5) throw new Error("Please enter a valid UK postcode.");
+          if (country.length < 2) throw new Error("Please enter the shipping country.");
           if (total < 1) throw new Error("Add a priced item before paying.");
           const slugs = lines.map(({ product, quantity }) => `${product.slug}x${quantity}`).join(",");
+          const ship = `${street}, ${city}${region ? `, ${region}` : ""}, ${postcode}, ${country} (${delivery})`;
           window.location.assign(
             buildStripeCheckoutUrl({
               email,
               amountGbp: total,
-              reference: `${name}|${phone}|${total}|${slugs}|${note}`,
+              reference: compactRef([name, phone, String(total), ship, slugs, note]),
             }),
           );
         } catch (err) {
@@ -72,32 +91,36 @@ export function CheckoutForm({ method = "stripe" }: { method?: string }) {
       <div className="space-y-6 rounded-3xl bg-white p-6 shadow-soft">
         <h2 className="heading-glow font-display text-xl font-extrabold">Contact</h2>
         <div className="grid gap-4 sm:grid-cols-2">
-          <Input label="Full name" name="name" required />
-          <Input label="Email" name="email" type="email" required />
-          <Input label="Phone" name="phone" required defaultValue="" placeholder={CONTACT.phone} />
+          <Input label="Full name" name="name" required autoComplete="name" />
+          <Input label="Email" name="email" type="email" required autoComplete="email" />
+          <Input label="Phone" name="phone" required autoComplete="tel" defaultValue="" placeholder={CONTACT.phone} />
         </div>
-        <h2 className="heading-glow font-display text-xl font-extrabold">Address</h2>
-        <Input label="Street address" name="street" required />
-        <div className="grid gap-4 sm:grid-cols-3">
-          <Input label="City" name="city" required defaultValue={CONTACT.city} />
-          <Input label="Region" name="region" required defaultValue={CONTACT.region} />
-          <Input label="Country" name="country" required defaultValue={CONTACT.country} />
+
+        <h2 className="heading-glow font-display text-xl font-extrabold">Shipping address</h2>
+        <p className="text-sm text-ink-500">Where should we send this order? Required before payment.</p>
+        <Input label="Street address" name="street" required autoComplete="street-address" placeholder="House number and street" />
+        <div className="grid gap-4 sm:grid-cols-2">
+          <Input label="City / town" name="city" required autoComplete="address-level2" />
+          <Input label="County / region" name="region" autoComplete="address-level1" placeholder="Optional" />
+          <Input label="Postcode" name="postcode" required autoComplete="postal-code" placeholder="e.g. M1 1AE" />
+          <Input label="Country" name="country" required autoComplete="country-name" defaultValue="United Kingdom" />
         </div>
         <Select label="Delivery" name="delivery" defaultValue="standard">
           <option value="standard">Standard (2–5 days)</option>
           <option value="pickup">Pickup in {CONTACT.city}</option>
         </Select>
+
+        <Textarea label="Gift note (optional)" name="note" placeholder="Happy birthday…" />
+
         <h2 className="heading-glow font-display text-xl font-extrabold">
           Payment · {toTitleCase(payName)}
         </h2>
         <div className="flex items-start gap-2 rounded-2xl bg-mint-50 p-4 text-sm text-mint-800">
           <Lock className="mt-0.5 h-4 w-4 shrink-0" />
           <p>
-            Card numbers are not collected on this form. You finish on {payName}’s official
-            checkout so we never see full card data.
+            After your shipping address is filled in, you finish on {payName}’s official checkout so we never see full card data.
           </p>
         </div>
-        <Textarea label="Gift note (optional)" name="note" placeholder="Happy birthday…" />
       </div>
       <aside className="h-fit rounded-3xl bg-white p-6 shadow-card">
         <h2 className="heading-glow font-display text-lg font-extrabold">
