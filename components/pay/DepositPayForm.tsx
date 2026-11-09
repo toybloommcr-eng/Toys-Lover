@@ -101,12 +101,8 @@ export function DepositPayForm() {
           if (country.length < 2) throw new Error("Please enter the shipping country.");
           if (!effectiveAmount || effectiveAmount < 1) throw new Error("Enter a deposit of at least £1.");
 
-          const ship = `${street}, ${city}${region ? `, ${region}` : ""}, ${postcode}, ${country}`;
-          const reference = [name, phone, String(effectiveAmount), ship, note]
-            .map((part) => part.replace(/\|/g, "/").trim())
-            .filter(Boolean)
-            .join("|")
-            .slice(0, 200);
+          // Stripe only accepts letters, digits, "-" and "_" here; name, phone and address are collected by Stripe.
+          const reference = "deposit";
 
           window.location.assign(
             buildStripeCheckoutUrl({

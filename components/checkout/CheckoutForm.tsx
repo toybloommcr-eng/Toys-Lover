@@ -15,12 +15,29 @@ const methodLabel: Record<string, string> = {
   card: "Credit / debit card",
 };
 
-function compactRef(parts: string[]) {
-  return parts
-    .map((p) => p.replace(/\|/g, "/").trim())
-    .filter(Boolean)
-    .join("|")
-    .slice(0, 200);
+/**
+ * Stripe Payment Links only accept letters, digits, "-" and "_" (max 200 chars) in
+ * client_reference_id; anything else is silently dropped. Format:
+ *   <slug>_x<qty>__<slug>_x<qty>[__more][__pickup]
+ * Name, phone and address are collected by Stripe itself.
+ */
+const REF_MAX = 200;
+function itemsRef(items: { slug: string; quantity: number }[], extra: string[] = []) {
+  const tail = extra.map((t) => `__${t}`).join("");
+  const parts = items.map(({ slug, quantity }) => {
+    const s = slug.replace(/[^A-Za-z0-9-]/g, "-") || "item";
+    return `${s}_x${Math.max(1, Math.floor(quantity) || 1)}`;
+  });
+  const full = parts.join("__") + tail;
+  if (full.length <= REF_MAX) return full;
+  const more = "__more" + tail;
+  let out = "";
+  for (const p of parts) {
+    const next = out ? `${out}__${p}` : p;
+    if (next.length + more.length > REF_MAX) break;
+    out = next;
+  }
+  return ((out || "items") + more).slice(0, REF_MAX);
 }
 
 export function CheckoutForm({ method = "stripe" }: { method?: string }) {
@@ -73,13 +90,14 @@ export function CheckoutForm({ method = "stripe" }: { method?: string }) {
           if (postcode.length < 5) throw new Error("Please enter a valid UK postcode.");
           if (country.length < 2) throw new Error("Please enter the shipping country.");
           if (total < 1) throw new Error("Add a priced item before paying.");
-          const slugs = lines.map(({ product, quantity }) => `${product.slug}x${quantity}`).join(",");
-          const ship = `${street}, ${city}${region ? `, ${region}` : ""}, ${postcode}, ${country} (${delivery})`;
           window.location.assign(
             buildStripeCheckoutUrl({
               email,
               amountGbp: total,
-              reference: compactRef([name, phone, String(total), ship, slugs, note]),
+              reference: itemsRef(
+                lines.map(({ product, quantity }) => ({ slug: product.slug, quantity })),
+                delivery === "pickup" ? ["pickup"] : [],
+              ),
             }),
           );
         } catch (err) {
