@@ -100,8 +100,8 @@ export function CartView() {
           <span>Total</span>
           <span>{formatPrice(total)}</span>
         </p>
-        <Button href="/pay" size="lg" className="mt-6 w-full">
-          Buy Online
+        <Button href="/checkout" size="lg" className="mt-6 w-full">
+          Checkout
         </Button>
       </aside>
 
@@ -111,8 +111,8 @@ export function CartView() {
             <p className="text-xs text-ink-500">{itemCount} items</p>
             <p className="font-display text-lg font-extrabold text-ink-900">{formatPrice(total)}</p>
           </div>
-          <Button href="/pay" size="lg" className="shrink-0 px-6">
-            Buy Online
+          <Button href="/checkout" size="lg" className="shrink-0 px-6">
+            Checkout
           </Button>
         </div>
       </div>

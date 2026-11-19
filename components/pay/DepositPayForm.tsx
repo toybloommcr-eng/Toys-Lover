@@ -102,7 +102,16 @@ export function DepositPayForm() {
           if (!effectiveAmount || effectiveAmount < 1) throw new Error("Enter a deposit of at least £1.");
 
           // Stripe only accepts letters, digits, "-" and "_" here; name, phone and address are collected by Stripe.
-          const reference = "deposit";
+          const reasonText = String(form.get("reason") || "").trim();
+          if (reasonText.length < 3) throw new Error("Please tell us what you are paying for.");
+          const reasonSlug = reasonText
+            .toLowerCase()
+            .normalize("NFKD")
+            .replace(/[^a-z0-9]+/g, "-")
+            .replace(/^-+|-+$/g, "")
+            .slice(0, 150)
+            .replace(/-+$/g, "");
+          const reference = reasonSlug ? "deposit__" + reasonSlug : "deposit";
 
           window.location.assign(
             buildStripeCheckoutUrl({

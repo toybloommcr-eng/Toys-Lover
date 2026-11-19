@@ -85,7 +85,7 @@ export function ProductActions({ product }: { product: Product }) {
           className="flex-1"
           onClick={() => {
             addItem(product.slug, qty);
-            router.push("/pay");
+            router.push("/checkout");
           }}
         >
           {wholesale ? "Buy Now" : deal.soldAsBox ? "Buy this box" : "Buy Now"}

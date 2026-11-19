@@ -175,8 +175,8 @@ export function CheckoutForm({ method = "stripe" }: { method?: string }) {
             `Pay ${formatPrice(total)} with ${payName}`
           )}
         </Button>
-        <Button href="/pay" variant="outline" className="mt-3 w-full">
-          Change payment method
+        <Button href="/cart" variant="outline" className="mt-3 w-full">
+          Back to bag
         </Button>
       </aside>
     </form>

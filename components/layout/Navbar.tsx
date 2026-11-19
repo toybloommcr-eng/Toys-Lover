@@ -3,7 +3,7 @@
 import { useEffect, useState } from "react";
 import Link from "next/link";
 import { usePathname } from "next/navigation";
-import { Heart, MapPin, Menu, Search, ShoppingCart, Sparkles, X } from "lucide-react";
+import { Heart, MapPin, Menu, Search, ShoppingCart, X } from "lucide-react";
 import { useCart } from "@/lib/context/CartContext";
 import { useWishlist } from "@/lib/context/WishlistContext";
 import { FREE_SHIPPING_GBP } from "@/lib/constants";
@@ -88,19 +88,6 @@ export function Navbar() {
         </nav>
 
         <div className="ml-auto flex shrink-0 items-center gap-1 text-ink-700 sm:gap-1.5">
-          <Link
-            href="/pay"
-            className={cn(
-              "header-pay-now group relative hidden items-center gap-1.5 overflow-hidden rounded-full sm:inline-flex",
-              "bg-gradient-to-r from-sun-300 via-sun-400 to-coral-400 px-3 py-2",
-              "font-display text-[11px] font-black uppercase tracking-wide text-ink-900 sm:text-xs",
-              "shadow-soft ring-1 ring-white/80 transition hover:-translate-y-0.5",
-              pathname.startsWith("/pay") && "ring-coral-400",
-            )}
-          >
-            <Sparkles className="h-3.5 w-3.5 text-coral-600" aria-hidden />
-            <span className="relative z-10">Pay Now</span>
-          </Link>
 
           <Link
             href="/shop"
@@ -188,14 +175,6 @@ export function Navbar() {
                   Wishlist
                 </Link>
               </div>
-              <Link
-                href="/pay"
-                prefetch={false}
-                className="mt-1 inline-flex items-center justify-center gap-2 rounded-2xl bg-gradient-to-r from-sun-300 to-coral-400 px-4 py-3.5 font-display text-base font-black uppercase tracking-wide text-ink-900 shadow-soft"
-              >
-                <Sparkles className="h-4 w-4" />
-                Pay Now
-              </Link>
             </div>
           </nav>
         </div>
