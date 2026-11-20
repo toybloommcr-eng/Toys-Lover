@@ -17470,22 +17470,24 @@
     "id": "sq-crunchy-grape",
     "slug": "sq-crunchy-grape",
     "sku": "",
-    "title": "Crunchy Grape Squishy Toy",
-    "description": "Crunchy grape squishies. Manchester Toys Telegram stock. Not a food item. Ages 3+.",
+    "title": "Crunchy Grape Squishy Sensory Toys",
+    "description": "Crunchy Grape Squishies — Sensory Fidget Toys\nFun, crunchy grape-shaped squishy toys — satisfying to squeeze! Not an edible item. In stock in Manchester. Order via Telegram. Suitable for ages 3+. toybloom.co.uk",
     "category": "fruit-squishies",
-    "price": 42,
-    "costPrice": 0,
+    "price": 30,
+    "costPrice": 2.5,
     "compareAtPrice": null,
-    "stock": 48,
+    "stock": 120,
     "images": [
-      "/images/products/sq-crunchy-grape.jpg"
+      "/products/1795183753618-gorlsb.jpg",
+      "/products/1795183756737-5amvuw.jpg",
+      "/products/1795183758684-426ec1.jpg"
     ],
     "tags": [
       "Toy Bloom Wholesale",
       "Telegram stock"
     ],
     "active": true,
-    "updatedAt": "2026-10-31T23:57:01.470Z",
+    "updatedAt": "2026-11-20T14:13:07.890Z",
     "ageRange": "3-5 years",
     "brand": "Toy Bloom Wholesale",
     "theme": "Telegram stock",
