@@ -17682,13 +17682,13 @@
     "id": "tg-oct29-light-up-spinners",
     "slug": "tg-oct29-light-up-spinners",
     "sku": "",
-    "title": "Light Up Spinning Windmill Wands",
-    "description": "LED spinning windmill wands. Manchester Toys Telegram stock. Ages 3+.",
+    "title": "LED Spinning Windmill Wands — Ages 3+",
+    "description": " Bright LED spinning windmill wands. In stock in Manchester. Available via Telegram. Suitable for ages 3 and over.\nWebsite name, toybloom.co.",
     "category": "light-up-toys",
-    "price": 0,
-    "costPrice": 0,
+    "price": 30,
+    "costPrice": 2.5,
     "compareAtPrice": null,
-    "stock": 48,
+    "stock": 140,
     "images": [
       "/images/products/tg-oct29-light-up-spinners.jpg"
     ],
@@ -17697,7 +17697,7 @@
       "Telegram stock"
     ],
     "active": true,
-    "updatedAt": "2026-10-31T23:57:01.470Z",
+    "updatedAt": "2026-11-20T13:25:02.787Z",
     "priceTBC": true,
     "ageRange": "3-5 years",
     "brand": "Manchester Toys",
@@ -17710,8 +17710,8 @@
     "materials": "Plastic / plush with LED.",
     "isNew": true,
     "isBestSeller": true,
-    "piecesPerBox": 1,
-    "moqLabel": "Ask for price"
+    "piecesPerBox": 12,
+    "moqLabel": "12"
   },
   {
     "id": "tg-oct29-electric-pearl-sword",
