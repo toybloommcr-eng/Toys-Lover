@@ -16568,10 +16568,10 @@
     "title": "Mystery Dumpling Countdown Calendar 24+ Mini Squishy Toys",
     "description": "24-door mystery dumpling countdown calendar with mini squishies. Manchester Toys Telegram stock (Thu 29 Oct). Not a food item. Ages 3+.",
     "category": "christmas-squishies",
-    "price": 7.5,
-    "costPrice": 0,
-    "compareAtPrice": null,
-    "stock": 48,
+    "price": 57,
+    "costPrice": 9.5,
+    "compareAtPrice": 11,
+    "stock": 120,
     "images": [
       "/images/products/sq-mystery-dumpling-countdown.jpg",
       "/images/products/sq-mystery-dumpling-countdown-2.jpg",
@@ -16584,7 +16584,7 @@
       "Telegram stock"
     ],
     "active": true,
-    "updatedAt": "2026-10-31T23:57:01.470Z",
+    "updatedAt": "2026-11-20T16:26:20.973Z",
     "ageRange": "3-5 years",
     "brand": "Toy Bloom Wholesale",
     "theme": "Telegram stock",
@@ -16596,8 +16596,8 @@
     "materials": "Soft sensory fill / PU foam. Not a food item.",
     "isNew": true,
     "isBestSeller": true,
-    "piecesPerBox": 1,
-    "moqLabel": "Single calendar"
+    "piecesPerBox": 24,
+    "moqLabel": "6 pcs"
   },
   {
     "id": "sq-highland-cow-advent",
