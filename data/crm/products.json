@@ -17909,16 +17909,17 @@
     "compareAtPrice": null,
     "stock": 120,
     "images": [
-      "/images/products/tg-oct29-lightyear-match.jpg",
       "/products/1795176311704-nasq99.jpg",
-      "/products/1795176314728-8ciiq4.jpg"
+      "/products/1795176314728-8ciiq4.jpg",
+      "/products/1795178557282-2xzjix.jpg",
+      "/images/products/tg-oct29-lightyear-match.jpg"
     ],
     "tags": [
       "Manchester Toys",
       "Telegram stock"
     ],
     "active": true,
-    "updatedAt": "2026-11-20T12:05:29.446Z",
+    "updatedAt": "2026-11-20T12:44:20.322Z",
     "ageRange": "3-5 years",
     "brand": "Manchester Toys",
     "theme": "Telegram stock",
