@@ -17796,22 +17796,25 @@
     "id": "tg-oct29-dino-pop-keyboard",
     "slug": "tg-oct29-dino-pop-keyboard",
     "sku": "",
-    "title": "Dino Pop Keyboard Fidget Fun – Keycap Pop Toy",
-    "description": "Dino Pop keyboard keycap fidget toy, 9cm. Box of 12. Manchester Toys Telegram stock. Ages 3+.",
+    "title": "26-Key Frog Pattern Keyboard Fidget Toy",
+    "description": "Enjoy playful fidget fun with this 26-key frog pattern keyboard toy. Featuring cute frog designs and a portable, compact design, it's a fun addition to any toy collection.",
     "category": "fidget-spinners",
     "price": 30,
-    "costPrice": 0,
+    "costPrice": 2.5,
     "compareAtPrice": null,
-    "stock": 48,
+    "stock": 120,
     "images": [
-      "/images/products/tg-oct29-dino-pop-keyboard.jpg"
+      "/products/1795177292935-7x454t.jpg",
+      "/products/1795177295687-wl1zwe.jpg",
+      "/products/1795177297911-v12enf.jpg",
+      "/products/1795177300055-byja7n.jpg"
     ],
     "tags": [
       "Manchester Toys",
       "Telegram stock"
     ],
     "active": true,
-    "updatedAt": "2026-10-31T23:57:01.470Z",
+    "updatedAt": "2026-11-20T12:26:29.796Z",
     "ageRange": "3-5 years",
     "brand": "Manchester Toys",
     "theme": "Telegram stock",
@@ -17824,7 +17827,7 @@
     "isNew": true,
     "isBestSeller": true,
     "piecesPerBox": 12,
-    "moqLabel": "Box of 12"
+    "moqLabel": "12 Pieces (1 Box)"
   },
   {
     "id": "tg-oct29-mermaid-keyboard",
