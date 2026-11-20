@@ -15949,10 +15949,10 @@
     "title": "NeeDoh Squishies Full Range – Butter, Bunny, Chocolate & Gummy Bear",
     "description": "NeeDoh full range: butter, bunny, chocolate, cubes and gummy bears. Manchester Toys Telegram stock. Not a food item. Ages 3+.",
     "category": "needoh-squishies",
-    "price": 25.8,
-    "costPrice": 0,
+    "price": 24,
+    "costPrice": 2,
     "compareAtPrice": null,
-    "stock": 48,
+    "stock": 120,
     "images": [
       "/images/products/telegram/tg-needoh-squishies-full-range-3483-1.webp",
       "/images/products/telegram/tg-needoh-squishies-full-range-3483-2.webp",
@@ -15968,7 +15968,7 @@
       "Telegram stock"
     ],
     "active": true,
-    "updatedAt": "2026-10-31T23:57:01.470Z",
+    "updatedAt": "2026-11-20T23:58:00.642Z",
     "ageRange": "3-5 years",
     "brand": "Toy Bloom Wholesale",
     "theme": "Telegram stock",
