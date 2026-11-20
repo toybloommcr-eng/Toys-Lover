@@ -16534,9 +16534,9 @@
     "description": "Colourful super-soft slow-rising butter squishies. Manchester Toys Telegram stock (Thu 29 Oct). Not a food item. Ages 3+.",
     "category": "butter-squishies",
     "price": 42,
-    "costPrice": 0,
-    "compareAtPrice": null,
-    "stock": 48,
+    "costPrice": 3.5,
+    "compareAtPrice": 4,
+    "stock": 120,
     "images": [
       "/images/products/sq-slush-crush-butter.jpg",
       "/images/products/sq-slush-crush-butter-2.jpg"
@@ -16546,7 +16546,7 @@
       "Telegram stock"
     ],
     "active": true,
-    "updatedAt": "2026-10-31T23:57:01.470Z",
+    "updatedAt": "2026-11-20T16:27:30.691Z",
     "ageRange": "3-5 years",
     "brand": "Toy Bloom Wholesale",
     "theme": "Telegram stock",
@@ -16559,7 +16559,7 @@
     "isNew": true,
     "isBestSeller": true,
     "piecesPerBox": 12,
-    "moqLabel": "Box of 12"
+    "moqLabel": "1 Box"
   },
   {
     "id": "sq-mystery-dumpling-countdown",
