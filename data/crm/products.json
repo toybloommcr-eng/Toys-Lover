@@ -16067,10 +16067,10 @@
     "title": "Mini Squishies Mystery Dumpling Advent Calendar 24pcs",
     "description": "24-door mystery dumpling squishy advent calendar. Manchester Toys Telegram stock. Not a food item. Ages 3+.",
     "category": "christmas-squishies",
-    "price": 6.99,
-    "costPrice": 0,
+    "price": 30,
+    "costPrice": 5,
     "compareAtPrice": null,
-    "stock": 48,
+    "stock": 120,
     "images": [
       "/images/products/telegram/tg-dumplings-advent-calendar-3666-1.webp",
       "/images/products/telegram/tg-dumplings-advent-calendar-3666-2.webp",
@@ -16083,7 +16083,7 @@
       "Telegram stock"
     ],
     "active": true,
-    "updatedAt": "2026-10-31T23:57:01.470Z",
+    "updatedAt": "2026-11-20T16:41:00.798Z",
     "ageRange": "3-5 years",
     "brand": "Toy Bloom Wholesale",
     "theme": "Telegram stock",
@@ -16095,8 +16095,8 @@
     "materials": "Soft sensory fill / PU foam. Not a food item.",
     "isNew": true,
     "isBestSeller": true,
-    "piecesPerBox": 1,
-    "moqLabel": "Single calendar"
+    "piecesPerBox": 24,
+    "moqLabel": "6 pcs"
   },
   {
     "id": "sq-grinch-mystery-dumpling",
