@@ -16175,9 +16175,9 @@
     "description": "Kawaii face glitter dumplings in assorted colours. Manchester Toys Telegram stock. Not a food item. Ages 3+.",
     "category": "dumpling-squishies",
     "price": 30,
-    "costPrice": 0,
+    "costPrice": 2.5,
     "compareAtPrice": null,
-    "stock": 48,
+    "stock": 120,
     "images": [
       "/images/products/sq-kawaii-squeezy-dumplings.jpg",
       "/images/products/sq-kawaii-squeezy-dumplings-2.jpg",
@@ -16188,7 +16188,7 @@
       "Telegram stock"
     ],
     "active": true,
-    "updatedAt": "2026-10-31T23:57:01.470Z",
+    "updatedAt": "2026-11-20T16:38:06.639Z",
     "ageRange": "3-5 years",
     "brand": "Toy Bloom Wholesale",
     "theme": "Telegram stock",
