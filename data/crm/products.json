@@ -17685,10 +17685,10 @@
     "title": "LED Spinning Windmill Wands — Ages 3+",
     "description": " Bright LED spinning windmill wands. In stock in Manchester. Available via Telegram. Suitable for ages 3 and over.\nWebsite name, toybloom.co.",
     "category": "light-up-toys",
-    "price": 30,
-    "costPrice": 2.5,
+    "price": 0,
+    "costPrice": 0,
     "compareAtPrice": null,
-    "stock": 140,
+    "stock": 0,
     "images": [
       "/images/products/tg-oct29-light-up-spinners.jpg"
     ],
@@ -17697,7 +17697,7 @@
       "Telegram stock"
     ],
     "active": true,
-    "updatedAt": "2026-11-20T13:25:02.787Z",
+    "updatedAt": "2026-11-20T13:46:53.459Z",
     "priceTBC": true,
     "ageRange": "3-5 years",
     "brand": "Manchester Toys",
