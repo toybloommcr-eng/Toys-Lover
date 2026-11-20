@@ -17436,22 +17436,24 @@
     "id": "sq-crunchy-strawberry",
     "slug": "sq-crunchy-strawberry",
     "sku": "",
-    "title": "Crunchy Strawberry Squishy Toy 8×7cm",
-    "description": "Crunchy strawberry squishies, 8×7cm. Manchester Toys Telegram stock. Not a food item. Ages 3+.",
+    "title": "Crunchy Strawberry Squeezing Squishies",
+    "description": "🍓 **Crunchy Strawberry Squeezing Squishies!** 🍓\n\nGet ready for the sweetest and crunchiest squishy experience! ❤️ These adorable strawberry squishies are so satisfying to squeeze, with a fun crunchy texture and super cute designs. Every squeeze brings a little ASMR happiness! 🥰\n\nPerfect for stress relief, sensory fun, and anyone who loves cute and satisfying squishy toys. \n\nWatch until the end for the ultimate crunchy squeezing sounds! 🍓✨\n ",
     "category": "fruit-squishies",
-    "price": 42,
-    "costPrice": 0,
+    "price": 30,
+    "costPrice": 2.5,
     "compareAtPrice": null,
-    "stock": 48,
+    "stock": 120,
     "images": [
-      "/images/products/sq-crunchy-strawberry.jpg"
+      "/products/1795184389716-92vria.jpg",
+      "/products/1795184392602-tmbjdr.jpg",
+      "/products/1795184394611-4hhtde.jpg"
     ],
     "tags": [
       "Toy Bloom Wholesale",
       "Telegram stock"
     ],
     "active": true,
-    "updatedAt": "2026-10-31T23:57:01.470Z",
+    "updatedAt": "2026-11-20T14:27:14.859Z",
     "ageRange": "3-5 years",
     "brand": "Toy Bloom Wholesale",
     "theme": "Telegram stock",
@@ -17464,7 +17466,7 @@
     "isNew": true,
     "isBestSeller": true,
     "piecesPerBox": 12,
-    "moqLabel": "Box of 12"
+    "moqLabel": "12 pcs"
   },
   {
     "id": "sq-crunchy-grape",
