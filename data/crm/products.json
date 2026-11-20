@@ -16747,8 +16747,8 @@
     "title": "Slush Duck Squishy",
     "description": "Glitter slush-filled duck squishies. Box of 12. Manchester Toys Telegram stock (30 Oct). Not a food item. Ages 3+.",
     "category": "character-squishies",
-    "price": 3,
-    "costPrice": 36,
+    "price": 36,
+    "costPrice": 3,
     "compareAtPrice": 3.5,
     "stock": 120,
     "images": [
@@ -16760,7 +16760,7 @@
       "Telegram stock"
     ],
     "active": true,
-    "updatedAt": "2026-11-20T16:19:45.393Z",
+    "updatedAt": "2026-11-20T16:20:03.285Z",
     "ageRange": "3-5 years",
     "brand": "Toy Bloom Wholesale",
     "theme": "Telegram stock",
