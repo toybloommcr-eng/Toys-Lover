@@ -16361,10 +16361,10 @@
     "title": "NeeDoh Jelly Squish Jellyfish",
     "description": "Light-up jellyfish NeeDoh squishies. Manchester Toys Telegram stock. Not a food item. Ages 3+.",
     "category": "needoh-squishies",
-    "price": 24,
-    "costPrice": 0,
+    "price": 39,
+    "costPrice": 6.5,
     "compareAtPrice": null,
-    "stock": 48,
+    "stock": 120,
     "images": [
       "/images/products/sq-needoh-jellyfish.jpg"
     ],
@@ -16373,7 +16373,7 @@
       "Telegram stock"
     ],
     "active": true,
-    "updatedAt": "2026-11-20T16:30:35.727Z",
+    "updatedAt": "2026-11-20T16:33:47.360Z",
     "ageRange": "3-5 years",
     "brand": "Toy Bloom Wholesale",
     "theme": "Telegram stock",
@@ -16385,8 +16385,8 @@
     "materials": "Soft sensory fill / PU foam. Not a food item.",
     "isNew": true,
     "isBestSeller": true,
-    "piecesPerBox": 12,
-    "moqLabel": "Box of 12"
+    "piecesPerBox": 6,
+    "moqLabel": "Box of 6"
   },
   {
     "id": "sq-starbucks-cup-squishy",
