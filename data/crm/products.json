@@ -15218,9 +15218,9 @@
     "description": "Soft squeeze-ball bears and cats in display box. Manchester Toys Telegram stock. Not a food item. Ages 3+.",
     "category": "character-squishies",
     "price": 18,
-    "costPrice": 0,
+    "costPrice": 1.5,
     "compareAtPrice": null,
-    "stock": 48,
+    "stock": 120,
     "images": [
       "/images/products/telegram/tg-squeeze-dinosaur-1288-1.webp",
       "/images/products/telegram/tg-squeeze-dinosaur-1288-2.webp",
@@ -15231,7 +15231,7 @@
       "Telegram stock"
     ],
     "active": true,
-    "updatedAt": "2026-10-31T23:57:01.470Z",
+    "updatedAt": "2026-11-21T00:06:26.048Z",
     "ageRange": "3-5 years",
     "brand": "Toy Bloom Wholesale",
     "theme": "Telegram stock",
