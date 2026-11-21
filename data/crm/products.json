@@ -12614,10 +12614,10 @@
     "title": "K-Pop Dolls with Music",
     "description": "K-Pop dolls with music.",
     "category": "action-figures",
-    "price": 8.5,
+    "price": 6.5,
     "costPrice": 0,
     "compareAtPrice": null,
-    "stock": 50,
+    "stock": 120,
     "images": [
       "/images/products/telegram/tg-k-pop-dolls-with-music-2873-2.webp",
       "/images/products/telegram/tg-k-pop-dolls-with-music-2873-1.webp",
@@ -12628,7 +12628,7 @@
       "K-Pop"
     ],
     "active": true,
-    "updatedAt": "2026-10-31T23:57:01.470Z",
+    "updatedAt": "2026-11-21T08:09:33.867Z",
     "ageRange": "3-5 years",
     "brand": "Toy Bloom Wholesale",
     "theme": "K-Pop",
@@ -12640,9 +12640,9 @@
     "safety": "Ages 3+. Adult supervision recommended. Not suitable for children under 36 months (small parts).",
     "materials": "See packaging.",
     "isNew": true,
-    "piecesPerBox": 12,
+    "piecesPerBox": 1,
     "moqUnit": "pcs",
-    "moqLabel": "Min order: 12 pcs"
+    "moqLabel": "Min order: 1 pcs"
   },
   {
     "id": "tg-k-pop-girls-2882",
