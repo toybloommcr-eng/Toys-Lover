@@ -15322,10 +15322,10 @@
     "title": "Labubu Squishy Toys – Soft, Fun & Stress Relief Toy",
     "description": "Labubu-style bunny squishies. Manchester Toys Telegram stock. Not a food item. Ages 3+.",
     "category": "character-squishies",
-    "price": 11.88,
-    "costPrice": 0,
+    "price": 7.5,
+    "costPrice": 7.5,
     "compareAtPrice": null,
-    "stock": 48,
+    "stock": 120,
     "images": [
       "/images/products/telegram/tg-lububu-squishy-2083-1.webp",
       "/images/products/telegram/tg-lububu-squishy-2083-2.webp",
@@ -15341,7 +15341,7 @@
       "Telegram stock"
     ],
     "active": true,
-    "updatedAt": "2026-10-31T23:57:01.470Z",
+    "updatedAt": "2026-11-21T00:05:17.547Z",
     "ageRange": "3-5 years",
     "brand": "Toy Bloom Wholesale",
     "theme": "Telegram stock",
@@ -15353,8 +15353,8 @@
     "materials": "Soft sensory fill / PU foam. Not a food item.",
     "isNew": true,
     "isBestSeller": true,
-    "piecesPerBox": 12,
-    "moqLabel": "Box of 12"
+    "piecesPerBox": 1,
+    "moqLabel": "1 Pcs"
   },
   {
     "id": "sq-brain-rot-squishy",
