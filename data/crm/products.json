@@ -15102,10 +15102,10 @@
     "title": "Soft Giant Duck Squishy Stress Relief Toy",
     "description": "Large squeezable duck squishy in 4 colours. Manchester Toys Telegram stock. Not a food item. Ages 3+.",
     "category": "jumbo-squishies",
-    "price": 95.88,
-    "costPrice": 0,
+    "price": 39,
+    "costPrice": 6.5,
     "compareAtPrice": null,
-    "stock": 48,
+    "stock": 120,
     "images": [
       "/images/products/telegram/tg-jumbo-squishy-3519-7.webp",
       "/images/products/telegram/tg-jumbo-squishy-3519-8.webp"
@@ -15115,7 +15115,7 @@
       "Telegram stock"
     ],
     "active": true,
-    "updatedAt": "2026-10-31T23:57:01.470Z",
+    "updatedAt": "2026-11-21T07:28:21.625Z",
     "ageRange": "3-5 years",
     "brand": "Toy Bloom Wholesale",
     "theme": "Telegram stock",
@@ -15127,8 +15127,8 @@
     "materials": "Soft sensory fill / PU foam. Not a food item.",
     "isNew": true,
     "isBestSeller": true,
-    "piecesPerBox": 12,
-    "moqLabel": "Box of 12"
+    "piecesPerBox": 6,
+    "moqLabel": "Box of 6"
   },
   {
     "id": "sq-jumbo-size-assorted",
