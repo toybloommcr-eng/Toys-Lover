@@ -13491,10 +13491,10 @@
     "title": "Brain Rot & Stranger Things Trading Cards",
     "description": "Brain rot and stranger things. Cards. Box of 36 pack. In each pack 8 cards.",
     "category": "board-games",
-    "price": 1.25,
-    "costPrice": 0,
+    "price": 45,
+    "costPrice": 1.25,
     "compareAtPrice": null,
-    "stock": 50,
+    "stock": 120,
     "images": [
       "/images/products/telegram/tg-brain-rot-stranger-things-trading-cards-3209-2.webp",
       "/images/products/telegram/tg-brain-rot-stranger-things-trading-cards-3209-1.webp",
@@ -13510,7 +13510,7 @@
       "Games"
     ],
     "active": true,
-    "updatedAt": "2026-10-31T23:57:01.470Z",
+    "updatedAt": "2026-11-21T07:52:04.876Z",
     "ageRange": "3-5 years",
     "brand": "Toy Bloom Wholesale",
     "theme": "Games",
