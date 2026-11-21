@@ -14188,10 +14188,10 @@
     "title": "Bouncy Ball Varieties",
     "description": "All bouncy ball varieties available now a box of 12.",
     "category": "outdoor-sports",
-    "price": 0.83,
-    "costPrice": 0,
+    "price": 10.2,
+    "costPrice": 0.85,
     "compareAtPrice": null,
-    "stock": 50,
+    "stock": 120,
     "images": [
       "/images/products/telegram/tg-all-bouncy-ball-varieties-3509-3.webp",
       "/images/products/telegram/tg-all-bouncy-ball-varieties-3509-1.webp",
@@ -14203,7 +14203,7 @@
       "Outdoor"
     ],
     "active": true,
-    "updatedAt": "2026-10-31T23:57:01.470Z",
+    "updatedAt": "2026-11-21T07:42:07.514Z",
     "ageRange": "3-5 years",
     "brand": "Toy Bloom Wholesale",
     "theme": "Outdoor",
