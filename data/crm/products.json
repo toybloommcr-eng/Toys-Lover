@@ -15033,10 +15033,10 @@
     "title": "Viral Jumbo Banana Rama Squishy Toy – 42cm Giant",
     "description": "Giant 42cm banana squishy. Manchester Toys Telegram stock. Not a food item. Ages 3+.",
     "category": "jumbo-squishies",
-    "price": 71.88,
-    "costPrice": 0,
+    "price": 33,
+    "costPrice": 5.5,
     "compareAtPrice": null,
-    "stock": 48,
+    "stock": 120,
     "images": [
       "/images/products/telegram/tg-jumbo-squishy-3519-4.webp"
     ],
@@ -15045,7 +15045,7 @@
       "Telegram stock"
     ],
     "active": true,
-    "updatedAt": "2026-10-31T23:57:01.470Z",
+    "updatedAt": "2026-11-21T07:29:27.496Z",
     "ageRange": "3-5 years",
     "brand": "Toy Bloom Wholesale",
     "theme": "Telegram stock",
@@ -15057,8 +15057,8 @@
     "materials": "Soft sensory fill / PU foam. Not a food item.",
     "isNew": true,
     "isBestSeller": true,
-    "piecesPerBox": 12,
-    "moqLabel": "Box of 12"
+    "piecesPerBox": 6,
+    "moqLabel": "Box of 6"
   },
   {
     "id": "sq-jumbo-pineapple",
