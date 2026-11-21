@@ -15398,10 +15398,10 @@
     "title": "K-Pop Character Squishy",
     "description": "K-Pop character squishies. Manchester Toys Telegram stock. Not a food item. Ages 3+.",
     "category": "character-squishies",
-    "price": 21,
-    "costPrice": 0,
+    "price": 66,
+    "costPrice": 5.5,
     "compareAtPrice": null,
-    "stock": 48,
+    "stock": 120,
     "images": [
       "/images/products/telegram/tg-k-pop-squishy-2505-1.webp",
       "/images/products/telegram/tg-k-pop-squishy-2505-2.webp",
@@ -15412,7 +15412,7 @@
       "Telegram stock"
     ],
     "active": true,
-    "updatedAt": "2026-10-31T23:57:01.470Z",
+    "updatedAt": "2026-11-21T00:04:09.913Z",
     "ageRange": "3-5 years",
     "brand": "Toy Bloom Wholesale",
     "theme": "Telegram stock",
@@ -15425,7 +15425,7 @@
     "isNew": true,
     "isBestSeller": true,
     "piecesPerBox": 12,
-    "moqLabel": "Box of 12"
+    "moqLabel": "Pack of 12"
   },
   {
     "id": "sq-crocs-squishy",
