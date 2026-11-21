@@ -14854,10 +14854,10 @@
     "title": "Slow-Rising Ice Cream & Cupcake Squishy Toy",
     "description": "Scented slow-rise ice cream and cupcake squishies. Manchester Toys Telegram stock. Not a food item. Ages 3+.",
     "category": "food-squishies",
-    "price": 18,
-    "costPrice": 0,
+    "price": 24,
+    "costPrice": 2,
     "compareAtPrice": null,
-    "stock": 48,
+    "stock": 120,
     "images": [
       "/images/products/telegram/tg-slow-rise-squishy-3640-5.webp",
       "/images/products/telegram/tg-slow-rise-squishy-3640-6.webp",
@@ -14868,7 +14868,7 @@
       "Telegram stock"
     ],
     "active": true,
-    "updatedAt": "2026-10-31T23:57:01.470Z",
+    "updatedAt": "2026-11-21T07:32:52.642Z",
     "ageRange": "3-5 years",
     "brand": "Toy Bloom Wholesale",
     "theme": "Telegram stock",
