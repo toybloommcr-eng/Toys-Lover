@@ -13279,12 +13279,12 @@
     "slug": "tg-minecraft-figur-set-3141",
     "sku": "",
     "title": "Minecraft Figure Set",
-    "description": "Minecraft Figure set. Each. 12 for (). 24 for ().",
+    "description": "Minecraft Figure set. Each. Box has 12 pcs",
     "category": "action-figures",
-    "price": 3,
-    "costPrice": 0,
+    "price": 36,
+    "costPrice": 3,
     "compareAtPrice": null,
-    "stock": 50,
+    "stock": 120,
     "images": [
       "/images/products/telegram/tg-minecraft-figur-set-3141-2.webp",
       "/images/products/telegram/tg-minecraft-figur-set-3141-3.webp",
@@ -13300,7 +13300,7 @@
       "Characters"
     ],
     "active": true,
-    "updatedAt": "2026-10-31T23:57:01.470Z",
+    "updatedAt": "2026-11-21T07:58:38.124Z",
     "ageRange": "3-5 years",
     "brand": "Toy Bloom Wholesale",
     "theme": "Characters",
@@ -13313,9 +13313,9 @@
     "safety": "Ages 3+. Adult supervision recommended. Not suitable for children under 36 months (small parts).",
     "materials": "See packaging.",
     "isNew": true,
-    "piecesPerBox": 1,
+    "piecesPerBox": 12,
     "moqUnit": "pcs",
-    "moqLabel": "Min order: 1 pc"
+    "moqLabel": "Min order: 12 pc"
   },
   {
     "id": "tg-stranger-things-soft-surprise-bag-box-3164",
