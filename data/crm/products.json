@@ -13959,10 +13959,10 @@
     "title": "Music Smoke Train",
     "description": "New music smoke train available now minimum 12 to buy.",
     "category": "building-sets",
-    "price": 3.5,
-    "costPrice": 0,
+    "price": 42,
+    "costPrice": 3.5,
     "compareAtPrice": null,
-    "stock": 50,
+    "stock": 120,
     "images": [
       "/images/products/telegram/tg-music-smoke-train-3488-2.webp",
       "/images/products/telegram/tg-music-smoke-train-3488-3.webp",
@@ -13973,7 +13973,7 @@
       "Building"
     ],
     "active": true,
-    "updatedAt": "2026-10-31T23:57:01.470Z",
+    "updatedAt": "2026-11-21T07:45:08.725Z",
     "ageRange": "3-5 years",
     "brand": "Toy Bloom Wholesale",
     "theme": "Building",
