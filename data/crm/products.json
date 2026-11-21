@@ -14299,10 +14299,10 @@
     "title": "Light Up Cubes in Individual Packing",
     "description": "All new light up cubes in individual packing a pack of 12 ( each ).",
     "category": "light-up-toys",
-    "price": 2.75,
-    "costPrice": 0,
+    "price": 24,
+    "costPrice": 2,
     "compareAtPrice": null,
-    "stock": 50,
+    "stock": 120,
     "images": [
       "/images/products/telegram/tg-light-up-cubes-in-individual-packing-3578-1.webp",
       "/images/products/telegram/tg-light-up-cubes-in-individual-packing-3578-2.webp",
@@ -14314,7 +14314,7 @@
       "Lights"
     ],
     "active": true,
-    "updatedAt": "2026-10-31T23:57:01.470Z",
+    "updatedAt": "2026-11-21T07:40:31.533Z",
     "ageRange": "3-5 years",
     "brand": "Toy Bloom Wholesale",
     "theme": "Lights",
