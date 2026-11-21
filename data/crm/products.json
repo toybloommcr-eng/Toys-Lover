@@ -15682,10 +15682,10 @@
     "title": "Squish Swirl Stretchy Squishy – Multiple Colours",
     "description": "Stretchy swirl squishy tubes in multiple colours. Manchester Toys Telegram stock. Not a food item. Ages 3+.",
     "category": "stretchy-squishies",
-    "price": 12,
-    "costPrice": 0,
+    "price": 18,
+    "costPrice": 3,
     "compareAtPrice": null,
-    "stock": 48,
+    "stock": 120,
     "images": [
       "/images/products/telegram/tg-squish-multiple-colours-1203-1.webp",
       "/images/products/telegram/tg-squish-multiple-colours-1203-2.webp",
@@ -15696,7 +15696,7 @@
       "Telegram stock"
     ],
     "active": true,
-    "updatedAt": "2026-10-31T23:57:01.470Z",
+    "updatedAt": "2026-11-21T00:00:58.856Z",
     "ageRange": "3-5 years",
     "brand": "Toy Bloom Wholesale",
     "theme": "Telegram stock",
@@ -15708,8 +15708,8 @@
     "materials": "Soft sensory fill / PU foam. Not a food item.",
     "isNew": true,
     "isBestSeller": true,
-    "piecesPerBox": 12,
-    "moqLabel": "Box of 12"
+    "piecesPerBox": 6,
+    "moqLabel": "6 pcs"
   },
   {
     "id": "sq-butter-small",
