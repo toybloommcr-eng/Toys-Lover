@@ -14070,10 +14070,10 @@
     "title": "Hand Fan",
     "description": "Hand fan available now a pack of 12.",
     "category": "home-gifts",
-    "price": 0.83,
-    "costPrice": 0,
+    "price": 10.2,
+    "costPrice": 0.85,
     "compareAtPrice": null,
-    "stock": 50,
+    "stock": 120,
     "images": [
       "/images/products/telegram/tg-hand-fan-3495-1.webp"
     ],
@@ -14082,7 +14082,7 @@
       "Home"
     ],
     "active": true,
-    "updatedAt": "2026-10-31T23:57:01.470Z",
+    "updatedAt": "2026-11-21T07:43:38.209Z",
     "ageRange": "3-5 years",
     "brand": "Toy Bloom Wholesale",
     "theme": "Home",
