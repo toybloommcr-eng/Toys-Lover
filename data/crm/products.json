@@ -15363,10 +15363,10 @@
     "title": "Brain Rot Squishy Blind Bags",
     "description": "Brain Rot character squishy blind bags. Manchester Toys Telegram stock. Not a food item. Ages 3+.",
     "category": "character-squishies",
-    "price": 18,
-    "costPrice": 0,
+    "price": 24,
+    "costPrice": 2,
     "compareAtPrice": null,
-    "stock": 48,
+    "stock": 120,
     "images": [
       "/images/products/telegram/tg-brain-rot-squishy-2602-1.webp",
       "/images/products/telegram/tg-brain-rot-squishy-2602-2.webp"
@@ -15376,7 +15376,7 @@
       "Telegram stock"
     ],
     "active": true,
-    "updatedAt": "2026-10-31T23:57:01.470Z",
+    "updatedAt": "2026-11-21T00:04:29.824Z",
     "ageRange": "3-5 years",
     "brand": "Toy Bloom Wholesale",
     "theme": "Telegram stock",
