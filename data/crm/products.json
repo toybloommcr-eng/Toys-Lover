@@ -14744,10 +14744,10 @@
     "title": "Mega Dumpling Squishy – Big",
     "description": "Big mega dumpling squishies in steamer baskets. Manchester Toys Telegram stock. Not a food item. Ages 3+.",
     "category": "dumpling-squishies",
-    "price": 108,
-    "costPrice": 0,
+    "price": 12,
+    "costPrice": 12,
     "compareAtPrice": null,
-    "stock": 48,
+    "stock": 120,
     "images": [
       "/images/products/tg-new-dumpling-big-9.jpg",
       "/images/products/tg-new-dumpling-big-9-2.jpg",
@@ -14758,7 +14758,7 @@
       "Telegram stock"
     ],
     "active": true,
-    "updatedAt": "2026-10-31T23:57:01.470Z",
+    "updatedAt": "2026-11-21T07:34:13.878Z",
     "ageRange": "3-5 years",
     "brand": "Toy Bloom Wholesale",
     "theme": "Telegram stock",
@@ -14770,8 +14770,8 @@
     "materials": "Soft sensory fill / PU foam. Not a food item.",
     "isNew": true,
     "isBestSeller": true,
-    "piecesPerBox": 12,
-    "moqLabel": "Box of 12"
+    "piecesPerBox": 1,
+    "moqLabel": "Box of 1"
   },
   {
     "id": "sq-mix-fruit-squishy",
