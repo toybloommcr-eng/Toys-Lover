@@ -14454,9 +14454,9 @@
     "description": "Glitter, rainbow and iced dumpling squishies in mini steamer cases. Manchester Toys Telegram stock. Not a food item. Ages 3+.",
     "category": "dumpling-squishies",
     "price": 18,
-    "costPrice": 0,
+    "costPrice": 1.5,
     "compareAtPrice": null,
-    "stock": 48,
+    "stock": 120,
     "images": [
       "/images/products/telegram/tg-dumplings-squishy-case-3451-1.webp",
       "/images/products/telegram/tg-dumplings-squishy-case-3451-2.webp",
@@ -14471,7 +14471,7 @@
       "Telegram stock"
     ],
     "active": true,
-    "updatedAt": "2026-10-31T23:57:01.470Z",
+    "updatedAt": "2026-11-21T07:37:32.803Z",
     "ageRange": "3-5 years",
     "brand": "Toy Bloom Wholesale",
     "theme": "Telegram stock",
