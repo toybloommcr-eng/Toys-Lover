@@ -14371,13 +14371,13 @@
     "id": "tg-starbucks-bottle-3583",
     "slug": "tg-starbucks-bottle-3583",
     "sku": "",
-    "title": "Starbucks Bottle",
+    "title": "Starbucks Bottle squishy",
     "description": "New Starbucks bottle available now a box of 12 ( each ).",
     "category": "home-gifts",
-    "price": 5.5,
-    "costPrice": 0,
+    "price": 36,
+    "costPrice": 3,
     "compareAtPrice": null,
-    "stock": 50,
+    "stock": 120,
     "images": [
       "/images/products/telegram/tg-starbucks-bottle-3583-1.webp"
     ],
@@ -14386,7 +14386,7 @@
       "Home"
     ],
     "active": true,
-    "updatedAt": "2026-10-31T23:57:01.470Z",
+    "updatedAt": "2026-11-21T07:39:02.009Z",
     "ageRange": "3-5 years",
     "brand": "Toy Bloom Wholesale",
     "theme": "Home",
