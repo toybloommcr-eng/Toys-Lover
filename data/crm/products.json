@@ -15179,9 +15179,9 @@
     "description": "Spiky puffer-ball squishies in animal characters. Manchester Toys Telegram stock. Not a food item. Ages 3+.",
     "category": "character-squishies",
     "price": 18,
-    "costPrice": 0,
+    "costPrice": 1.5,
     "compareAtPrice": null,
-    "stock": 48,
+    "stock": 120,
     "images": [
       "/images/products/telegram/tg-puffer-ball-squishy-in-character-3513-1.webp",
       "/images/products/telegram/tg-puffer-ball-squishy-in-character-3513-2.webp",
@@ -15195,7 +15195,7 @@
       "Telegram stock"
     ],
     "active": true,
-    "updatedAt": "2026-10-31T23:57:01.470Z",
+    "updatedAt": "2026-11-21T07:27:50.036Z",
     "ageRange": "3-5 years",
     "brand": "Toy Bloom Wholesale",
     "theme": "Telegram stock",
