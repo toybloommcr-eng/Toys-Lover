@@ -12404,10 +12404,10 @@
     "title": "K-Pop Surprise Balls",
     "description": "K-Pop SURPRISE BALLS. IN 3 SIZES. Small for a pack of 24. Med for a pack of 12. Large for a pack of 12.",
     "category": "action-figures",
-    "price": 1,
-    "costPrice": 0,
+    "price": 24,
+    "costPrice": 1,
     "compareAtPrice": null,
-    "stock": 50,
+    "stock": 120,
     "images": [
       "/images/products/telegram/tg-k-pop-surprise-balls-2722-7.webp",
       "/images/products/telegram/tg-k-pop-surprise-balls-2722-2.webp",
@@ -12423,7 +12423,7 @@
       "K-Pop"
     ],
     "active": true,
-    "updatedAt": "2026-10-31T23:57:01.470Z",
+    "updatedAt": "2026-11-21T08:12:11.684Z",
     "ageRange": "3-5 years",
     "brand": "Toy Bloom Wholesale",
     "theme": "K-Pop",
