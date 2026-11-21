@@ -12317,10 +12317,10 @@
     "title": "Neon Light Ups",
     "description": "All neons. New light up in stock now. Each. Box price 144 in carton.",
     "category": "light-up-toys",
-    "price": 2.5,
-    "costPrice": 0,
+    "price": 30,
+    "costPrice": 2.5,
     "compareAtPrice": null,
-    "stock": 50,
+    "stock": 120,
     "images": [
       "/images/products/telegram/tg-neon-light-ups-2694-2.webp",
       "/images/products/telegram/tg-neon-light-ups-2694-6.webp",
@@ -12336,7 +12336,7 @@
       "Lights"
     ],
     "active": true,
-    "updatedAt": "2026-10-31T23:57:01.470Z",
+    "updatedAt": "2026-11-21T08:13:28.801Z",
     "ageRange": "3-5 years",
     "brand": "Toy Bloom Wholesale",
     "theme": "Lights",
@@ -12350,9 +12350,9 @@
     "safety": "Ages 3+. Adult supervision recommended. Not suitable for children under 36 months (small parts).",
     "materials": "See packaging.",
     "isNew": true,
-    "piecesPerBox": 144,
+    "piecesPerBox": 12,
     "moqUnit": "pcs",
-    "moqLabel": "Min order: 144 pcs (1 box)"
+    "moqLabel": "Min order: 12 pcs (1 box)"
   },
   {
     "id": "tg-k-pop-figures-in-in-surprise-packet-with-cards-2713",
