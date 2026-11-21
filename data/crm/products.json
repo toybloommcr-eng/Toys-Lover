@@ -14145,10 +14145,10 @@
     "title": "Stretch Toys Dog & Donkey",
     "description": "New stretch toys in dog, donkey styles available in 2 size. Big each. Small each.",
     "category": "fidget-spinners",
-    "price": 7.5,
-    "costPrice": 0,
+    "price": 5.5,
+    "costPrice": 5.5,
     "compareAtPrice": null,
-    "stock": 50,
+    "stock": 120,
     "images": [
       "/images/products/telegram/tg-stretch-toys-dog-donkey-3500-6.webp",
       "/images/products/telegram/tg-stretch-toys-dog-donkey-3500-7.webp",
@@ -14164,7 +14164,7 @@
       "Sensory"
     ],
     "active": true,
-    "updatedAt": "2026-10-31T23:57:01.470Z",
+    "updatedAt": "2026-11-21T07:42:35.507Z",
     "ageRange": "3-5 years",
     "brand": "Toy Bloom Wholesale",
     "theme": "Sensory",
