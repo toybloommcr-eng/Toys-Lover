@@ -13534,10 +13534,10 @@
     "title": "Soft Teddy Keyring",
     "description": "New soft teddy keyring available now only at a pack of 12.",
     "category": "novelty-keyrings",
-    "price": 1.75,
-    "costPrice": 0,
+    "price": 10.8,
+    "costPrice": 0.9,
     "compareAtPrice": null,
-    "stock": 50,
+    "stock": 120,
     "images": [
       "/images/products/telegram/tg-soft-teddy-keyring-3239-1.webp",
       "/images/products/telegram/tg-soft-teddy-keyring-3239-2.webp",
@@ -13553,7 +13553,7 @@
       "Keyrings"
     ],
     "active": true,
-    "updatedAt": "2026-10-31T23:57:01.470Z",
+    "updatedAt": "2026-11-21T07:51:16.919Z",
     "ageRange": "3-5 years",
     "brand": "Toy Bloom Wholesale",
     "theme": "Keyrings",
