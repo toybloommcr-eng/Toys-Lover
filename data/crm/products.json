@@ -13578,9 +13578,9 @@
     "description": "Air horn available now. Each minimum 10. Each box of 72.",
     "category": "party-spotlight",
     "price": 1,
-    "costPrice": 0,
+    "costPrice": 1,
     "compareAtPrice": null,
-    "stock": 50,
+    "stock": 80,
     "images": [
       "/images/products/telegram/tg-air-horn-3242-1.webp",
       "/images/products/telegram/tg-air-horn-3242-2.webp"
@@ -13590,7 +13590,7 @@
       "Party"
     ],
     "active": true,
-    "updatedAt": "2026-10-31T23:57:01.470Z",
+    "updatedAt": "2026-11-21T07:50:10.680Z",
     "ageRange": "3-5 years",
     "brand": "Toy Bloom Wholesale",
     "theme": "Party",
