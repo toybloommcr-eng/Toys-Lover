@@ -14335,13 +14335,13 @@
     "id": "tg-starbucks-cups-3582",
     "slug": "tg-starbucks-cups-3582",
     "sku": "",
-    "title": "Starbucks Cups",
+    "title": "Starbucks Cups squishy",
     "description": "Starbucks cups available now a box of 12 ( each ).",
     "category": "home-gifts",
-    "price": 4.5,
-    "costPrice": 0,
+    "price": 2,
+    "costPrice": 2,
     "compareAtPrice": null,
-    "stock": 50,
+    "stock": 120,
     "images": [
       "/images/products/telegram/tg-starbucks-cups-3582-1.webp"
     ],
@@ -14350,7 +14350,7 @@
       "Home"
     ],
     "active": true,
-    "updatedAt": "2026-10-31T23:57:01.470Z",
+    "updatedAt": "2026-11-21T07:39:47.168Z",
     "ageRange": "3-5 years",
     "brand": "Toy Bloom Wholesale",
     "theme": "Home",
