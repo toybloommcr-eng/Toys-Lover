@@ -14921,17 +14921,16 @@
     "price": 24,
     "costPrice": 0,
     "compareAtPrice": null,
-    "stock": 120,
+    "stock": 0,
     "images": [
-      "/images/products/telegram/tg-brain-rot-squishy-2602-1.webp",
-      "/images/products/telegram/tg-brain-rot-squishy-2602-2.webp"
+      "/images/products/telegram/tg-brain-rot-squishy-2602-1.webp"
     ],
     "tags": [
       "Toy Bloom Wholesale",
       "Telegram stock"
     ],
     "active": true,
-    "updatedAt": "2026-11-22T12:51:22.852Z",
+    "updatedAt": "2026-11-22T17:06:22.575Z",
     "ageRange": "3-5 years",
     "brand": "Toy Bloom Wholesale",
     "theme": "Telegram stock",
