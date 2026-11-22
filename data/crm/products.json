@@ -11961,7 +11961,7 @@
     "description": "K-Pop SURPRISE BALLS. IN 3 SIZES. Small for a pack of 24. Med for a pack of 12. Large for a pack of 12.",
     "category": "action-figures",
     "price": 24,
-    "costPrice": 1,
+    "costPrice": 0,
     "compareAtPrice": null,
     "stock": 120,
     "images": [
@@ -11979,7 +11979,7 @@
       "K-Pop"
     ],
     "active": true,
-    "updatedAt": "2026-11-21T08:12:11.684Z",
+    "updatedAt": "2026-11-22T13:01:16.553Z",
     "ageRange": "3-5 years",
     "brand": "Toy Bloom Wholesale",
     "theme": "K-Pop",
