@@ -10719,7 +10719,7 @@
     "description": "Surprise balls big size. For box of 12pcs.",
     "category": "outdoor-sports",
     "price": 18,
-    "costPrice": 1.5,
+    "costPrice": 0,
     "compareAtPrice": null,
     "stock": 120,
     "images": [
@@ -10737,7 +10737,7 @@
       "Outdoor"
     ],
     "active": true,
-    "updatedAt": "2026-11-22T01:29:09.556Z",
+    "updatedAt": "2026-11-22T13:03:24.358Z",
     "ageRange": "3-5 years",
     "brand": "Toy Bloom Wholesale",
     "theme": "Outdoor",
