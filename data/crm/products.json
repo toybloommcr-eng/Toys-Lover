@@ -8500,7 +8500,7 @@
     "description": "Smiley’s balls In stock now. With strings. Each.",
     "category": "outdoor-sports",
     "price": 12,
-    "costPrice": 1,
+    "costPrice": 0,
     "compareAtPrice": null,
     "stock": 120,
     "images": [
@@ -8513,7 +8513,7 @@
       "Outdoor"
     ],
     "active": true,
-    "updatedAt": "2026-11-22T01:54:51.394Z",
+    "updatedAt": "2026-11-22T13:07:17.405Z",
     "ageRange": "3-5 years",
     "brand": "Toy Bloom Wholesale",
     "theme": "Outdoor",
