@@ -9129,44 +9129,6 @@
     "moqLabel": "Min order: 12 pcs (1 box)"
   },
   {
-    "id": "tg-dart-size-38cm-1607",
-    "slug": "tg-dart-size-38cm-1607",
-    "sku": "",
-    "title": "Dart Size 38cm",
-    "description": "New dart size 38cm. Available. Each. 12 for.",
-    "category": "outdoor-sports",
-    "price": 4.5,
-    "costPrice": 0,
-    "compareAtPrice": null,
-    "stock": 120,
-    "images": [
-      "/images/products/telegram/tg-dart-size-38cm-1607-1.webp",
-      "/images/products/telegram/tg-dart-size-38cm-1607-2.webp",
-      "/images/products/telegram/tg-dart-size-38cm-1607-3.webp"
-    ],
-    "tags": [
-      "Toy Bloom Wholesale",
-      "Outdoor"
-    ],
-    "active": true,
-    "updatedAt": "2026-11-22T01:48:14.301Z",
-    "ageRange": "3-5 years",
-    "brand": "Toy Bloom Wholesale",
-    "theme": "Outdoor",
-    "shortDescription": "New dart size 38cm. Available. Each. 12 for.",
-    "features": [
-      "Min order: 1 pc",
-      "£4.50 each",
-      "Bulk: 12 for £42.00"
-    ],
-    "safety": "Ages 3+. Adult supervision recommended. Not suitable for children under 36 months (small parts).",
-    "materials": "See packaging.",
-    "isNew": true,
-    "piecesPerBox": 1,
-    "moqUnit": "pcs",
-    "moqLabel": "Min order: 1 pc"
-  },
-  {
     "id": "tg-dart-size-48cm-1614",
     "slug": "tg-dart-size-48cm-1614",
     "sku": "",
