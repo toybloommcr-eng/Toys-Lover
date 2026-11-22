@@ -4131,10 +4131,10 @@
     "title": "Pop Up Ears and Light Hats",
     "description": "All new pop up ears and light up hats.",
     "category": "party-spotlight",
-    "price": 3.5,
+    "price": 30,
     "costPrice": 0,
     "compareAtPrice": null,
-    "stock": 30,
+    "stock": 120,
     "images": [
       "/images/products/telegram/tg-pop-up-ears-and-light-up-hats-53-2.webp",
       "/images/products/telegram/tg-pop-up-ears-and-light-up-hats-53-3.webp",
@@ -4150,7 +4150,7 @@
       "Lights"
     ],
     "active": true,
-    "updatedAt": "2026-11-22T11:43:47.000Z",
+    "updatedAt": "2026-11-22T11:44:24.637Z",
     "ageRange": "3-5 years",
     "brand": "Toy Bloom Wholesale",
     "theme": "Lights",
