@@ -7463,7 +7463,7 @@
     "description": "New designs MINI football available each. Pack of 12 (£).",
     "category": "outdoor-sports",
     "price": 18,
-    "costPrice": 1.5,
+    "costPrice": 0,
     "compareAtPrice": null,
     "stock": 120,
     "images": [
@@ -7480,7 +7480,7 @@
       "Football"
     ],
     "active": true,
-    "updatedAt": "2026-11-22T02:04:39.353Z",
+    "updatedAt": "2026-11-22T13:09:12.352Z",
     "ageRange": "3-5 years",
     "brand": "Toy Bloom Wholesale",
     "theme": "Football",
