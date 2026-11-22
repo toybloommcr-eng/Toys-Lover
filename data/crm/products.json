@@ -14447,7 +14447,7 @@
     "description": "Fizzy-drink can squishies in assorted flavours. Manchester Toys Telegram stock. Not a food item. Ages 3+.",
     "category": "food-squishies",
     "price": 24,
-    "costPrice": 2,
+    "costPrice": 0,
     "compareAtPrice": null,
     "stock": 120,
     "images": [
@@ -14458,7 +14458,7 @@
       "Telegram stock"
     ],
     "active": true,
-    "updatedAt": "2026-11-21T07:32:18.487Z",
+    "updatedAt": "2026-11-22T12:53:02.116Z",
     "ageRange": "3-5 years",
     "brand": "Toy Bloom Wholesale",
     "theme": "Telegram stock",
