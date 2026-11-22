@@ -16054,7 +16054,7 @@
     "description": "Ocean Shell squishies filled with vaseline-style gel. Manchester Toys Telegram stock (Thu 29 Oct). Not a food item. Ages 3+.",
     "category": "vaseline-squishies",
     "price": 36,
-    "costPrice": 3,
+    "costPrice": 0,
     "compareAtPrice": null,
     "stock": 120,
     "images": [
@@ -16066,7 +16066,7 @@
       "Telegram stock"
     ],
     "active": true,
-    "updatedAt": "2026-11-20T16:28:23.982Z",
+    "updatedAt": "2026-11-22T12:27:37.476Z",
     "ageRange": "3-5 years",
     "brand": "Toy Bloom Wholesale",
     "theme": "Telegram stock",
