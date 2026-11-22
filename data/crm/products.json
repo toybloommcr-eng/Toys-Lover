@@ -15951,7 +15951,7 @@
     "description": "Coffee-cup sugar squishies. Manchester Toys Telegram stock. Not a food item. Ages 3+.",
     "category": "food-squishies",
     "price": 42,
-    "costPrice": 3.5,
+    "costPrice": 0,
     "compareAtPrice": null,
     "stock": 120,
     "images": [
@@ -15962,7 +15962,7 @@
       "Telegram stock"
     ],
     "active": true,
-    "updatedAt": "2026-11-20T16:32:37.145Z",
+    "updatedAt": "2026-11-22T12:28:10.700Z",
     "ageRange": "3-5 years",
     "brand": "Toy Bloom Wholesale",
     "theme": "Telegram stock",
