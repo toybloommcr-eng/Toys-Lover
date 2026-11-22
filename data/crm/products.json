@@ -17464,7 +17464,7 @@
     "description": "Top Trumps Disney Pixar Lightyear Match Board Game, Play with Izzy, Mo, Zurg, Sox the Cat and Buzz himself, Educational strategy game for ages 4 and up",
     "category": "board-games",
     "price": 12,
-    "costPrice": 12,
+    "costPrice": 0,
     "compareAtPrice": null,
     "stock": 120,
     "images": [
@@ -17478,7 +17478,7 @@
       "Telegram stock"
     ],
     "active": true,
-    "updatedAt": "2026-11-20T12:44:20.322Z",
+    "updatedAt": "2026-11-22T12:19:55.552Z",
     "ageRange": "3-5 years",
     "brand": "Manchester Toys",
     "theme": "Telegram stock",
