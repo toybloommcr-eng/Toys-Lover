@@ -9090,7 +9090,7 @@
     "description": "Stitch beach bag available now. Each or. Pack of 12 mix.",
     "category": "bags-accessories",
     "price": 24,
-    "costPrice": 2,
+    "costPrice": 0,
     "compareAtPrice": null,
     "stock": 120,
     "images": [
@@ -9105,7 +9105,7 @@
       "Stitch"
     ],
     "active": true,
-    "updatedAt": "2026-11-22T01:43:10.072Z",
+    "updatedAt": "2026-11-22T13:05:54.704Z",
     "ageRange": "3-5 years",
     "brand": "Toy Bloom Wholesale",
     "theme": "Stitch",
