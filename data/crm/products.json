@@ -3469,7 +3469,7 @@
     "price": 7.99,
     "costPrice": 0,
     "compareAtPrice": null,
-    "stock": 17,
+    "stock": 120,
     "images": [
       "/images/products/colorful-gear-sport-car.jpg"
     ],
@@ -3478,7 +3478,7 @@
       "Vehicles"
     ],
     "active": true,
-    "updatedAt": "2026-10-31T23:57:01.470Z",
+    "updatedAt": "2026-11-22T11:49:11.927Z",
     "ageRange": "3-5 years",
     "brand": "OPO Europe",
     "theme": "Vehicles",
