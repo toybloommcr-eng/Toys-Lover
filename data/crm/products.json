@@ -14509,43 +14509,6 @@
     "moqLabel": "Box of 12"
   },
   {
-    "id": "sq-fun-food-squeeze",
-    "slug": "sq-fun-food-squeeze",
-    "sku": "",
-    "title": "Fun Food Squeeze Toys",
-    "description": "Assorted fun-food squeeze toys. Manchester Toys Telegram stock. Not a food item. Ages 3+.",
-    "category": "needoh-squishies",
-    "price": 24,
-    "costPrice": 0,
-    "compareAtPrice": null,
-    "stock": 120,
-    "images": [
-      "/images/products/tg-new-fun-food-squeeze-24.jpg",
-      "/images/products/tg-new-fun-food-squeeze-24-2.jpg",
-      "/images/products/tg-new-fun-food-squeeze-24-3.jpg",
-      "/images/products/tg-new-fun-food-squeeze-24-4.jpg"
-    ],
-    "tags": [
-      "Toy Bloom Wholesale",
-      "Telegram stock"
-    ],
-    "active": true,
-    "updatedAt": "2026-11-22T12:52:54.975Z",
-    "ageRange": "3-5 years",
-    "brand": "Toy Bloom Wholesale",
-    "theme": "Telegram stock",
-    "shortDescription": "Assorted fun-food squeeze toys.",
-    "features": [
-      "Box of 12"
-    ],
-    "safety": "Ages 3+. Not a food item. Do not eat. Supervise younger children.",
-    "materials": "Soft sensory fill / PU foam. Not a food item.",
-    "isNew": true,
-    "isBestSeller": true,
-    "piecesPerBox": 12,
-    "moqLabel": "Box of 12"
-  },
-  {
     "id": "sq-jumbo-chicken-drumstick",
     "slug": "sq-jumbo-chicken-drumstick",
     "sku": "",
