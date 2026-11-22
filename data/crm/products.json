@@ -1967,43 +1967,6 @@
     "moqLabel": "Min order: 1 pcs"
   },
   {
-    "id": "chrome-spray-fan",
-    "slug": "chrome-spray-fan",
-    "sku": "",
-    "title": "Chrome Spray Fan",
-    "description": "Silver icy-fan spray mister with a water window in the handle. Photographed from the new delivery, centred in a square frame so the toy is easy to recognise on every screen.",
-    "category": "home-gifts",
-    "price": 11.99,
-    "costPrice": 0,
-    "compareAtPrice": null,
-    "stock": 41,
-    "images": [
-      "/images/products/chrome-spray-fan.jpg"
-    ],
-    "tags": [
-      "Cool Breeze",
-      "Gadgets"
-    ],
-    "active": true,
-    "updatedAt": "2026-10-31T23:57:01.470Z",
-    "ageRange": "9-12 years",
-    "brand": "Cool Breeze",
-    "theme": "Gadgets",
-    "shortDescription": "Silver icy-fan spray mister with a water window in the handle.",
-    "features": [
-      "Min order: 1 pcs",
-      "Mist spray",
-      "Chrome body",
-      "Ages 8+",
-      "USB charge"
-    ],
-    "safety": "Ages 9+. Remove tags and packaging before gifting. Batteries as labelled.",
-    "materials": "ABS housing, USB-charge fan motor, optional water tank.",
-    "isNew": true,
-    "piecesPerBox": 1,
-    "moqLabel": "Min order: 1 pcs"
-  },
-  {
     "id": "purple-spray-fan",
     "slug": "purple-spray-fan",
     "sku": "",
