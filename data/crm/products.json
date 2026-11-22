@@ -17157,48 +17157,6 @@
     "moqLabel": "Ask for price"
   },
   {
-    "id": "tg-oct29-light-up-wands",
-    "slug": "tg-oct29-light-up-wands",
-    "sku": "",
-    "title": "Light Up Shape Wands – Mickey, Star, Heart & Butterfly",
-    "description": "LED light-up wands in Mickey, star, heart, butterfly and snowflake shapes. Manchester Toys Telegram stock. Ages 3+.",
-    "category": "light-up-toys",
-    "price": 0,
-    "costPrice": 0,
-    "compareAtPrice": null,
-    "stock": 48,
-    "images": [
-      "/images/products/tg-oct29-light-up-wands.jpg",
-      "/images/products/tg-oct29-light-up-wands-2.jpg",
-      "/images/products/tg-oct29-light-up-wands-3.jpg",
-      "/images/products/tg-oct29-light-up-wands-4.jpg",
-      "/images/products/tg-oct29-light-up-wands-5.jpg",
-      "/images/products/tg-oct29-light-up-wands-6.jpg",
-      "/images/products/tg-oct29-light-up-wands-7.jpg",
-      "/images/products/tg-oct29-light-up-wands-8.jpg"
-    ],
-    "tags": [
-      "Manchester Toys",
-      "Telegram stock"
-    ],
-    "active": true,
-    "updatedAt": "2026-10-31T23:57:01.470Z",
-    "priceTBC": true,
-    "ageRange": "3-5 years",
-    "brand": "Manchester Toys",
-    "theme": "Telegram stock",
-    "shortDescription": "LED light-up wands in Mickey, star, heart, butterfly and snowflake shapes.",
-    "features": [
-      "Ask for price"
-    ],
-    "safety": "Ages 3+. Supervise younger children.",
-    "materials": "Plastic / plush with LED.",
-    "isNew": true,
-    "isBestSeller": true,
-    "piecesPerBox": 1,
-    "moqLabel": "Ask for price"
-  },
-  {
     "id": "tg-oct29-princess-wands",
     "slug": "tg-oct29-princess-wands",
     "sku": "",
