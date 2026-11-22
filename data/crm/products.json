@@ -12472,7 +12472,7 @@
     "description": "New Stitch flower gift set. Lovely product for gift.",
     "category": "plush-soft-toys",
     "price": 12,
-    "costPrice": 12,
+    "costPrice": 0,
     "compareAtPrice": null,
     "stock": 120,
     "images": [
@@ -12490,7 +12490,7 @@
       "Stitch"
     ],
     "active": true,
-    "updatedAt": "2026-11-21T08:05:29.879Z",
+    "updatedAt": "2026-11-22T13:00:37.196Z",
     "ageRange": "3-5 years",
     "brand": "Toy Bloom Wholesale",
     "theme": "Stitch",
