@@ -17115,7 +17115,7 @@
     "description": "An electric pearl sword and glow stick, combining a sword-inspired design with an illuminated feature. A fun novelty addition to any toy collection.",
     "category": "light-up-toys",
     "price": 3.5,
-    "costPrice": 3.5,
+    "costPrice": 0,
     "compareAtPrice": null,
     "stock": 120,
     "images": [
@@ -17128,7 +17128,7 @@
       "Telegram stock"
     ],
     "active": true,
-    "updatedAt": "2026-11-20T13:12:53.020Z",
+    "updatedAt": "2026-11-22T12:21:09.800Z",
     "priceTBC": true,
     "ageRange": "3-5 years",
     "brand": "Manchester Toys",
