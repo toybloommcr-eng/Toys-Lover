@@ -15025,7 +15025,7 @@
     "description": "Funny-face Smushers venting balls. Manchester Toys Telegram stock. Not a food item. Ages 3+.",
     "category": "character-squishies",
     "price": 36,
-    "costPrice": 3,
+    "costPrice": 0,
     "compareAtPrice": null,
     "stock": 120,
     "images": [
@@ -15038,7 +15038,7 @@
       "Telegram stock"
     ],
     "active": true,
-    "updatedAt": "2026-11-21T00:02:43.297Z",
+    "updatedAt": "2026-11-22T12:50:40.043Z",
     "ageRange": "3-5 years",
     "brand": "Toy Bloom Wholesale",
     "theme": "Telegram stock",
