@@ -3507,7 +3507,7 @@
     "price": 9.99,
     "costPrice": 0,
     "compareAtPrice": null,
-    "stock": 24,
+    "stock": 120,
     "images": [
       "/images/products/mermaid-bath-bomb-gift.jpg"
     ],
@@ -3516,7 +3516,7 @@
       "Bath"
     ],
     "active": true,
-    "updatedAt": "2026-10-31T23:57:01.470Z",
+    "updatedAt": "2026-11-22T11:48:47.396Z",
     "ageRange": "6-8 years",
     "brand": "Bath Bloom",
     "theme": "Bath",
