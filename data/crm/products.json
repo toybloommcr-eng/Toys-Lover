@@ -8933,7 +8933,7 @@
     "description": "Stitch bag. Each. For a pack of 12.",
     "category": "bags-accessories",
     "price": 42,
-    "costPrice": 3.5,
+    "costPrice": 0,
     "compareAtPrice": null,
     "stock": 120,
     "images": [
@@ -8946,7 +8946,7 @@
       "Stitch"
     ],
     "active": true,
-    "updatedAt": "2026-11-22T01:45:08.540Z",
+    "updatedAt": "2026-11-22T13:06:27.874Z",
     "ageRange": "3-5 years",
     "brand": "Toy Bloom Wholesale",
     "theme": "Stitch",
