@@ -3583,7 +3583,7 @@
     "price": 9.99,
     "costPrice": 0,
     "compareAtPrice": null,
-    "stock": 32,
+    "stock": 120,
     "images": [
       "/images/products/ocean-series-bath-bombs.jpg"
     ],
@@ -3592,7 +3592,7 @@
       "Bath"
     ],
     "active": true,
-    "updatedAt": "2026-10-31T23:57:01.470Z",
+    "updatedAt": "2026-11-22T11:48:23.373Z",
     "ageRange": "6-8 years",
     "brand": "Bath Bloom",
     "theme": "Bath",
