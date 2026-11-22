@@ -5195,10 +5195,10 @@
     "title": "Advent Calendar",
     "description": "Advent calendar. Each. Or mix 10 for.",
     "category": "seasonal",
-    "price": 9,
+    "price": 7.5,
     "costPrice": 0,
     "compareAtPrice": null,
-    "stock": 50,
+    "stock": 120,
     "images": [
       "/images/products/telegram/tg-advent-calendar-275-1.webp",
       "/images/products/telegram/tg-advent-calendar-275-2.webp",
@@ -5212,7 +5212,7 @@
       "Seasonal"
     ],
     "active": true,
-    "updatedAt": "2026-10-31T23:57:01.470Z",
+    "updatedAt": "2026-11-22T11:35:19.835Z",
     "ageRange": "3-5 years",
     "brand": "Toy Bloom Wholesale",
     "theme": "Seasonal",
