@@ -11191,7 +11191,7 @@
     "description": "LED TREE LIGHT. 24 in a box.",
     "category": "light-up-toys",
     "price": 24,
-    "costPrice": 1,
+    "costPrice": 0,
     "compareAtPrice": null,
     "stock": 120,
     "images": [
@@ -11203,7 +11203,7 @@
       "Lights"
     ],
     "active": true,
-    "updatedAt": "2026-11-22T01:24:26.977Z",
+    "updatedAt": "2026-11-22T13:02:38.029Z",
     "ageRange": "3-5 years",
     "brand": "Toy Bloom Wholesale",
     "theme": "Lights",
