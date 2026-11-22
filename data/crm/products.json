@@ -525,10 +525,10 @@
     "title": "Night Dragon Flop Hat",
     "description": "Black dragon hat with glowing-style eyes and long flop wings. Photographed from the new delivery, centred in a square frame so the toy is easy to recognise on every screen.",
     "category": "party-spotlight",
-    "price": 14.99,
+    "price": 4.5,
     "costPrice": 0,
     "compareAtPrice": null,
-    "stock": 28,
+    "stock": 120,
     "images": [
       "/images/products/night-dragon-flop-hat.jpg"
     ],
@@ -537,7 +537,7 @@
       "Dress-up"
     ],
     "active": true,
-    "updatedAt": "2026-10-31T23:57:01.470Z",
+    "updatedAt": "2026-11-22T12:12:56.431Z",
     "ageRange": "6-8 years",
     "brand": "Street Fun",
     "theme": "Dress-up",
