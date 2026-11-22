@@ -10314,7 +10314,7 @@
     "description": "FuGGLER BALL. FuGGLER KEYRING. Available now 12 in a pack.",
     "category": "outdoor-sports",
     "price": 15,
-    "costPrice": 1.25,
+    "costPrice": 0,
     "compareAtPrice": null,
     "stock": 120,
     "images": [
@@ -10327,7 +10327,7 @@
       "Outdoor"
     ],
     "active": true,
-    "updatedAt": "2026-11-22T01:33:08.828Z",
+    "updatedAt": "2026-11-22T13:04:11.794Z",
     "ageRange": "3-5 years",
     "brand": "Toy Bloom Wholesale",
     "theme": "Outdoor",
