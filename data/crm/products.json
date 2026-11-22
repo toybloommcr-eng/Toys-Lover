@@ -9414,10 +9414,10 @@
     "title": "Crocs Charms Pack of 6",
     "description": "New Crocs charms available. For a pack of 6.",
     "category": "novelty-keyrings",
-    "price": 1,
-    "costPrice": 0,
+    "price": 6,
+    "costPrice": 1,
     "compareAtPrice": null,
-    "stock": 50,
+    "stock": 120,
     "images": [
       "/images/products/telegram/tg-crocs-charms-pack-of-6-1822-4.webp",
       "/images/products/telegram/tg-crocs-charms-pack-of-6-1822-2.webp",
@@ -9433,7 +9433,7 @@
       "Keyrings"
     ],
     "active": true,
-    "updatedAt": "2026-10-31T23:57:01.470Z",
+    "updatedAt": "2026-11-22T01:44:38.000Z",
     "ageRange": "3-5 years",
     "brand": "Toy Bloom Wholesale",
     "theme": "Keyrings",
@@ -9446,9 +9446,9 @@
     "safety": "Ages 3+. Adult supervision recommended. Not suitable for children under 36 months (small parts).",
     "materials": "See packaging.",
     "isNew": true,
-    "piecesPerBox": 1,
+    "piecesPerBox": 6,
     "moqUnit": "pcs",
-    "moqLabel": "Min order: 1 pc"
+    "moqLabel": "Min order: 6 pc"
   },
   {
     "id": "tg-bigger-crocs-charms-pack-1828",
