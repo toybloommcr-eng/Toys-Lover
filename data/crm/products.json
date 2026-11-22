@@ -8820,12 +8820,12 @@
     "slug": "tg-soft-teddy-1477",
     "sku": "",
     "title": "Soft Teddy",
-    "description": "New soft toys teddy available for 10.",
+    "description": "New soft toys teddy available.",
     "category": "plush-soft-toys",
     "price": 5.5,
     "costPrice": 0,
     "compareAtPrice": null,
-    "stock": 50,
+    "stock": 120,
     "images": [
       "/images/products/telegram/tg-soft-teddy-1477-1.webp",
       "/images/products/telegram/tg-soft-teddy-1477-2.webp",
@@ -8838,7 +8838,7 @@
       "Plush"
     ],
     "active": true,
-    "updatedAt": "2026-10-31T23:57:01.470Z",
+    "updatedAt": "2026-11-22T01:55:35.420Z",
     "ageRange": "3-5 years",
     "brand": "Toy Bloom Wholesale",
     "theme": "Plush",
