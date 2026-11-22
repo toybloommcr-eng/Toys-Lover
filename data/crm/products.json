@@ -9096,12 +9096,12 @@
     "slug": "tg-spider-lights-up-1576",
     "sku": "",
     "title": "Spider Lights Up",
-    "description": "Spider lights up. Each. Or pack of 12.",
+    "description": "Spider lights up. Each. ",
     "category": "light-up-toys",
     "price": 3,
     "costPrice": 0,
     "compareAtPrice": null,
-    "stock": 50,
+    "stock": 120,
     "images": [
       "/images/products/telegram/tg-spider-lights-up-1576-1.webp",
       "/images/products/telegram/tg-spider-lights-up-1576-2.webp"
@@ -9111,7 +9111,7 @@
       "Characters"
     ],
     "active": true,
-    "updatedAt": "2026-10-31T23:57:01.470Z",
+    "updatedAt": "2026-11-22T01:48:44.035Z",
     "ageRange": "3-5 years",
     "brand": "Toy Bloom Wholesale",
     "theme": "Characters",
