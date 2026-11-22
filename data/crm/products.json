@@ -2154,43 +2154,6 @@
     "moqLabel": "Min order: 1 pcs"
   },
   {
-    "id": "monster-buddy-big-bag-10",
-    "slug": "monster-buddy-big-bag-10",
-    "sku": "",
-    "title": "Monster Buddy Big Bag 10",
-    "description": "Roomy monster-buddy bag from the new tray — photographed so the face and zip sit clear. Centred on a clean white frame so the toy stays sharp on every screen.",
-    "category": "bags-accessories",
-    "price": 5.5,
-    "costPrice": 0,
-    "compareAtPrice": null,
-    "stock": 120,
-    "images": [
-      "/images/products/monster-buddy-big-bag-10.jpg"
-    ],
-    "tags": [
-      "Street Fun",
-      "Bags"
-    ],
-    "active": true,
-    "updatedAt": "2026-11-22T12:00:43.959Z",
-    "ageRange": "9-12 years",
-    "brand": "Street Fun",
-    "theme": "Bags",
-    "shortDescription": "Roomy monster-buddy bag from the new tray — photographed so the face and zip sit clear.",
-    "features": [
-      "Min order: 1 pcs",
-      "Zip pouch",
-      "Plush face",
-      "Carry-along",
-      "New delivery"
-    ],
-    "safety": "Ages 9+. Remove tags and packaging before gifting. Batteries as labelled.",
-    "materials": "Soft plush pile, zip pouch, polyester lining.",
-    "isNew": true,
-    "piecesPerBox": 1,
-    "moqLabel": "Min order: 1 pcs"
-  },
-  {
     "id": "hatch-dragon-egg-02",
     "slug": "hatch-dragon-egg-02",
     "sku": "",
