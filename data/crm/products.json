@@ -8784,10 +8784,10 @@
     "title": "Slime Stitch",
     "description": "Slime stitch available now.",
     "category": "fidget-spinners",
-    "price": 1.1,
+    "price": 1,
     "costPrice": 0,
     "compareAtPrice": null,
-    "stock": 50,
+    "stock": 120,
     "images": [
       "/images/products/telegram/tg-slime-stitch-1452-4.webp",
       "/images/products/telegram/tg-slime-stitch-1452-3.webp",
@@ -8799,7 +8799,7 @@
       "Sensory"
     ],
     "active": true,
-    "updatedAt": "2026-10-31T23:57:01.470Z",
+    "updatedAt": "2026-11-22T01:56:03.396Z",
     "ageRange": "3-5 years",
     "brand": "Toy Bloom Wholesale",
     "theme": "Sensory",
