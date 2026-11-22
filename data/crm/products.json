@@ -1150,43 +1150,6 @@
     "moqLabel": "Min order: 1 pcs"
   },
   {
-    "id": "mini-lit-christmas-trees",
-    "slug": "mini-lit-christmas-trees",
-    "sku": "",
-    "title": "Mini Lit Christmas Trees",
-    "description": "Three table-top Christmas trees with warm lights and gifts at the base. Photographed from the new delivery, centred in a square frame so the toy is easy to recognise on every screen.",
-    "category": "seasonal",
-    "price": 1.99,
-    "costPrice": 0,
-    "compareAtPrice": null,
-    "stock": 120,
-    "images": [
-      "/images/products/mini-lit-christmas-trees.jpg"
-    ],
-    "tags": [
-      "Nightfield",
-      "Christmas"
-    ],
-    "active": true,
-    "updatedAt": "2026-11-22T12:08:01.247Z",
-    "ageRange": "6-8 years",
-    "brand": "Nightfield",
-    "theme": "Christmas",
-    "shortDescription": "Three table-top Christmas trees with warm lights and gifts at the base.",
-    "features": [
-      "Min order: 1 pcs",
-      "Warm LEDs",
-      "Table size",
-      "Gift scene",
-      "Indoor"
-    ],
-    "safety": "Ages 6+. Not a food item. Supervise first use of lights and batteries.",
-    "materials": "LED plastic, batteries as labelled.",
-    "isNew": true,
-    "piecesPerBox": 1,
-    "moqLabel": "Min order: 1 pcs"
-  },
-  {
     "id": "reindeer-snow-lanterns",
     "slug": "reindeer-snow-lanterns",
     "sku": "",
