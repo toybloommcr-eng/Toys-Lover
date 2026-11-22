@@ -14591,7 +14591,7 @@
     "price": 33,
     "costPrice": 0,
     "compareAtPrice": null,
-    "stock": 120,
+    "stock": 0,
     "images": [
       "/images/products/telegram/tg-jumbo-squishy-3519-4.webp"
     ],
@@ -14600,7 +14600,7 @@
       "Telegram stock"
     ],
     "active": true,
-    "updatedAt": "2026-11-22T12:52:38.818Z",
+    "updatedAt": "2026-11-22T17:16:45.396Z",
     "ageRange": "3-5 years",
     "brand": "Toy Bloom Wholesale",
     "theme": "Telegram stock",
