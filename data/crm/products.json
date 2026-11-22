@@ -1373,43 +1373,6 @@
     "moqLabel": "Min order: 1 pcs"
   },
   {
-    "id": "santa-house-lanterns",
-    "slug": "santa-house-lanterns",
-    "sku": "",
-    "title": "Santa House Lanterns",
-    "description": "White house lanterns with Santa and a tree in the window. Photographed from the new delivery, centred in a square frame so the toy is easy to recognise on every screen.",
-    "category": "seasonal",
-    "price": 1.99,
-    "costPrice": 0,
-    "compareAtPrice": null,
-    "stock": 21,
-    "images": [
-      "/images/products/santa-house-lanterns.jpg"
-    ],
-    "tags": [
-      "Nightfield",
-      "Christmas"
-    ],
-    "active": true,
-    "updatedAt": "2026-10-31T23:57:01.470Z",
-    "ageRange": "6-8 years",
-    "brand": "Nightfield",
-    "theme": "Christmas",
-    "shortDescription": "White house lanterns with Santa and a tree in the window.",
-    "features": [
-      "Min order: 1 pcs",
-      "House lantern",
-      "Santa window",
-      "Warm LED",
-      "Indoor"
-    ],
-    "safety": "Ages 6+. Not a food item. Supervise first use of lights and batteries.",
-    "materials": "LED plastic, batteries as labelled.",
-    "isNew": true,
-    "piecesPerBox": 1,
-    "moqLabel": "Min order: 1 pcs"
-  },
-  {
     "id": "snow-scene-lanterns",
     "slug": "snow-scene-lanterns",
     "sku": "",
