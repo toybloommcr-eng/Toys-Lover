@@ -11564,7 +11564,7 @@
     "description": "Flashing TOP. A box of 12.",
     "category": "light-up-toys",
     "price": 18,
-    "costPrice": 1.5,
+    "costPrice": 0,
     "compareAtPrice": null,
     "stock": 120,
     "images": [
@@ -11575,7 +11575,7 @@
       "Lights"
     ],
     "active": true,
-    "updatedAt": "2026-11-21T08:18:57.928Z",
+    "updatedAt": "2026-11-22T13:02:10.535Z",
     "ageRange": "3-5 years",
     "brand": "Toy Bloom Wholesale",
     "theme": "Lights",
