@@ -13048,7 +13048,7 @@
     "description": "Brain rot and stranger things. Cards. Box of 36 pack. In each pack 8 cards.",
     "category": "board-games",
     "price": 45,
-    "costPrice": 1.25,
+    "costPrice": 0,
     "compareAtPrice": null,
     "stock": 120,
     "images": [
@@ -13066,7 +13066,7 @@
       "Games"
     ],
     "active": true,
-    "updatedAt": "2026-11-21T07:52:04.876Z",
+    "updatedAt": "2026-11-22T12:58:45.964Z",
     "ageRange": "3-5 years",
     "brand": "Toy Bloom Wholesale",
     "theme": "Games",
