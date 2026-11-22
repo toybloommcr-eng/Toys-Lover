@@ -117,7 +117,7 @@
     "title": "Ride-On Farm Tractor",
     "description": "A farm-yard ride-on with a hitch trailer for teddies and leaves. Steering wheel up front, chunky rear tyres, and enough presence for a birthday photo.",
     "category": "cars-vehicles",
-    "price": 19.98,
+    "price": 19.99,
     "costPrice": 0,
     "compareAtPrice": null,
     "stock": 40,
@@ -129,7 +129,7 @@
       "Farm"
     ],
     "active": true,
-    "updatedAt": "2026-11-22T12:16:04.569Z",
+    "updatedAt": "2026-11-22T12:16:21.190Z",
     "ageRange": "3-5 years",
     "brand": "Open Air",
     "theme": "Farm",
