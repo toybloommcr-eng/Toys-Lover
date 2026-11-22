@@ -2423,7 +2423,7 @@
     "price": 2.5,
     "costPrice": 0,
     "compareAtPrice": null,
-    "stock": 49,
+    "stock": 120,
     "images": [
       "/images/products/fashion-play-set-04.jpg"
     ],
@@ -2432,7 +2432,7 @@
       "Dress-up"
     ],
     "active": true,
-    "updatedAt": "2026-10-31T23:57:01.470Z",
+    "updatedAt": "2026-11-22T11:59:09.477Z",
     "ageRange": "6-8 years",
     "brand": "Stage Pop",
     "theme": "Dress-up",
