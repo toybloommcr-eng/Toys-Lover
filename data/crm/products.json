@@ -10719,10 +10719,10 @@
     "title": "Labubu Set",
     "description": "Labubu set. Bracelet hair clip. Much more accessories. For a pack of 12pcs.",
     "category": "labubu",
-    "price": 3.5,
-    "costPrice": 0,
+    "price": 30,
+    "costPrice": 2.5,
     "compareAtPrice": null,
-    "stock": 50,
+    "stock": 120,
     "images": [
       "/images/products/telegram/tg-labubu-set-2244-1.webp",
       "/images/products/telegram/tg-labubu-set-2244-2.webp",
@@ -10733,7 +10733,7 @@
       "Labubu"
     ],
     "active": true,
-    "updatedAt": "2026-10-31T23:57:01.470Z",
+    "updatedAt": "2026-11-22T01:33:31.882Z",
     "ageRange": "3-5 years",
     "brand": "Toy Bloom Wholesale",
     "theme": "Labubu",
