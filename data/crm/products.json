@@ -9211,7 +9211,7 @@
     "description": "NEW 3D FIGURES. AVAILABLE WITH 7 DESIGNS. AND WITH DIFFERENT COLOURS. JUST for pack of 12.",
     "category": "action-figures",
     "price": 12,
-    "costPrice": 1,
+    "costPrice": 0,
     "compareAtPrice": null,
     "stock": 120,
     "images": [
@@ -9226,7 +9226,7 @@
       "Characters"
     ],
     "active": true,
-    "updatedAt": "2026-11-22T01:42:24.918Z",
+    "updatedAt": "2026-11-22T13:05:40.235Z",
     "ageRange": "3-5 years",
     "brand": "Toy Bloom Wholesale",
     "theme": "Characters",
