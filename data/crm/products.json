@@ -8150,7 +8150,7 @@
     "description": "All these new plushies toy’s available in super price just.",
     "category": "plush-soft-toys",
     "price": 30,
-    "costPrice": 2.5,
+    "costPrice": 0,
     "compareAtPrice": null,
     "stock": 120,
     "images": [
@@ -8164,7 +8164,7 @@
       "Plush"
     ],
     "active": true,
-    "updatedAt": "2026-11-22T01:57:55.862Z",
+    "updatedAt": "2026-11-22T13:07:58.279Z",
     "ageRange": "3-5 years",
     "brand": "Toy Bloom Wholesale",
     "theme": "Plush",
