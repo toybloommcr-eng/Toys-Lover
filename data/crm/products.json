@@ -11754,7 +11754,7 @@
     "description": "BABY CRY. A BOX of 12.",
     "category": "dolls",
     "price": 24,
-    "costPrice": 2,
+    "costPrice": 0,
     "compareAtPrice": null,
     "stock": 120,
     "images": [
@@ -11769,7 +11769,7 @@
       "Dolls"
     ],
     "active": true,
-    "updatedAt": "2026-11-21T08:15:09.945Z",
+    "updatedAt": "2026-11-22T13:01:59.353Z",
     "ageRange": "3-5 years",
     "brand": "Toy Bloom Wholesale",
     "theme": "Dolls",
