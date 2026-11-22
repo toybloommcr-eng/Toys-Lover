@@ -13895,7 +13895,7 @@
     "description": "Starbucks cups available now a box of 12 ( each ).",
     "category": "home-gifts",
     "price": 2,
-    "costPrice": 2,
+    "costPrice": 0,
     "compareAtPrice": null,
     "stock": 120,
     "images": [
@@ -13906,7 +13906,7 @@
       "Home"
     ],
     "active": true,
-    "updatedAt": "2026-11-21T07:39:47.168Z",
+    "updatedAt": "2026-11-22T12:55:15.707Z",
     "ageRange": "3-5 years",
     "brand": "Toy Bloom Wholesale",
     "theme": "Home",
