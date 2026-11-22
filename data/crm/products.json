@@ -565,7 +565,7 @@
     "price": 14.99,
     "costPrice": 0,
     "compareAtPrice": null,
-    "stock": 35,
+    "stock": 120,
     "images": [
       "/images/products/dark-hero-mask.jpg"
     ],
@@ -574,7 +574,7 @@
       "Dress-up"
     ],
     "active": true,
-    "updatedAt": "2026-10-31T23:57:01.470Z",
+    "updatedAt": "2026-11-22T12:12:38.738Z",
     "ageRange": "9-12 years",
     "brand": "Forge & Fun",
     "theme": "Dress-up",
