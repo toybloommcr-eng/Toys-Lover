@@ -11874,7 +11874,7 @@
     "description": "All neons. New light up in stock now. Each. Box price 144 in carton.",
     "category": "light-up-toys",
     "price": 30,
-    "costPrice": 2.5,
+    "costPrice": 0,
     "compareAtPrice": null,
     "stock": 120,
     "images": [
@@ -11892,7 +11892,7 @@
       "Lights"
     ],
     "active": true,
-    "updatedAt": "2026-11-21T08:13:28.801Z",
+    "updatedAt": "2026-11-22T13:01:33.010Z",
     "ageRange": "3-5 years",
     "brand": "Toy Bloom Wholesale",
     "theme": "Lights",
