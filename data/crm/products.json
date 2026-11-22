@@ -12838,7 +12838,7 @@
     "description": "Minecraft Figure set. Each. Box has 12 pcs",
     "category": "action-figures",
     "price": 36,
-    "costPrice": 3,
+    "costPrice": 0,
     "compareAtPrice": null,
     "stock": 120,
     "images": [
@@ -12856,7 +12856,7 @@
       "Characters"
     ],
     "active": true,
-    "updatedAt": "2026-11-21T07:58:38.124Z",
+    "updatedAt": "2026-11-22T12:59:30.428Z",
     "ageRange": "3-5 years",
     "brand": "Toy Bloom Wholesale",
     "theme": "Characters",
