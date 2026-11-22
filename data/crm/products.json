@@ -4096,10 +4096,10 @@
     "title": "Metal Set of Car Sets",
     "description": "Metal set of car sets.",
     "category": "cars-vehicles",
-    "price": 7.2,
+    "price": 5.5,
     "costPrice": 0,
     "compareAtPrice": null,
-    "stock": 50,
+    "stock": 120,
     "images": [
       "/images/products/telegram/tg-metal-set-of-car-sets-52-1.webp"
     ],
@@ -4108,7 +4108,7 @@
       "Vehicles"
     ],
     "active": true,
-    "updatedAt": "2026-10-31T23:57:01.470Z",
+    "updatedAt": "2026-11-22T11:44:41.838Z",
     "ageRange": "3-5 years",
     "brand": "Toy Bloom Wholesale",
     "theme": "Vehicles",
