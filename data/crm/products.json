@@ -6902,7 +6902,7 @@
     "description": "Stitch side bag with strap pack of 12 each.",
     "category": "bags-accessories",
     "price": 30,
-    "costPrice": 2.5,
+    "costPrice": 0,
     "compareAtPrice": null,
     "stock": 120,
     "images": [
@@ -6913,7 +6913,7 @@
       "Stitch"
     ],
     "active": true,
-    "updatedAt": "2026-11-22T02:09:35.273Z",
+    "updatedAt": "2026-11-22T13:09:55.955Z",
     "ageRange": "3-5 years",
     "brand": "Toy Bloom Wholesale",
     "theme": "Stitch",
