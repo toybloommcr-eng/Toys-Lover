@@ -4514,10 +4514,10 @@
     "title": "Light Up Sword",
     "description": "Light up sword.",
     "category": "light-up-toys",
-    "price": 1.95,
+    "price": 24,
     "costPrice": 0,
     "compareAtPrice": null,
-    "stock": 50,
+    "stock": 120,
     "images": [
       "/images/products/telegram/tg-light-up-sword-145-1.webp"
     ],
@@ -4526,7 +4526,7 @@
       "Lights"
     ],
     "active": true,
-    "updatedAt": "2026-10-31T23:57:01.470Z",
+    "updatedAt": "2026-11-22T11:40:37.186Z",
     "ageRange": "3-5 years",
     "brand": "Toy Bloom Wholesale",
     "theme": "Lights",
