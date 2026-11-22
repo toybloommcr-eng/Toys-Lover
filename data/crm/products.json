@@ -8277,10 +8277,10 @@
     "title": "Slime",
     "description": "NEW SLIME. IN STOCK NOW JUST FROM.",
     "category": "fidget-spinners",
-    "price": 0.85,
-    "costPrice": 0,
+    "price": 10.2,
+    "costPrice": 0.85,
     "compareAtPrice": null,
-    "stock": 50,
+    "stock": 120,
     "images": [
       "/images/products/telegram/tg-slime-1190-5.webp",
       "/images/products/telegram/tg-slime-1190-1.webp",
@@ -8293,7 +8293,7 @@
       "Sensory"
     ],
     "active": true,
-    "updatedAt": "2026-10-31T23:57:01.470Z",
+    "updatedAt": "2026-11-22T02:00:33.720Z",
     "ageRange": "3-5 years",
     "brand": "Toy Bloom Wholesale",
     "theme": "Sensory",
@@ -8305,9 +8305,9 @@
     "safety": "Ages 3+. Adult supervision recommended. Not suitable for children under 36 months (small parts).",
     "materials": "See packaging.",
     "isNew": true,
-    "piecesPerBox": 1,
+    "piecesPerBox": 12,
     "moqUnit": "pcs",
-    "moqLabel": "Min order: 1 pc"
+    "moqLabel": "Min order: 12 pc"
   },
   {
     "id": "tg-35cm-teddy-1199",
