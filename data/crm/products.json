@@ -5032,7 +5032,7 @@
     "price": 5,
     "costPrice": 0,
     "compareAtPrice": null,
-    "stock": 50,
+    "stock": 120,
     "images": [
       "/images/products/telegram/tg-cactus-christmas-and-helloween-216-5.webp",
       "/images/products/telegram/tg-cactus-christmas-and-helloween-216-6.webp",
@@ -5047,7 +5047,7 @@
       "Christmas"
     ],
     "active": true,
-    "updatedAt": "2026-10-31T23:57:01.470Z",
+    "updatedAt": "2026-11-22T11:36:34.936Z",
     "ageRange": "3-5 years",
     "brand": "Toy Bloom Wholesale",
     "theme": "Christmas",
