@@ -9333,10 +9333,10 @@
     "title": "3D Keychain",
     "description": "NEW NEW NEW. 3D keychain available now with 30 different designs. Just each. 12 in a pack.",
     "category": "novelty-keyrings",
-    "price": 1.25,
-    "costPrice": 0,
+    "price": 15,
+    "costPrice": 1.25,
     "compareAtPrice": null,
-    "stock": 50,
+    "stock": 120,
     "images": [
       "/images/products/telegram/tg-3d-keychain-1810-6.webp",
       "/images/products/telegram/tg-3d-keychain-1810-5.webp",
@@ -9352,7 +9352,7 @@
       "Keyrings"
     ],
     "active": true,
-    "updatedAt": "2026-10-31T23:57:01.470Z",
+    "updatedAt": "2026-11-22T01:45:33.805Z",
     "ageRange": "3-5 years",
     "brand": "Toy Bloom Wholesale",
     "theme": "Keyrings",
