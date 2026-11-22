@@ -14481,7 +14481,7 @@
     "description": "Sugar peanut squishies, individually packed. Manchester Toys Telegram stock. Not a food item. Ages 3+.",
     "category": "food-squishies",
     "price": 24,
-    "costPrice": 2,
+    "costPrice": 0,
     "compareAtPrice": null,
     "stock": 120,
     "images": [
@@ -14494,7 +14494,7 @@
       "Telegram stock"
     ],
     "active": true,
-    "updatedAt": "2026-11-21T07:30:52.151Z",
+    "updatedAt": "2026-11-22T12:53:09.919Z",
     "ageRange": "3-5 years",
     "brand": "Toy Bloom Wholesale",
     "theme": "Telegram stock",
