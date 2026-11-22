@@ -16719,9 +16719,9 @@
     "title": "NeeDoh Advent Calendar – 24 Squishy Surprises",
     "description": "NeeDoh-style advent calendar with 24 squishy surprises. Manchester Toys Telegram stock. Not a food item. Ages 3+.",
     "category": "christmas-squishies",
-    "price": 6,
+    "price": 5,
     "costPrice": 0,
-    "compareAtPrice": null,
+    "compareAtPrice": 7.5,
     "stock": 120,
     "images": [
       "/images/products/sq-needoh-advent-calendar.jpg",
@@ -16732,7 +16732,7 @@
       "Telegram stock"
     ],
     "active": true,
-    "updatedAt": "2026-11-20T16:14:26.600Z",
+    "updatedAt": "2026-11-22T16:57:33.447Z",
     "ageRange": "3-5 years",
     "brand": "Toy Bloom Wholesale",
     "theme": "Telegram stock",
