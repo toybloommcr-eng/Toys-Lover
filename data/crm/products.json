@@ -16651,7 +16651,7 @@
     "description": "Glitter slush cube squishies in assorted colours. Manchester Toys Telegram stock (30 Oct). Not a food item. Ages 3+.",
     "category": "sugar-squishies",
     "price": 30,
-    "costPrice": 2.5,
+    "costPrice": 0,
     "compareAtPrice": null,
     "stock": 120,
     "images": [
@@ -16662,7 +16662,7 @@
       "Telegram stock"
     ],
     "active": true,
-    "updatedAt": "2026-11-20T16:16:01.397Z",
+    "updatedAt": "2026-11-22T12:22:38.132Z",
     "priceTBC": true,
     "ageRange": "3-5 years",
     "brand": "Toy Bloom Wholesale",
