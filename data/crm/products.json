@@ -376,10 +376,10 @@
     "title": "Bunny Glow Wands",
     "description": "Pink and blue bunny wands with spinning light heads. Photographed from the new delivery, centred in a square frame so the toy is easy to recognise on every screen.",
     "category": "light-up-toys",
-    "price": 14.99,
+    "price": 6.99,
     "costPrice": 0,
     "compareAtPrice": null,
-    "stock": 24,
+    "stock": 120,
     "images": [
       "/images/products/bunny-glow-wands.jpg"
     ],
@@ -388,7 +388,7 @@
       "Lights"
     ],
     "active": true,
-    "updatedAt": "2026-10-31T23:57:01.470Z",
+    "updatedAt": "2026-11-22T12:14:09.211Z",
     "ageRange": "3-5 years",
     "brand": "Party Glow",
     "theme": "Lights",
