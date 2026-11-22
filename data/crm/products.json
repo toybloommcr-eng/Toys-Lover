@@ -11228,7 +11228,7 @@
     "description": "K-Pop FIGURES.",
     "category": "action-figures",
     "price": 21,
-    "costPrice": 3.5,
+    "costPrice": 0,
     "compareAtPrice": null,
     "stock": 120,
     "images": [
@@ -11246,7 +11246,7 @@
       "K-Pop"
     ],
     "active": true,
-    "updatedAt": "2026-11-22T01:24:00.156Z",
+    "updatedAt": "2026-11-22T13:02:22.643Z",
     "ageRange": "3-5 years",
     "brand": "Toy Bloom Wholesale",
     "theme": "K-Pop",
