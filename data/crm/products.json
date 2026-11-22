@@ -12710,7 +12710,7 @@
     "description": "New Italian brain rot 67. 6pcs set available now. Each.",
     "category": "action-figures",
     "price": 3.5,
-    "costPrice": 3.5,
+    "costPrice": 0,
     "compareAtPrice": null,
     "stock": 120,
     "images": [
@@ -12728,7 +12728,7 @@
       "Characters"
     ],
     "active": true,
-    "updatedAt": "2026-11-21T08:01:26.455Z",
+    "updatedAt": "2026-11-22T13:00:02.558Z",
     "ageRange": "3-5 years",
     "brand": "Toy Bloom Wholesale",
     "theme": "Characters",
