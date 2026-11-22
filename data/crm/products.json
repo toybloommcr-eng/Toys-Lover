@@ -1419,7 +1419,7 @@
     "price": 1.99,
     "costPrice": 0,
     "compareAtPrice": null,
-    "stock": 28,
+    "stock": 120,
     "images": [
       "/images/products/snow-scene-lanterns.jpg"
     ],
@@ -1428,7 +1428,7 @@
       "Christmas"
     ],
     "active": true,
-    "updatedAt": "2026-10-31T23:57:01.470Z",
+    "updatedAt": "2026-11-22T12:06:11.166Z",
     "ageRange": "6-8 years",
     "brand": "Nightfield",
     "theme": "Christmas",
