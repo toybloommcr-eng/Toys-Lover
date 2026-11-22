@@ -16372,7 +16372,7 @@
     "description": "Glitter slush frog squishies, 7×7×8cm, 130g. Manchester Toys Telegram stock (30 Oct). Not a food item. Ages 3+.",
     "category": "character-squishies",
     "price": 30,
-    "costPrice": 2.5,
+    "costPrice": 0,
     "compareAtPrice": 3,
     "stock": 120,
     "images": [
@@ -16383,7 +16383,7 @@
       "Telegram stock"
     ],
     "active": true,
-    "updatedAt": "2026-11-20T16:18:51.349Z",
+    "updatedAt": "2026-11-22T12:24:00.621Z",
     "priceTBC": true,
     "ageRange": "3-5 years",
     "brand": "Toy Bloom Wholesale",
