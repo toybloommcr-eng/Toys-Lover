@@ -3654,10 +3654,10 @@
     "title": "Pokémon Cards Pack",
     "description": "Pokémon normal cards 30cm c in a pack.",
     "category": "board-games",
-    "price": 1.25,
+    "price": 15,
     "costPrice": 0,
     "compareAtPrice": null,
-    "stock": 50,
+    "stock": 120,
     "images": [
       "/images/products/telegram/tg-pok-mon-cards-pack-8-1.webp"
     ],
@@ -3666,7 +3666,7 @@
       "Games"
     ],
     "active": true,
-    "updatedAt": "2026-10-31T23:57:01.470Z",
+    "updatedAt": "2026-11-22T11:47:41.533Z",
     "ageRange": "3-5 years",
     "brand": "Toy Bloom Wholesale",
     "theme": "Games",
