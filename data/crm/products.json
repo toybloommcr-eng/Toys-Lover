@@ -6632,7 +6632,7 @@
     "description": "Jumping off road truck a box.",
     "category": "cars-vehicles",
     "price": 15,
-    "costPrice": 1.5,
+    "costPrice": 0,
     "compareAtPrice": null,
     "stock": 120,
     "images": [
@@ -6644,7 +6644,7 @@
       "Vehicles"
     ],
     "active": true,
-    "updatedAt": "2026-11-22T02:17:45.563Z",
+    "updatedAt": "2026-11-22T13:10:44.364Z",
     "ageRange": "3-5 years",
     "brand": "Toy Bloom Wholesale",
     "theme": "Vehicles",
