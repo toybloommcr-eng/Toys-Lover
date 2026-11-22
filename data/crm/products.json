@@ -17802,9 +17802,9 @@
     "description": "Mermaid-themed keyboard keycap fidget toy, 9cm. Box of 12. Manchester Toys Telegram stock. Ages 3+.",
     "category": "fidget-spinners",
     "price": 30,
-    "costPrice": 0,
+    "costPrice": 2.5,
     "compareAtPrice": null,
-    "stock": 48,
+    "stock": 120,
     "images": [
       "/images/products/tg-oct29-mermaid-keyboard.jpg"
     ],
@@ -17813,7 +17813,7 @@
       "Telegram stock"
     ],
     "active": true,
-    "updatedAt": "2026-10-31T23:57:01.470Z",
+    "updatedAt": "2026-11-22T01:52:23.535Z",
     "ageRange": "3-5 years",
     "brand": "Manchester Toys",
     "theme": "Telegram stock",
