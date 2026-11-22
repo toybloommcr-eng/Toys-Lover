@@ -12752,7 +12752,7 @@
     "description": "New Italian brain rot surprise box. Box of 12pcs.",
     "category": "action-figures",
     "price": 21,
-    "costPrice": 1.75,
+    "costPrice": 0,
     "compareAtPrice": null,
     "stock": 120,
     "images": [
@@ -12770,7 +12770,7 @@
       "Characters"
     ],
     "active": true,
-    "updatedAt": "2026-11-21T08:00:00.804Z",
+    "updatedAt": "2026-11-22T12:59:47.143Z",
     "ageRange": "3-5 years",
     "brand": "Toy Bloom Wholesale",
     "theme": "Characters",
