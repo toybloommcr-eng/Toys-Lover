@@ -14808,7 +14808,7 @@
     "title": "Squishys Glitter Stitch Toy",
     "description": "Glitter Stitch squishies, blue and pink. Manchester Toys Telegram stock. Not a food item. Ages 3+.",
     "category": "character-squishies",
-    "price": 6,
+    "price": 18,
     "costPrice": 0,
     "compareAtPrice": null,
     "stock": 120,
@@ -14820,7 +14820,7 @@
       "Telegram stock"
     ],
     "active": true,
-    "updatedAt": "2026-11-22T12:51:45.681Z",
+    "updatedAt": "2026-11-22T17:05:33.071Z",
     "ageRange": "3-5 years",
     "brand": "Toy Bloom Wholesale",
     "theme": "Telegram stock",
@@ -14832,8 +14832,8 @@
     "materials": "Soft sensory fill / PU foam. Not a food item.",
     "isNew": true,
     "isBestSeller": true,
-    "piecesPerBox": 1,
-    "moqLabel": "1 Pcs"
+    "piecesPerBox": 12,
+    "moqLabel": "12 Pcs"
   },
   {
     "id": "sq-hello-kitty-stitch-shape",
