@@ -3202,7 +3202,7 @@
     "price": 2.75,
     "costPrice": 0,
     "compareAtPrice": null,
-    "stock": 42,
+    "stock": 120,
     "images": [
       "/images/products/pixel-glow-sword-01.jpg"
     ],
@@ -3211,7 +3211,7 @@
       "Lights"
     ],
     "active": true,
-    "updatedAt": "2026-10-31T23:57:01.470Z",
+    "updatedAt": "2026-11-22T11:52:13.815Z",
     "ageRange": "6-8 years",
     "brand": "Party Glow",
     "theme": "Lights",
