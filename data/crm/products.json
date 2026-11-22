@@ -6668,7 +6668,7 @@
     "description": "New Keyrings available now each.",
     "category": "novelty-keyrings",
     "price": 24,
-    "costPrice": 1,
+    "costPrice": 0,
     "compareAtPrice": null,
     "stock": 120,
     "images": [
@@ -6686,7 +6686,7 @@
       "Keyrings"
     ],
     "active": true,
-    "updatedAt": "2026-11-22T02:11:48.288Z",
+    "updatedAt": "2026-11-22T13:10:35.872Z",
     "ageRange": "3-5 years",
     "brand": "Toy Bloom Wholesale",
     "theme": "Keyrings",
