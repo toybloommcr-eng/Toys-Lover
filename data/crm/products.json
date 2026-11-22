@@ -6785,10 +6785,10 @@
     "title": "Stitch Make Up",
     "description": "New Stitch make up available now and (pack of 20 each).",
     "category": "role-play",
-    "price": 5,
+    "price": 5.49,
     "costPrice": 0,
     "compareAtPrice": null,
-    "stock": 50,
+    "stock": 120,
     "images": [
       "/images/products/telegram/tg-stich-make-up-842-2.webp",
       "/images/products/telegram/tg-stich-make-up-842-1.webp",
@@ -6800,7 +6800,7 @@
       "Stitch"
     ],
     "active": true,
-    "updatedAt": "2026-10-31T23:57:01.470Z",
+    "updatedAt": "2026-11-22T11:20:40.574Z",
     "ageRange": "3-5 years",
     "brand": "Toy Bloom Wholesale",
     "theme": "Stitch",
