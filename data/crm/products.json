@@ -7630,7 +7630,7 @@
     "description": "3D DINOSAURS. HAND MADE. JUST EACH. OR MIX 12 for.",
     "category": "action-figures",
     "price": 48,
-    "costPrice": 4,
+    "costPrice": 0,
     "compareAtPrice": null,
     "stock": 120,
     "images": [
@@ -7647,7 +7647,7 @@
       "Characters"
     ],
     "active": true,
-    "updatedAt": "2026-11-22T02:03:12.857Z",
+    "updatedAt": "2026-11-22T13:09:02.654Z",
     "ageRange": "3-5 years",
     "brand": "Toy Bloom Wholesale",
     "theme": "Characters",
