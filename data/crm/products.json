@@ -16289,9 +16289,9 @@
     "description": "Splat-shape NeeDoh squishies in assorted colours. Manchester Toys Telegram stock. Not a food item. Ages 3+.",
     "category": "needoh-squishies",
     "price": 24,
-    "costPrice": 0,
+    "costPrice": 2.5,
     "compareAtPrice": null,
-    "stock": 48,
+    "stock": 120,
     "images": [
       "/images/products/sq-needoh-speedy-splat.jpg"
     ],
@@ -16300,7 +16300,7 @@
       "Telegram stock"
     ],
     "active": true,
-    "updatedAt": "2026-11-20T16:34:15.994Z",
+    "updatedAt": "2026-11-22T01:53:08.272Z",
     "ageRange": "3-5 years",
     "brand": "Toy Bloom Wholesale",
     "theme": "Telegram stock",
