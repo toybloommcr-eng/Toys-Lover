@@ -2980,7 +2980,7 @@
     "price": 3.5,
     "costPrice": 0,
     "compareAtPrice": null,
-    "stock": 22,
+    "stock": 120,
     "images": [
       "/images/products/star-buddy-plush-02.jpg"
     ],
@@ -2989,7 +2989,7 @@
       "Comfort"
     ],
     "active": true,
-    "updatedAt": "2026-10-31T23:57:01.470Z",
+    "updatedAt": "2026-11-22T11:53:25.947Z",
     "ageRange": "3-5 years",
     "brand": "Nest & Wool",
     "theme": "Comfort",
