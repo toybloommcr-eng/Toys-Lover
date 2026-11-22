@@ -6827,7 +6827,7 @@
     "description": "New Stitch light up squeeze a box of 12.",
     "category": "light-up-toys",
     "price": 18,
-    "costPrice": 1.5,
+    "costPrice": 0,
     "compareAtPrice": null,
     "stock": 120,
     "images": [
@@ -6839,7 +6839,7 @@
       "Stitch"
     ],
     "active": true,
-    "updatedAt": "2026-11-22T02:10:08.153Z",
+    "updatedAt": "2026-11-22T13:10:17.466Z",
     "ageRange": "3-5 years",
     "brand": "Toy Bloom Wholesale",
     "theme": "Stitch",
