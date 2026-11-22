@@ -7305,7 +7305,7 @@
     "description": "Stitch Bluey Pokémon etc. Purse available now. Just for a pack of 12.",
     "category": "plush-soft-toys",
     "price": 18,
-    "costPrice": 1.5,
+    "costPrice": 0,
     "compareAtPrice": null,
     "stock": 120,
     "images": [
@@ -7321,7 +7321,7 @@
       "Stitch"
     ],
     "active": true,
-    "updatedAt": "2026-11-22T02:06:14.053Z",
+    "updatedAt": "2026-11-22T13:09:31.275Z",
     "ageRange": "3-5 years",
     "brand": "Toy Bloom Wholesale",
     "theme": "Stitch",
