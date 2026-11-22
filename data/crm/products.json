@@ -12515,7 +12515,7 @@
     "description": "NEW STOCK ARRIVED TODAY. Lovely Doll.",
     "category": "dolls",
     "price": 6.5,
-    "costPrice": 6.5,
+    "costPrice": 0,
     "compareAtPrice": null,
     "stock": 120,
     "images": [
@@ -12529,7 +12529,7 @@
       "Dolls"
     ],
     "active": true,
-    "updatedAt": "2026-11-21T08:04:37.099Z",
+    "updatedAt": "2026-11-22T13:00:29.044Z",
     "ageRange": "3-5 years",
     "brand": "Toy Bloom Wholesale",
     "theme": "Dolls",
