@@ -9568,7 +9568,7 @@
     "description": "Unisex cowboy hats. Each. Or mix 12 for just.",
     "category": "party-spotlight",
     "price": 30,
-    "costPrice": 2.5,
+    "costPrice": 0,
     "compareAtPrice": null,
     "stock": 120,
     "images": [
@@ -9583,7 +9583,7 @@
       "Party"
     ],
     "active": true,
-    "updatedAt": "2026-11-22T01:39:48.191Z",
+    "updatedAt": "2026-11-22T13:05:26.624Z",
     "ageRange": "3-5 years",
     "brand": "Toy Bloom Wholesale",
     "theme": "Party",
