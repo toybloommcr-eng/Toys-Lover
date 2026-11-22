@@ -12966,7 +12966,7 @@
     "description": "MINECRAFT FIGURE SET. EACH. Or 12 for.",
     "category": "action-figures",
     "price": 5,
-    "costPrice": 5,
+    "costPrice": 0,
     "compareAtPrice": null,
     "stock": 120,
     "images": [
@@ -12983,7 +12983,7 @@
       "Characters"
     ],
     "active": true,
-    "updatedAt": "2026-11-21T07:54:20.883Z",
+    "updatedAt": "2026-11-22T12:59:03.012Z",
     "ageRange": "3-5 years",
     "brand": "Toy Bloom Wholesale",
     "theme": "Characters",
