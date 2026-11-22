@@ -10482,10 +10482,10 @@
     "title": "Cry Baby Series",
     "description": "New cry baby series available now ( box of 240. 7 different styles).",
     "category": "dolls",
-    "price": 6.5,
+    "price": 5.5,
     "costPrice": 0,
     "compareAtPrice": null,
-    "stock": 50,
+    "stock": 120,
     "images": [
       "/images/products/telegram/tg-cry-baby-series-2160-1.webp",
       "/images/products/telegram/tg-cry-baby-series-2160-2.webp",
@@ -10497,7 +10497,7 @@
       "Dolls"
     ],
     "active": true,
-    "updatedAt": "2026-10-31T23:57:01.470Z",
+    "updatedAt": "2026-11-22T01:35:22.587Z",
     "ageRange": "3-5 years",
     "brand": "Toy Bloom Wholesale",
     "theme": "Dolls",
