@@ -15547,7 +15547,7 @@
     "description": "Nice Cube drinks, cans, bottles and burger squishies. Manchester Toys Telegram stock. Not a food item. Ages 3+.",
     "category": "needoh-squishies",
     "price": 24,
-    "costPrice": 2,
+    "costPrice": 0,
     "compareAtPrice": null,
     "stock": 120,
     "images": [
@@ -15565,7 +15565,7 @@
       "Telegram stock"
     ],
     "active": true,
-    "updatedAt": "2026-11-20T23:57:32.057Z",
+    "updatedAt": "2026-11-22T12:48:19.406Z",
     "ageRange": "3-5 years",
     "brand": "Toy Bloom Wholesale",
     "theme": "Telegram stock",
