@@ -16268,8 +16268,8 @@
     "title": "Christmas Squishy Fun Box – Big Gift Set",
     "description": "Big Christmas squishy fun box gift set. Big size, £9.50 each. Manchester Toys Telegram stock (30 Oct). Not a food item. Ages 3+.",
     "category": "christmas-squishies",
-    "price": 90,
-    "costPrice": 7.5,
+    "price": 7.5,
+    "costPrice": 0,
     "compareAtPrice": 8.5,
     "stock": 120,
     "images": [
@@ -16280,7 +16280,7 @@
       "Telegram stock"
     ],
     "active": true,
-    "updatedAt": "2026-11-20T16:21:51.178Z",
+    "updatedAt": "2026-11-22T12:24:29.664Z",
     "ageRange": "3-5 years",
     "brand": "Toy Bloom Wholesale",
     "theme": "Telegram stock",
