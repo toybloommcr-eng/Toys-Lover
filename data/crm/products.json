@@ -13479,7 +13479,7 @@
     "description": "New bubble gun available now ( 24 in pack ).",
     "category": "bubble-blowers",
     "price": 66,
-    "costPrice": 2.75,
+    "costPrice": 0,
     "compareAtPrice": null,
     "stock": 120,
     "images": [
@@ -13491,7 +13491,7 @@
       "Bubbles"
     ],
     "active": true,
-    "updatedAt": "2026-11-21T07:45:49.386Z",
+    "updatedAt": "2026-11-22T12:57:09.952Z",
     "ageRange": "3-5 years",
     "brand": "Toy Bloom Wholesale",
     "theme": "Bubbles",
