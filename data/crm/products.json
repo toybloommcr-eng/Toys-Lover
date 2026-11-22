@@ -14198,7 +14198,7 @@
     "description": "Rainbow mystery bun dumpling squishies. Manchester Toys Telegram stock. Not a food item. Ages 3+.",
     "category": "dumpling-squishies",
     "price": 30,
-    "costPrice": 2.5,
+    "costPrice": 0,
     "compareAtPrice": null,
     "stock": 120,
     "images": [
@@ -14209,7 +14209,7 @@
       "Telegram stock"
     ],
     "active": true,
-    "updatedAt": "2026-11-21T07:35:30.441Z",
+    "updatedAt": "2026-11-22T12:54:08.318Z",
     "ageRange": "3-5 years",
     "brand": "Toy Bloom Wholesale",
     "theme": "Telegram stock",
