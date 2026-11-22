@@ -859,10 +859,10 @@
     "title": "Club Glow Wand",
     "description": "Club-head LED wand with a rainbow outline on a stripe stick. Photographed from the new delivery, centred in a square frame so the toy is easy to recognise on every screen.",
     "category": "light-up-toys",
-    "price": 14.99,
+    "price": 9.99,
     "costPrice": 0,
     "compareAtPrice": null,
-    "stock": 34,
+    "stock": 120,
     "images": [
       "/images/products/club-glow-wand.jpg"
     ],
@@ -871,7 +871,7 @@
       "Lights"
     ],
     "active": true,
-    "updatedAt": "2026-10-31T23:57:01.470Z",
+    "updatedAt": "2026-11-22T12:09:48.497Z",
     "ageRange": "3-5 years",
     "brand": "Party Glow",
     "theme": "Lights",
