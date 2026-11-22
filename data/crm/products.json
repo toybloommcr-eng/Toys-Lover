@@ -13663,7 +13663,7 @@
     "description": "New jellycat burgers available now a box of 12 ( each ).",
     "category": "plush-soft-toys",
     "price": 30,
-    "costPrice": 2.5,
+    "costPrice": 0,
     "compareAtPrice": null,
     "stock": 100,
     "images": [
@@ -13677,7 +13677,7 @@
       "Plush"
     ],
     "active": true,
-    "updatedAt": "2026-11-21T07:43:02.527Z",
+    "updatedAt": "2026-11-22T12:56:14.958Z",
     "ageRange": "3-5 years",
     "brand": "Toy Bloom Wholesale",
     "theme": "Plush",
