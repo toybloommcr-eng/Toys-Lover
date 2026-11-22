@@ -3312,10 +3312,10 @@
     "title": "Light-Up Tetris Mechanical Keycap Fidget Keychain",
     "description": "4-Key PVC Push-Pop Game — slow-rise sensory fidget sold as a single piece (carton pack 400 pcs). Soft sensory import from the China listings tray, photographed for the Toy Bloom catalog. SKU RA-102.",
     "category": "light-up-toys",
-    "price": 2.99,
+    "price": 36,
     "costPrice": 0,
     "compareAtPrice": null,
-    "stock": 96,
+    "stock": 120,
     "images": [
       "/images/products/ra-102-4key-pvc-push-pop.jpg",
       "/images/products/ra-102-4key-pvc-push-pop-2.jpg"
@@ -3325,7 +3325,7 @@
       "Fidget"
     ],
     "active": true,
-    "updatedAt": "2026-10-31T23:57:01.470Z",
+    "updatedAt": "2026-11-22T11:50:24.906Z",
     "priceTBC": true,
     "ageRange": "6-8 years",
     "brand": "Toy Bloom Import",
@@ -3341,8 +3341,8 @@
     "safety": "Ages 3+. Not a food item. Keep away from under-threes. Supervise first play.",
     "materials": "ABS / PP plastic buttons and housing.",
     "isNew": true,
-    "piecesPerBox": 400,
-    "moqLabel": "Min order: 400 pcs"
+    "piecesPerBox": 12,
+    "moqLabel": "Min order: 12 pcs"
   },
   {
     "id": "ra-118-fruit-4key",
