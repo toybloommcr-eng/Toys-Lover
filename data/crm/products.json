@@ -2680,10 +2680,10 @@
     "title": "Mini Shoulder Bag",
     "description": "Mini shoulder bag from the 12-in-bag pack — a first cross-body for days out. Centred on a clean white frame so the toy stays sharp on every screen.",
     "category": "bags-accessories",
-    "price": 1.75,
+    "price": 21,
     "costPrice": 0,
     "compareAtPrice": null,
-    "stock": 29,
+    "stock": 120,
     "images": [
       "/images/products/mini-shoulder-bag.jpg"
     ],
@@ -2692,7 +2692,7 @@
       "Bags"
     ],
     "active": true,
-    "updatedAt": "2026-10-31T23:57:01.470Z",
+    "updatedAt": "2026-11-22T11:56:15.700Z",
     "ageRange": "9-12 years",
     "brand": "Street Fun",
     "theme": "Bags",
@@ -2707,8 +2707,8 @@
     "safety": "Ages 9+. Remove tags and packaging before gifting. Batteries as labelled.",
     "materials": "Printed fabric, adjustable strap.",
     "isNew": true,
-    "piecesPerBox": 1,
-    "moqLabel": "Min order: 1 pcs"
+    "piecesPerBox": 12,
+    "moqLabel": "Min order: 12 pcs"
   },
   {
     "id": "pocket-critter-keyring-02",
