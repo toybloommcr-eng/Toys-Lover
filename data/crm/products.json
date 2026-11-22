@@ -7415,10 +7415,10 @@
     "title": "Kids Push Car Age 1-3",
     "description": "New kids push car age 1-3 available now at.",
     "category": "baby-toddler",
-    "price": 18,
+    "price": 17.99,
     "costPrice": 0,
     "compareAtPrice": null,
-    "stock": 50,
+    "stock": 120,
     "images": [
       "/images/products/telegram/tg-kids-push-car-age-1-3-970-8.webp",
       "/images/products/telegram/tg-kids-push-car-age-1-3-970-2.webp",
@@ -7434,7 +7434,7 @@
       "Vehicles"
     ],
     "active": true,
-    "updatedAt": "2026-10-31T23:57:01.470Z",
+    "updatedAt": "2026-11-22T02:08:27.814Z",
     "ageRange": "0-2 years",
     "brand": "Toy Bloom Wholesale",
     "theme": "Vehicles",
