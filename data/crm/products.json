@@ -3274,10 +3274,10 @@
     "title": "Light-Up Dim Sum Baozi Fidget Keychain",
     "description": "Steamer Dumpling Keyring — slow-rise sensory fidget sold as a single piece (carton pack 300 pcs). Soft sensory import from the China listings tray, photographed for the Toy Bloom catalog. SKU RK-1153.",
     "category": "light-up-toys",
-    "price": 1.99,
+    "price": 24,
     "costPrice": 0,
     "compareAtPrice": null,
-    "stock": 96,
+    "stock": 120,
     "images": [
       "/images/products/rk-1153-steamer-dumpling-keyring.jpg"
     ],
@@ -3286,7 +3286,7 @@
       "Dumpling"
     ],
     "active": true,
-    "updatedAt": "2026-10-31T23:57:01.470Z",
+    "updatedAt": "2026-11-22T11:51:19.970Z",
     "priceTBC": true,
     "ageRange": "6-8 years",
     "brand": "Toy Bloom Import",
@@ -3302,8 +3302,8 @@
     "safety": "Ages 3+. Not a food item. Keep away from under-threes. Supervise first play.",
     "materials": "Soft PU / TPR sensory foam. Not a food item.",
     "isNew": true,
-    "piecesPerBox": 300,
-    "moqLabel": "Min order: 300 pcs (1 box)"
+    "piecesPerBox": 12,
+    "moqLabel": "Min order: 12  pcs (1 box)"
   },
   {
     "id": "ra-102-4key-pvc-push-pop",
