@@ -9061,10 +9061,10 @@
     "title": "String Ball in Football Colours",
     "description": "String ball in football colours available now.",
     "category": "outdoor-sports",
-    "price": 0.9,
-    "costPrice": 0,
+    "price": 10.8,
+    "costPrice": 0.9,
     "compareAtPrice": null,
-    "stock": 50,
+    "stock": 120,
     "images": [
       "/images/products/telegram/tg-string-ball-in-football-colours-1556-1.webp",
       "/images/products/telegram/tg-string-ball-in-football-colours-1556-2.webp",
@@ -9075,7 +9075,7 @@
       "Football"
     ],
     "active": true,
-    "updatedAt": "2026-10-31T23:57:01.470Z",
+    "updatedAt": "2026-11-22T01:49:30.159Z",
     "ageRange": "3-5 years",
     "brand": "Toy Bloom Wholesale",
     "theme": "Football",
@@ -9087,9 +9087,9 @@
     "safety": "Ages 3+. Adult supervision recommended. Not suitable for children under 36 months (small parts).",
     "materials": "See packaging.",
     "isNew": true,
-    "piecesPerBox": 1,
+    "piecesPerBox": 12,
     "moqUnit": "pcs",
-    "moqLabel": "Min order: 1 pc"
+    "moqLabel": "Min order: 12 pc"
   },
   {
     "id": "tg-spider-lights-up-1576",
