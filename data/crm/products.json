@@ -13362,7 +13362,7 @@
     "description": "Kids summer hats. 12pcs in a pack.",
     "category": "party-spotlight",
     "price": 30,
-    "costPrice": 2.5,
+    "costPrice": 0,
     "compareAtPrice": null,
     "stock": 300,
     "images": [
@@ -13380,7 +13380,7 @@
       "Party"
     ],
     "active": true,
-    "updatedAt": "2026-11-21T07:47:18.585Z",
+    "updatedAt": "2026-11-22T12:57:34.998Z",
     "ageRange": "3-5 years",
     "brand": "Toy Bloom Wholesale",
     "theme": "Party",
