@@ -10169,10 +10169,10 @@
     "title": "Labubu Halloween",
     "description": "Labubu Halloween. Arrived now. Pack of 12 ().",
     "category": "labubu",
-    "price": 6,
+    "price": 5.5,
     "costPrice": 0,
     "compareAtPrice": null,
-    "stock": 50,
+    "stock": 120,
     "images": [
       "/images/products/telegram/tg-labubu-halloween-2075-3.webp",
       "/images/products/telegram/tg-labubu-halloween-2075-5.webp",
@@ -10187,7 +10187,7 @@
       "Halloween"
     ],
     "active": true,
-    "updatedAt": "2026-10-31T23:57:01.470Z",
+    "updatedAt": "2026-11-22T01:37:51.696Z",
     "ageRange": "3-5 years",
     "brand": "Toy Bloom Wholesale",
     "theme": "Halloween",
