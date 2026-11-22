@@ -1717,7 +1717,7 @@
     "price": 1.99,
     "costPrice": 0,
     "compareAtPrice": null,
-    "stock": 51,
+    "stock": 120,
     "images": [
       "/images/products/lollipop-light-wands.jpg"
     ],
@@ -1726,7 +1726,7 @@
       "Lights"
     ],
     "active": true,
-    "updatedAt": "2026-10-31T23:57:01.470Z",
+    "updatedAt": "2026-11-22T12:04:18.281Z",
     "ageRange": "3-5 years",
     "brand": "Party Glow",
     "theme": "Lights",
