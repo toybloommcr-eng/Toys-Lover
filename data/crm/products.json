@@ -13516,7 +13516,7 @@
     "description": "New music smoke train available now minimum 12 to buy.",
     "category": "building-sets",
     "price": 42,
-    "costPrice": 3.5,
+    "costPrice": 0,
     "compareAtPrice": null,
     "stock": 120,
     "images": [
@@ -13529,7 +13529,7 @@
       "Building"
     ],
     "active": true,
-    "updatedAt": "2026-11-21T07:45:08.725Z",
+    "updatedAt": "2026-11-22T12:57:02.014Z",
     "ageRange": "3-5 years",
     "brand": "Toy Bloom Wholesale",
     "theme": "Building",
