@@ -2754,10 +2754,10 @@
     "title": "Pocket Critter Keyring 02",
     "description": "Soft pocket-critter plush charm — a hug-size clip from the new tray. Centred on a clean white frame so the toy stays sharp on every screen.",
     "category": "novelty-keyrings",
-    "price": 1.25,
+    "price": 15,
     "costPrice": 0,
     "compareAtPrice": null,
-    "stock": 39,
+    "stock": 120,
     "images": [
       "/images/products/pocket-critter-keyring-02.jpg"
     ],
@@ -2766,7 +2766,7 @@
       "Keyrings"
     ],
     "active": true,
-    "updatedAt": "2026-10-31T23:57:01.470Z",
+    "updatedAt": "2026-11-22T11:55:26.898Z",
     "ageRange": "3-5 years",
     "brand": "Nest & Wool",
     "theme": "Keyrings",
@@ -2781,8 +2781,8 @@
     "safety": "Ages 3+. Use under adult supervision. Keep small parts away from under-threes.",
     "materials": "Plush pile, polyester fill, metal ring.",
     "isNew": true,
-    "piecesPerBox": 1,
-    "moqLabel": "Min order: 1 pcs"
+    "piecesPerBox": 12,
+    "moqLabel": "Min order: 12 pcs"
   },
   {
     "id": "star-buddy-cup-02",
