@@ -2495,10 +2495,10 @@
     "title": "Light-Up Party Hat 06",
     "description": "LED party hat from the new tray — brim lights for photos and play. Centred on a clean white frame so the toy stays sharp on every screen.",
     "category": "light-up-toys",
-    "price": 2.5,
+    "price": 30,
     "costPrice": 0,
     "compareAtPrice": null,
-    "stock": 30,
+    "stock": 120,
     "images": [
       "/images/products/light-up-party-hat-06.jpg"
     ],
@@ -2507,7 +2507,7 @@
       "Lights"
     ],
     "active": true,
-    "updatedAt": "2026-10-31T23:57:01.470Z",
+    "updatedAt": "2026-11-22T11:58:44.376Z",
     "ageRange": "6-8 years",
     "brand": "Party Glow",
     "theme": "Lights",
@@ -2522,8 +2522,8 @@
     "safety": "Ages 6+. Not a food item. Supervise first use of lights and batteries.",
     "materials": "Felt or knit hat, LED brim, batteries as labelled.",
     "isNew": true,
-    "piecesPerBox": 1,
-    "moqLabel": "Min order: 1 pcs"
+    "piecesPerBox": 12,
+    "moqLabel": "Min order: 12 pcs"
   },
   {
     "id": "metal-charm-keyring-01",
