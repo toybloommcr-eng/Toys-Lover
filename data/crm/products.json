@@ -4526,7 +4526,7 @@
       "Lights"
     ],
     "active": true,
-    "updatedAt": "2026-11-22T11:40:37.186Z",
+    "updatedAt": "2026-11-22T11:40:53.324Z",
     "ageRange": "3-5 years",
     "brand": "Toy Bloom Wholesale",
     "theme": "Lights",
@@ -4538,9 +4538,9 @@
     "safety": "Ages 3+. Adult supervision recommended. Not suitable for children under 36 months (small parts).",
     "materials": "See packaging.",
     "isNew": true,
-    "piecesPerBox": 1,
+    "piecesPerBox": 12,
     "moqUnit": "pcs",
-    "moqLabel": "Min order: 1 pc"
+    "moqLabel": "Min order: 12 pc"
   },
   {
     "id": "tg-light-up-balloons-146",
