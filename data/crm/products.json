@@ -11152,7 +11152,7 @@
     "description": "CHRISTMAS LED LANTERN. 12 in box.",
     "category": "seasonal",
     "price": 18,
-    "costPrice": 1.5,
+    "costPrice": 0,
     "compareAtPrice": null,
     "stock": 120,
     "images": [
@@ -11166,7 +11166,7 @@
       "Christmas"
     ],
     "active": true,
-    "updatedAt": "2026-11-22T01:24:51.577Z",
+    "updatedAt": "2026-11-22T13:02:48.110Z",
     "ageRange": "3-5 years",
     "brand": "Toy Bloom Wholesale",
     "theme": "Christmas",
