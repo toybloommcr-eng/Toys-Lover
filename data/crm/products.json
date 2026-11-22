@@ -15275,7 +15275,7 @@
     "description": "Small slow-rise butter block squishy. Manchester Toys Telegram stock. Not a food item. Ages 3+.",
     "category": "butter-squishies",
     "price": 24,
-    "costPrice": 2,
+    "costPrice": 0,
     "compareAtPrice": null,
     "stock": 120,
     "images": [
@@ -15290,7 +15290,7 @@
       "Telegram stock"
     ],
     "active": true,
-    "updatedAt": "2026-11-20T23:59:52.990Z",
+    "updatedAt": "2026-11-22T12:49:24.950Z",
     "ageRange": "3-5 years",
     "brand": "Toy Bloom Wholesale",
     "theme": "Telegram stock",
