@@ -10128,10 +10128,10 @@
     "title": "Labubu Lakers",
     "description": "Labubu lakers. Arrived now. Pack of 12 ().",
     "category": "labubu",
-    "price": 6,
-    "costPrice": 0,
+    "price": 36,
+    "costPrice": 6,
     "compareAtPrice": null,
-    "stock": 50,
+    "stock": 120,
     "images": [
       "/images/products/telegram/tg-labubu-lakers-2060-3.webp",
       "/images/products/telegram/tg-labubu-lakers-2060-5.webp",
@@ -10144,7 +10144,7 @@
       "Labubu"
     ],
     "active": true,
-    "updatedAt": "2026-10-31T23:57:01.470Z",
+    "updatedAt": "2026-11-22T01:38:42.930Z",
     "ageRange": "3-5 years",
     "brand": "Toy Bloom Wholesale",
     "theme": "Labubu",
@@ -10158,9 +10158,9 @@
     "safety": "Ages 3+. Adult supervision recommended. Not suitable for children under 36 months (small parts).",
     "materials": "See packaging.",
     "isNew": true,
-    "piecesPerBox": 12,
+    "piecesPerBox": 6,
     "moqUnit": "pcs",
-    "moqLabel": "Min order: 12 pcs (1 box)"
+    "moqLabel": "Min order: 6 pcs (1 box)"
   },
   {
     "id": "tg-labubu-halloween-2075",
