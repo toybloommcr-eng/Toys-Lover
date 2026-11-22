@@ -14301,7 +14301,7 @@
     "description": "Big mega dumpling squishies in steamer baskets. Manchester Toys Telegram stock. Not a food item. Ages 3+.",
     "category": "dumpling-squishies",
     "price": 12,
-    "costPrice": 12,
+    "costPrice": 0,
     "compareAtPrice": null,
     "stock": 120,
     "images": [
@@ -14314,7 +14314,7 @@
       "Telegram stock"
     ],
     "active": true,
-    "updatedAt": "2026-11-21T07:34:13.878Z",
+    "updatedAt": "2026-11-22T12:53:42.747Z",
     "ageRange": "3-5 years",
     "brand": "Toy Bloom Wholesale",
     "theme": "Telegram stock",
