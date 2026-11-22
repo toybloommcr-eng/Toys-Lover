@@ -742,43 +742,6 @@
     "moqLabel": "Min order: 1 pcs"
   },
   {
-    "id": "flop-ear-glow-headband",
-    "slug": "flop-ear-glow-headband",
-    "sku": "",
-    "title": "Flop-Ear Glow Headband",
-    "description": "LED flop-ear headband worn from the back — ears hang and light up. Photographed from the new delivery, centred in a square frame so the toy is easy to recognise on every screen.",
-    "category": "light-up-toys",
-    "price": 14.99,
-    "costPrice": 0,
-    "compareAtPrice": null,
-    "stock": 120,
-    "images": [
-      "/images/products/flop-ear-glow-headband.jpg"
-    ],
-    "tags": [
-      "Party Glow",
-      "Lights"
-    ],
-    "active": true,
-    "updatedAt": "2026-11-22T12:10:47.145Z",
-    "ageRange": "6-8 years",
-    "brand": "Party Glow",
-    "theme": "Lights",
-    "shortDescription": "LED flop-ear headband worn from the back — ears hang and light up.",
-    "features": [
-      "Min order: 1 pcs",
-      "LED ears",
-      "Headband",
-      "Party photos",
-      "Ages 6+"
-    ],
-    "safety": "Ages 6+. Not a food item. Supervise first use of lights and batteries.",
-    "materials": "Mixed party materials as shown — plush, PVC, or LED plastic.",
-    "isNew": true,
-    "piecesPerBox": 1,
-    "moqLabel": "Min order: 1 pcs"
-  },
-  {
     "id": "neon-unicorn-wand-trio",
     "slug": "neon-unicorn-wand-trio",
     "sku": "",
