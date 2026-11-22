@@ -17157,45 +17157,6 @@
     "moqLabel": "Ask for price"
   },
   {
-    "id": "tg-oct29-princess-wands",
-    "slug": "tg-oct29-princess-wands",
-    "sku": "",
-    "title": "Light Up Princess & Unicorn Magic Wands",
-    "description": "Light-up princess, lollipop and unicorn magic wands with sound. Manchester Toys Telegram stock. Ages 3+.",
-    "category": "light-up-toys",
-    "price": 0,
-    "costPrice": 0,
-    "compareAtPrice": null,
-    "stock": 48,
-    "images": [
-      "/images/products/tg-oct29-princess-wands.jpg",
-      "/images/products/tg-oct29-princess-wands-2.jpg",
-      "/images/products/tg-oct29-princess-wands-3.jpg",
-      "/images/products/tg-oct29-princess-wands-4.jpg",
-      "/images/products/tg-oct29-princess-wands-5.jpg"
-    ],
-    "tags": [
-      "Manchester Toys",
-      "Telegram stock"
-    ],
-    "active": true,
-    "updatedAt": "2026-10-31T23:57:01.470Z",
-    "priceTBC": true,
-    "ageRange": "3-5 years",
-    "brand": "Manchester Toys",
-    "theme": "Telegram stock",
-    "shortDescription": "Light-up princess, lollipop and unicorn magic wands with sound.",
-    "features": [
-      "Ask for price"
-    ],
-    "safety": "Ages 3+. Supervise younger children.",
-    "materials": "Plastic / plush with LED.",
-    "isNew": true,
-    "isBestSeller": true,
-    "piecesPerBox": 1,
-    "moqLabel": "Ask for price"
-  },
-  {
     "id": "tg-oct29-electric-pearl-sword",
     "slug": "tg-oct29-electric-pearl-sword",
     "sku": "",
