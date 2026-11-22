@@ -15240,7 +15240,7 @@
     "price": 18,
     "costPrice": 0,
     "compareAtPrice": null,
-    "stock": 120,
+    "stock": 0,
     "images": [
       "/images/products/telegram/tg-squish-multiple-colours-1203-1.webp",
       "/images/products/telegram/tg-squish-multiple-colours-1203-2.webp",
@@ -15251,7 +15251,7 @@
       "Telegram stock"
     ],
     "active": true,
-    "updatedAt": "2026-11-22T12:49:32.058Z",
+    "updatedAt": "2026-11-22T17:02:28.421Z",
     "ageRange": "3-5 years",
     "brand": "Toy Bloom Wholesale",
     "theme": "Telegram stock",
