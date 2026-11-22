@@ -8353,10 +8353,10 @@
     "title": "Slimes",
     "description": "NEW SLIMES.",
     "category": "fidget-spinners",
-    "price": 1.1,
-    "costPrice": 0,
+    "price": 12,
+    "costPrice": 1,
     "compareAtPrice": null,
-    "stock": 50,
+    "stock": 120,
     "images": [
       "/images/products/telegram/tg-slimes-1213-1.webp",
       "/images/products/telegram/tg-slimes-1213-2.webp",
@@ -8367,7 +8367,7 @@
       "Sensory"
     ],
     "active": true,
-    "updatedAt": "2026-10-31T23:57:01.470Z",
+    "updatedAt": "2026-11-22T01:59:33.899Z",
     "ageRange": "3-5 years",
     "brand": "Toy Bloom Wholesale",
     "theme": "Sensory",
@@ -8379,9 +8379,9 @@
     "safety": "Ages 3+. Adult supervision recommended. Not suitable for children under 36 months (small parts).",
     "materials": "See packaging.",
     "isNew": true,
-    "piecesPerBox": 1,
+    "piecesPerBox": 12,
     "moqUnit": "pcs",
-    "moqLabel": "Min order: 1 pc"
+    "moqLabel": "Min order: 12 pc"
   },
   {
     "id": "tg-bouncy-ball-big-size-1221",
