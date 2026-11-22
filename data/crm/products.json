@@ -11794,7 +11794,7 @@
     "description": "Small sweet doll. A box of 6.",
     "category": "dolls",
     "price": 12,
-    "costPrice": 2,
+    "costPrice": 0,
     "compareAtPrice": null,
     "stock": 120,
     "images": [
@@ -11808,7 +11808,7 @@
       "Dolls"
     ],
     "active": true,
-    "updatedAt": "2026-11-21T08:14:51.015Z",
+    "updatedAt": "2026-11-22T13:01:52.253Z",
     "ageRange": "3-5 years",
     "brand": "Toy Bloom Wholesale",
     "theme": "Dolls",
