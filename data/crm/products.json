@@ -15849,7 +15849,7 @@
     "description": "Oreo cookie squish-and-flow squishies. Manchester Toys Telegram stock. Not a food item. Ages 3+.",
     "category": "needoh-squishies",
     "price": 30,
-    "costPrice": 2.5,
+    "costPrice": 0,
     "compareAtPrice": null,
     "stock": 120,
     "images": [
@@ -15860,7 +15860,7 @@
       "Telegram stock"
     ],
     "active": true,
-    "updatedAt": "2026-11-20T16:34:43.927Z",
+    "updatedAt": "2026-11-22T12:46:42.600Z",
     "ageRange": "3-5 years",
     "brand": "Toy Bloom Wholesale",
     "theme": "Telegram stock",
