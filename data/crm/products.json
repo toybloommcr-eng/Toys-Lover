@@ -10993,7 +10993,7 @@
     "description": "LABUBU LIGHT UP. Otherwise each.",
     "category": "labubu",
     "price": 42,
-    "costPrice": 3.5,
+    "costPrice": 0,
     "compareAtPrice": null,
     "stock": 120,
     "images": [
@@ -11007,7 +11007,7 @@
       "Labubu"
     ],
     "active": true,
-    "updatedAt": "2026-11-22T01:27:08.371Z",
+    "updatedAt": "2026-11-22T13:03:11.393Z",
     "ageRange": "3-5 years",
     "brand": "Toy Bloom Wholesale",
     "theme": "Labubu",
