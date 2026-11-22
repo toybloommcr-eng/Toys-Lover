@@ -8656,7 +8656,7 @@
     "description": "String ball in football colours available now.",
     "category": "outdoor-sports",
     "price": 10.8,
-    "costPrice": 0.9,
+    "costPrice": 0,
     "compareAtPrice": null,
     "stock": 120,
     "images": [
@@ -8669,7 +8669,7 @@
       "Football"
     ],
     "active": true,
-    "updatedAt": "2026-11-22T01:49:30.159Z",
+    "updatedAt": "2026-11-22T13:06:46.054Z",
     "ageRange": "3-5 years",
     "brand": "Toy Bloom Wholesale",
     "theme": "Football",
