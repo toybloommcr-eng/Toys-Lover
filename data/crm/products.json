@@ -8593,10 +8593,10 @@
     "title": "Kids Purses",
     "description": "Kids purses just.",
     "category": "bags-accessories",
-    "price": 2,
-    "costPrice": 0,
+    "price": 24,
+    "costPrice": 2,
     "compareAtPrice": null,
-    "stock": 50,
+    "stock": 120,
     "images": [
       "/images/products/telegram/tg-kids-purses-1324-2.webp",
       "/images/products/telegram/tg-kids-purses-1324-1.webp"
@@ -8606,7 +8606,7 @@
       "Bags"
     ],
     "active": true,
-    "updatedAt": "2026-10-31T23:57:01.470Z",
+    "updatedAt": "2026-11-22T01:57:40.734Z",
     "ageRange": "3-5 years",
     "brand": "Toy Bloom Wholesale",
     "theme": "Bags",
@@ -8618,9 +8618,9 @@
     "safety": "Ages 3+. Adult supervision recommended. Not suitable for children under 36 months (small parts).",
     "materials": "See packaging.",
     "isNew": true,
-    "piecesPerBox": 1,
+    "piecesPerBox": 12,
     "moqUnit": "pcs",
-    "moqLabel": "Min order: 1 pc"
+    "moqLabel": "Min order: 12pc"
   },
   {
     "id": "tg-inside-out-plush-1327",
