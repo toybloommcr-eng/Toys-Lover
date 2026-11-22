@@ -8065,7 +8065,7 @@
     "description": "Disney 40oz 1200ml Large Capacity Stainless Steel Insulated Water Bottle With Handle, Disney Stitch Pattern, Suitable For Outdoor Travel (With Straw).",
     "category": "home-gifts",
     "price": 3.5,
-    "costPrice": 3.5,
+    "costPrice": 0,
     "compareAtPrice": null,
     "stock": 120,
     "images": [
@@ -8083,7 +8083,7 @@
       "Stitch"
     ],
     "active": true,
-    "updatedAt": "2026-11-22T01:58:35.950Z",
+    "updatedAt": "2026-11-22T13:08:08.524Z",
     "ageRange": "3-5 years",
     "brand": "Toy Bloom Wholesale",
     "theme": "Stitch",
