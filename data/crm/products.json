@@ -1862,10 +1862,10 @@
     "title": "Mint Table Fan",
     "description": "Square mint desk fan with a round grille. Photographed from the new delivery, centred in a square frame so the toy is easy to recognise on every screen.",
     "category": "home-gifts",
-    "price": 6.99,
+    "price": 4.99,
     "costPrice": 0,
     "compareAtPrice": null,
-    "stock": 20,
+    "stock": 120,
     "images": [
       "/images/products/mint-table-fan.jpg"
     ],
@@ -1874,7 +1874,7 @@
       "Gadgets"
     ],
     "active": true,
-    "updatedAt": "2026-10-31T23:57:01.470Z",
+    "updatedAt": "2026-11-22T12:03:11.512Z",
     "ageRange": "9-12 years",
     "brand": "Cool Breeze",
     "theme": "Gadgets",
