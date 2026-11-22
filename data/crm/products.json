@@ -4799,42 +4799,6 @@
     "moqLabel": "Min order: 1 pc"
   },
   {
-    "id": "tg-prime-calendar-big-size-164",
-    "slug": "tg-prime-calendar-big-size-164",
-    "sku": "",
-    "title": "Prime Calendar Big Size",
-    "description": "Prime calendar big size only.",
-    "category": "arts-crafts",
-    "price": 7.5,
-    "costPrice": 0,
-    "compareAtPrice": null,
-    "stock": 0,
-    "images": [
-      "/images/products/telegram/tg-prime-calendar-big-size-164-2.webp",
-      "/images/products/telegram/tg-prime-calendar-big-size-164-1.webp"
-    ],
-    "tags": [
-      "Toy Bloom Wholesale",
-      "Crafts"
-    ],
-    "active": true,
-    "updatedAt": "2026-11-22T11:38:31.721Z",
-    "ageRange": "3-5 years",
-    "brand": "Toy Bloom Wholesale",
-    "theme": "Crafts",
-    "shortDescription": "Prime calendar big size only.",
-    "features": [
-      "Min order: 1 pc",
-      "£7.50 each"
-    ],
-    "safety": "Ages 3+. Adult supervision recommended. Not suitable for children under 36 months (small parts).",
-    "materials": "See packaging.",
-    "isNew": true,
-    "piecesPerBox": 1,
-    "moqUnit": "pcs",
-    "moqLabel": "Min order: 1 pc"
-  },
-  {
     "id": "tg-hello-kitty-advert-calendar-166",
     "slug": "tg-hello-kitty-advert-calendar-166",
     "sku": "",
