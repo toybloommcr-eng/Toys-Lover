@@ -2606,10 +2606,10 @@
     "title": "Metal Charm Keyring 03",
     "description": "Metal charm keyring from the new tray — a solid desk-and-bag clip. Centred on a clean white frame so the toy stays sharp on every screen.",
     "category": "novelty-keyrings",
-    "price": 1.25,
+    "price": 15,
     "costPrice": 0,
     "compareAtPrice": null,
-    "stock": 19,
+    "stock": 120,
     "images": [
       "/images/products/metal-charm-keyring-03.jpg"
     ],
@@ -2618,7 +2618,7 @@
       "Keyrings"
     ],
     "active": true,
-    "updatedAt": "2026-10-31T23:57:01.470Z",
+    "updatedAt": "2026-11-22T11:56:54.121Z",
     "ageRange": "9-12 years",
     "brand": "Street Fun",
     "theme": "Keyrings",
@@ -2633,8 +2633,8 @@
     "safety": "Ages 9+. Remove tags and packaging before gifting. Batteries as labelled.",
     "materials": "Alloy charm, metal ring.",
     "isNew": true,
-    "piecesPerBox": 1,
-    "moqLabel": "Min order: 1 pcs"
+    "piecesPerBox": 12,
+    "moqLabel": "Min order: 12 pcs"
   },
   {
     "id": "metal-charm-keyring-04",
