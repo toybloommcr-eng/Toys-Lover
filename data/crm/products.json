@@ -7835,7 +7835,7 @@
     "description": "NEW GLITTER SLIME. IN STOCK NOW JUST FROM.",
     "category": "fidget-spinners",
     "price": 9,
-    "costPrice": 0.75,
+    "costPrice": 0,
     "compareAtPrice": null,
     "stock": 120,
     "images": [
@@ -7848,7 +7848,7 @@
       "Sensory"
     ],
     "active": true,
-    "updatedAt": "2026-11-22T02:01:11.163Z",
+    "updatedAt": "2026-11-22T13:08:45.945Z",
     "ageRange": "3-5 years",
     "brand": "Toy Bloom Wholesale",
     "theme": "Sensory",
