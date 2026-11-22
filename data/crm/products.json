@@ -9685,7 +9685,7 @@
     "description": "Labubu lakers. Arrived now. Pack of 12 ().",
     "category": "labubu",
     "price": 36,
-    "costPrice": 6,
+    "costPrice": 0,
     "compareAtPrice": null,
     "stock": 120,
     "images": [
@@ -9700,7 +9700,7 @@
       "Labubu"
     ],
     "active": true,
-    "updatedAt": "2026-11-22T01:38:42.930Z",
+    "updatedAt": "2026-11-22T13:04:58.157Z",
     "ageRange": "3-5 years",
     "brand": "Toy Bloom Wholesale",
     "theme": "Labubu",
