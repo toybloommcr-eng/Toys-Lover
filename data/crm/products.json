@@ -13206,7 +13206,7 @@
     "description": "Kitchen set available. Each or. 12 mix for ().",
     "category": "role-play",
     "price": 3.5,
-    "costPrice": 3.5,
+    "costPrice": 0,
     "compareAtPrice": null,
     "stock": 120,
     "images": [
@@ -13219,7 +13219,7 @@
       "Pretend Play"
     ],
     "active": true,
-    "updatedAt": "2026-11-21T07:49:22.422Z",
+    "updatedAt": "2026-11-22T12:58:06.633Z",
     "ageRange": "3-5 years",
     "brand": "Toy Bloom Wholesale",
     "theme": "Pretend Play",
