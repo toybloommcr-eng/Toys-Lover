@@ -11114,7 +11114,7 @@
     "description": "K-Pop surprise ball back in stock.",
     "category": "action-figures",
     "price": 21,
-    "costPrice": 1.75,
+    "costPrice": 0,
     "compareAtPrice": null,
     "stock": 120,
     "images": [
@@ -11128,7 +11128,7 @@
       "K-Pop"
     ],
     "active": true,
-    "updatedAt": "2026-11-22T01:25:46.309Z",
+    "updatedAt": "2026-11-22T13:02:57.102Z",
     "ageRange": "3-5 years",
     "brand": "Toy Bloom Wholesale",
     "theme": "K-Pop",
