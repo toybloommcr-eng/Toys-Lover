@@ -16545,8 +16545,8 @@
     "title": "Slush Peanut Squeeze Squishy",
     "description": "Glitter slush peanut squeeze squishies. Manchester Toys Telegram stock (30 Oct). Not a food item. Ages 3+.",
     "category": "food-squishies",
-    "price": 3,
-    "costPrice": 36,
+    "price": 36,
+    "costPrice": 0,
     "compareAtPrice": null,
     "stock": 120,
     "images": [
@@ -16557,7 +16557,7 @@
       "Telegram stock"
     ],
     "active": true,
-    "updatedAt": "2026-11-20T16:17:13.274Z",
+    "updatedAt": "2026-11-22T12:23:32.496Z",
     "priceTBC": true,
     "ageRange": "3-5 years",
     "brand": "Toy Bloom Wholesale",
