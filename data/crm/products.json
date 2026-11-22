@@ -14775,7 +14775,7 @@
     "price": 18,
     "costPrice": 0,
     "compareAtPrice": null,
-    "stock": 120,
+    "stock": 0,
     "images": [
       "/images/products/telegram/tg-squeeze-dinosaur-1288-1.webp",
       "/images/products/telegram/tg-squeeze-dinosaur-1288-2.webp",
@@ -14786,7 +14786,7 @@
       "Telegram stock"
     ],
     "active": true,
-    "updatedAt": "2026-11-22T12:51:52.850Z",
+    "updatedAt": "2026-11-22T17:09:00.274Z",
     "ageRange": "3-5 years",
     "brand": "Toy Bloom Wholesale",
     "theme": "Telegram stock",
