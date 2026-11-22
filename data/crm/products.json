@@ -10352,7 +10352,7 @@
     "description": "Labubu kids lunch box. Each. 12 mix for.",
     "category": "labubu",
     "price": 42,
-    "costPrice": 3.5,
+    "costPrice": 0,
     "compareAtPrice": null,
     "stock": 120,
     "images": [
@@ -10370,7 +10370,7 @@
       "Labubu"
     ],
     "active": true,
-    "updatedAt": "2026-11-22T01:32:45.242Z",
+    "updatedAt": "2026-11-22T13:04:02.910Z",
     "ageRange": "3-5 years",
     "brand": "Toy Bloom Wholesale",
     "theme": "Labubu",
