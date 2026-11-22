@@ -14947,42 +14947,6 @@
     "moqLabel": "Box of 12"
   },
   {
-    "id": "sq-k-pop-squishy",
-    "slug": "sq-k-pop-squishy",
-    "sku": "",
-    "title": "Italian character brain Rot.",
-    "description": "K-Pop character squishies. Manchester Toys Telegram stock. Not a food item. Ages 3+.",
-    "category": "character-squishies",
-    "price": 12,
-    "costPrice": 0,
-    "compareAtPrice": null,
-    "stock": 120,
-    "images": [
-      "/images/products/telegram/tg-k-pop-squishy-2505-1.webp",
-      "/images/products/telegram/tg-k-pop-squishy-2505-2.webp",
-      "/images/products/telegram/tg-k-pop-squishy-2505-3.webp"
-    ],
-    "tags": [
-      "Toy Bloom Wholesale",
-      "Telegram stock"
-    ],
-    "active": true,
-    "updatedAt": "2026-11-22T17:04:43.647Z",
-    "ageRange": "3-5 years",
-    "brand": "Toy Bloom Wholesale",
-    "theme": "Telegram stock",
-    "shortDescription": "K-Pop character squishies.",
-    "features": [
-      "Box of 12"
-    ],
-    "safety": "Ages 3+. Not a food item. Do not eat. Supervise younger children.",
-    "materials": "Soft sensory fill / PU foam. Not a food item.",
-    "isNew": true,
-    "isBestSeller": true,
-    "piecesPerBox": 6,
-    "moqLabel": "Pack of 6"
-  },
-  {
     "id": "sq-crocs-squishy",
     "slug": "sq-crocs-squishy",
     "sku": "",
