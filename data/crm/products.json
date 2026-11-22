@@ -3008,43 +3008,6 @@
     "moqLabel": "Min order: 1 pcs"
   },
   {
-    "id": "star-buddy-plush-03",
-    "slug": "star-buddy-plush-03",
-    "sku": "",
-    "title": "Star Buddy Plush 03",
-    "description": "Soft star-buddy plush from the new delivery — a hug-size friend with stitched features. Centred on a clean white frame so the toy stays sharp on every screen.",
-    "category": "plush-soft-toys",
-    "price": 3.5,
-    "costPrice": 0,
-    "compareAtPrice": null,
-    "stock": 120,
-    "images": [
-      "/images/products/star-buddy-plush-03.jpg"
-    ],
-    "tags": [
-      "Nest & Wool",
-      "Comfort"
-    ],
-    "active": true,
-    "updatedAt": "2026-11-22T11:53:06.169Z",
-    "ageRange": "3-5 years",
-    "brand": "Nest & Wool",
-    "theme": "Comfort",
-    "shortDescription": "Soft star-buddy plush from the new delivery — a hug-size friend with stitched features.",
-    "features": [
-      "Min order: 1 pcs",
-      "Hug size",
-      "Soft pile",
-      "Stitched face",
-      "Ages 3+"
-    ],
-    "safety": "Ages 3+. Use under adult supervision. Keep small parts away from under-threes.",
-    "materials": "Plush pile, polyester fill, embroidered face.",
-    "isNew": true,
-    "piecesPerBox": 1,
-    "moqLabel": "Min order: 1 pcs"
-  },
-  {
     "id": "star-buddy-plush-04",
     "slug": "star-buddy-plush-04",
     "sku": "",
