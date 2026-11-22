@@ -17512,5 +17512,29 @@
     "isNew": true,
     "piecesPerBox": 12,
     "moqLabel": "Min order: 12 pcs"
+  },
+  {
+    "title": "Squishy pound note.",
+    "description": "### Squishy Pound Notes 💷\n\nAdd a little fun to your day with our Squishy Pound Notes!\n\nThese adorable, realistic-looking pound note squishies are perfect for squeezing, squashing and collecting. Soft, stretchy and satisfying to play with, they make a great little treat for yourself or a fun gift for friends and family.\n\nPerfect for sensory play, stress relief, fidgeting or simply adding something different to your collection.\n\n✨ **Why you'll love them:**\n- Soft and squishy texture\n- Fun pound note design\n- Great for sensory play and fidgeting\n- Perfect as a gift or little treat\n- Fun for collectors and squishy lovers\n\n**Squeeze it, squish it and enjoy the fun!** 💷💕",
+    "category": "squishies",
+    "price": 18,
+    "compareAtPrice": null,
+    "stock": 120,
+    "sku": "",
+    "costPrice": 0,
+    "images": [
+      "/products/1795357601881-o9pyd3.jpg"
+    ],
+    "tags": [],
+    "active": true,
+    "piecesPerBox": 12,
+    "moqLabel": "12 pcs",
+    "brand": "unbrand",
+    "ageRange": "3-5 years",
+    "isNew": true,
+    "isBestSeller": true,
+    "id": "10b8b93c-084b-488b-978e-808ff62bb660",
+    "slug": "squishy-pound-note-r5jn",
+    "updatedAt": "2026-11-22T14:27:47.816Z"
   }
 ]
