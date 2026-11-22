@@ -8188,7 +8188,7 @@
     "description": "Kids purses just.",
     "category": "bags-accessories",
     "price": 24,
-    "costPrice": 2,
+    "costPrice": 0,
     "compareAtPrice": null,
     "stock": 120,
     "images": [
@@ -8200,7 +8200,7 @@
       "Bags"
     ],
     "active": true,
-    "updatedAt": "2026-11-22T01:57:40.734Z",
+    "updatedAt": "2026-11-22T13:07:49.575Z",
     "ageRange": "3-5 years",
     "brand": "Toy Bloom Wholesale",
     "theme": "Bags",
