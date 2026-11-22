@@ -2711,43 +2711,6 @@
     "moqLabel": "Min order: 1 pcs"
   },
   {
-    "id": "pocket-critter-keyring-01",
-    "slug": "pocket-critter-keyring-01",
-    "sku": "",
-    "title": "Pocket Critter Keyring 01",
-    "description": "Soft pocket-critter plush charm — a hug-size clip from the new tray. Centred on a clean white frame so the toy stays sharp on every screen.",
-    "category": "novelty-keyrings",
-    "price": 1.25,
-    "costPrice": 0,
-    "compareAtPrice": null,
-    "stock": 34,
-    "images": [
-      "/images/products/pocket-critter-keyring-01.jpg"
-    ],
-    "tags": [
-      "Nest & Wool",
-      "Keyrings"
-    ],
-    "active": true,
-    "updatedAt": "2026-10-31T23:57:01.470Z",
-    "ageRange": "3-5 years",
-    "brand": "Nest & Wool",
-    "theme": "Keyrings",
-    "shortDescription": "Soft pocket-critter plush charm — a hug-size clip from the new tray.",
-    "features": [
-      "Min order: 1 pcs",
-      "Plush charm",
-      "Soft pile",
-      "Bag clip",
-      "Ages 3+"
-    ],
-    "safety": "Ages 3+. Use under adult supervision. Keep small parts away from under-threes.",
-    "materials": "Plush pile, polyester fill, metal ring.",
-    "isNew": true,
-    "piecesPerBox": 1,
-    "moqLabel": "Min order: 1 pcs"
-  },
-  {
     "id": "pocket-critter-keyring-02",
     "slug": "pocket-critter-keyring-02",
     "sku": "",
