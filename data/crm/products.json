@@ -13627,7 +13627,7 @@
     "description": "Hand fan available now a pack of 12.",
     "category": "home-gifts",
     "price": 10.2,
-    "costPrice": 0.85,
+    "costPrice": 0,
     "compareAtPrice": null,
     "stock": 120,
     "images": [
@@ -13638,7 +13638,7 @@
       "Home"
     ],
     "active": true,
-    "updatedAt": "2026-11-21T07:43:38.209Z",
+    "updatedAt": "2026-11-22T12:56:28.760Z",
     "ageRange": "3-5 years",
     "brand": "Toy Bloom Wholesale",
     "theme": "Home",
