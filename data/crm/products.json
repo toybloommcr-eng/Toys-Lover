@@ -4444,10 +4444,10 @@
     "title": "Christmas Lights Battery Operated",
     "description": "New Christmas lights battery operated.",
     "category": "seasonal",
-    "price": 1.5,
+    "price": 18,
     "costPrice": 0,
     "compareAtPrice": null,
-    "stock": 50,
+    "stock": 120,
     "images": [
       "/images/products/telegram/tg-christmas-lights-battery-operated-138-1.webp"
     ],
@@ -4456,7 +4456,7 @@
       "Christmas"
     ],
     "active": true,
-    "updatedAt": "2026-10-31T23:57:01.470Z",
+    "updatedAt": "2026-11-22T11:41:33.155Z",
     "ageRange": "3-5 years",
     "brand": "Toy Bloom Wholesale",
     "theme": "Christmas",
