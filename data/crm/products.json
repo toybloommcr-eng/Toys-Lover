@@ -7599,10 +7599,10 @@
     "title": "Music Toy Guns",
     "description": "New design of music guns available at.",
     "category": "outdoor-sports",
-    "price": 2.5,
-    "costPrice": 0,
+    "price": 30,
+    "costPrice": 2.5,
     "compareAtPrice": null,
-    "stock": 50,
+    "stock": 120,
     "images": [
       "/images/products/telegram/tg-design-of-music-guns-977-2.webp",
       "/images/products/telegram/tg-design-of-music-guns-977-1.webp",
@@ -7613,7 +7613,7 @@
       "Outdoor"
     ],
     "active": true,
-    "updatedAt": "2026-10-31T23:57:01.470Z",
+    "updatedAt": "2026-11-22T02:07:08.024Z",
     "ageRange": "3-5 years",
     "brand": "Toy Bloom Wholesale",
     "theme": "Outdoor",
@@ -7625,9 +7625,9 @@
     "safety": "Ages 3+. Adult supervision recommended. Not suitable for children under 36 months (small parts).",
     "materials": "See packaging.",
     "isNew": true,
-    "piecesPerBox": 1,
+    "piecesPerBox": 12,
     "moqUnit": "pcs",
-    "moqLabel": "Min order: 1 pc"
+    "moqLabel": "Min order: 12 pc"
   },
   {
     "id": "tg-kids-steering-980",
