@@ -13323,7 +13323,7 @@
     "description": "30cm super soft Hamish The Highland Cow each. Otherwise.",
     "category": "plush-soft-toys",
     "price": 5.5,
-    "costPrice": 5.5,
+    "costPrice": 0,
     "compareAtPrice": null,
     "stock": 100,
     "images": [
@@ -13338,7 +13338,7 @@
       "Plush"
     ],
     "active": true,
-    "updatedAt": "2026-11-21T07:47:51.460Z",
+    "updatedAt": "2026-11-22T12:57:44.750Z",
     "ageRange": "3-5 years",
     "brand": "Toy Bloom Wholesale",
     "theme": "Plush",
