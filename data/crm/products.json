@@ -13820,7 +13820,7 @@
     "description": "Football trophies bubble available now for 12 ( each ).",
     "category": "bubble-blowers",
     "price": 5.5,
-    "costPrice": 5.5,
+    "costPrice": 0,
     "compareAtPrice": null,
     "stock": 120,
     "images": [
@@ -13831,7 +13831,7 @@
       "Football"
     ],
     "active": true,
-    "updatedAt": "2026-11-21T07:40:53.380Z",
+    "updatedAt": "2026-11-22T12:55:32.197Z",
     "ageRange": "3-5 years",
     "brand": "Toy Bloom Wholesale",
     "theme": "Football",
