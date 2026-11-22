@@ -8224,7 +8224,7 @@
     "description": "Inside out plush.",
     "category": "plush-soft-toys",
     "price": 36,
-    "costPrice": 3,
+    "costPrice": 0,
     "compareAtPrice": null,
     "stock": 120,
     "images": [
@@ -8237,7 +8237,7 @@
       "Plush"
     ],
     "active": true,
-    "updatedAt": "2026-11-22T01:57:17.086Z",
+    "updatedAt": "2026-11-22T13:07:38.467Z",
     "ageRange": "3-5 years",
     "brand": "Toy Bloom Wholesale",
     "theme": "Plush",
