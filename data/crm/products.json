@@ -7346,7 +7346,7 @@
     "price": 3.5,
     "costPrice": 0,
     "compareAtPrice": null,
-    "stock": 50,
+    "stock": 120,
     "images": [
       "/images/products/telegram/tg-inside-out-plush-toys-912-1.webp",
       "/images/products/telegram/tg-inside-out-plush-toys-912-2.webp"
@@ -7356,7 +7356,7 @@
       "Plush"
     ],
     "active": true,
-    "updatedAt": "2026-10-31T23:57:01.470Z",
+    "updatedAt": "2026-11-22T02:09:16.255Z",
     "ageRange": "3-5 years",
     "brand": "Toy Bloom Wholesale",
     "theme": "Plush",
