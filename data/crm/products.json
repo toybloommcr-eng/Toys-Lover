@@ -10050,10 +10050,10 @@
     "title": "Croc Bags",
     "description": "New croc bags available now.",
     "category": "bags-accessories",
-    "price": 2.5,
-    "costPrice": 0,
+    "price": 18,
+    "costPrice": 1.5,
     "compareAtPrice": null,
-    "stock": 50,
+    "stock": 120,
     "images": [
       "/images/products/telegram/tg-croc-bags-2045-3.webp",
       "/images/products/telegram/tg-croc-bags-2045-1.webp",
@@ -10065,7 +10065,7 @@
       "Bags"
     ],
     "active": true,
-    "updatedAt": "2026-10-31T23:57:01.470Z",
+    "updatedAt": "2026-11-22T01:39:28.117Z",
     "ageRange": "3-5 years",
     "brand": "Toy Bloom Wholesale",
     "theme": "Bags",
