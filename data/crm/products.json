@@ -1596,43 +1596,6 @@
     "moqLabel": "Min order: 1 pcs"
   },
   {
-    "id": "lace-heart-wands",
-    "slug": "lace-heart-wands",
-    "sku": "",
-    "title": "Lace Heart Wands",
-    "description": "Blue, hot-pink, blush, and lilac heart wands with lace and ribbon. Photographed from the new delivery, centred in a square frame so the toy is easy to recognise on every screen.",
-    "category": "light-up-toys",
-    "price": 1.99,
-    "costPrice": 0,
-    "compareAtPrice": null,
-    "stock": 30,
-    "images": [
-      "/images/products/lace-heart-wands.jpg"
-    ],
-    "tags": [
-      "Party Glow",
-      "Lights"
-    ],
-    "active": true,
-    "updatedAt": "2026-10-31T23:57:01.470Z",
-    "ageRange": "3-5 years",
-    "brand": "Party Glow",
-    "theme": "Lights",
-    "shortDescription": "Blue, hot-pink, blush, and lilac heart wands with lace and ribbon.",
-    "features": [
-      "Min order: 1 pcs",
-      "Heart top",
-      "Lace trim",
-      "Four colours",
-      "Ages 3+"
-    ],
-    "safety": "Ages 3+. Use under adult supervision. Keep small parts away from under-threes.",
-    "materials": "LED plastic, batteries as labelled.",
-    "isNew": true,
-    "piecesPerBox": 1,
-    "moqLabel": "Min order: 1 pcs"
-  },
-  {
     "id": "star-princess-wands",
     "slug": "star-princess-wands",
     "sku": "",
