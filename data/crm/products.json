@@ -13856,7 +13856,7 @@
     "description": "All new light up cubes in individual packing a pack of 12 ( each ).",
     "category": "light-up-toys",
     "price": 24,
-    "costPrice": 2,
+    "costPrice": 0,
     "compareAtPrice": null,
     "stock": 120,
     "images": [
@@ -13870,7 +13870,7 @@
       "Lights"
     ],
     "active": true,
-    "updatedAt": "2026-11-21T07:40:31.533Z",
+    "updatedAt": "2026-11-22T12:55:24.751Z",
     "ageRange": "3-5 years",
     "brand": "Toy Bloom Wholesale",
     "theme": "Lights",
