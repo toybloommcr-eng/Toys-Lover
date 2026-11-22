@@ -2460,7 +2460,7 @@
     "price": 4.5,
     "costPrice": 0,
     "compareAtPrice": null,
-    "stock": 32,
+    "stock": 120,
     "images": [
       "/images/products/monster-buddy-bag-02.jpg"
     ],
@@ -2469,7 +2469,7 @@
       "Bags"
     ],
     "active": true,
-    "updatedAt": "2026-10-31T23:57:01.470Z",
+    "updatedAt": "2026-11-22T11:58:59.942Z",
     "ageRange": "6-8 years",
     "brand": "Street Fun",
     "theme": "Bags",
