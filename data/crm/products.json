@@ -10470,7 +10470,7 @@
     "description": "Copy with charms. Just for 12pcs.",
     "category": "arts-crafts",
     "price": 18,
-    "costPrice": 1.5,
+    "costPrice": 0,
     "compareAtPrice": null,
     "stock": 120,
     "images": [
@@ -10487,7 +10487,7 @@
       "Crafts"
     ],
     "active": true,
-    "updatedAt": "2026-11-22T01:31:45.838Z",
+    "updatedAt": "2026-11-22T13:03:51.303Z",
     "ageRange": "3-5 years",
     "brand": "Toy Bloom Wholesale",
     "theme": "Crafts",
