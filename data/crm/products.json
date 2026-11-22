@@ -15917,7 +15917,7 @@
     "description": "Light-up jellyfish NeeDoh squishies. Manchester Toys Telegram stock. Not a food item. Ages 3+.",
     "category": "needoh-squishies",
     "price": 39,
-    "costPrice": 6.5,
+    "costPrice": 0,
     "compareAtPrice": null,
     "stock": 120,
     "images": [
@@ -15928,7 +15928,7 @@
       "Telegram stock"
     ],
     "active": true,
-    "updatedAt": "2026-11-20T16:33:47.360Z",
+    "updatedAt": "2026-11-22T12:28:17.553Z",
     "ageRange": "3-5 years",
     "brand": "Toy Bloom Wholesale",
     "theme": "Telegram stock",
