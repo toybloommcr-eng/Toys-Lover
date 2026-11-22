@@ -599,10 +599,10 @@
     "title": "Web Hero Mask",
     "description": "Red web-pattern hero mask for pretend missions. Photographed from the new delivery, centred in a square frame so the toy is easy to recognise on every screen.",
     "category": "party-spotlight",
-    "price": 14.99,
+    "price": 3.5,
     "costPrice": 0,
     "compareAtPrice": null,
-    "stock": 42,
+    "stock": 120,
     "images": [
       "/images/products/web-hero-mask.jpg"
     ],
@@ -611,7 +611,7 @@
       "Dress-up"
     ],
     "active": true,
-    "updatedAt": "2026-10-31T23:57:01.470Z",
+    "updatedAt": "2026-11-22T12:12:29.796Z",
     "ageRange": "9-12 years",
     "brand": "Forge & Fun",
     "theme": "Dress-up",
