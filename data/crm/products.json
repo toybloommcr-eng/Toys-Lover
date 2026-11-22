@@ -8510,12 +8510,12 @@
     "slug": "tg-blankets-1308",
     "sku": "",
     "title": "Character Blankets",
-    "description": "BLANKETS AVAILABLE NOW. JUST EACH. 2 for.",
+    "description": "BLANKETS AVAILABLE NOW. JUST EACH. ",
     "category": "home-gifts",
     "price": 15,
     "costPrice": 0,
     "compareAtPrice": null,
-    "stock": 50,
+    "stock": 120,
     "images": [
       "/images/products/telegram/tg-blankets-1308-4.webp",
       "/images/products/telegram/tg-blankets-1308-2.webp",
@@ -8531,7 +8531,7 @@
       "Home"
     ],
     "active": true,
-    "updatedAt": "2026-10-31T23:57:01.470Z",
+    "updatedAt": "2026-11-22T01:58:09.595Z",
     "ageRange": "3-5 years",
     "brand": "Toy Bloom Wholesale",
     "theme": "Home",
