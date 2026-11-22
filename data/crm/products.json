@@ -3804,10 +3804,10 @@
     "title": "Glow in Dark Sword",
     "description": "Glow in dark sword.",
     "category": "light-up-toys",
-    "price": 1.2,
+    "price": 15,
     "costPrice": 0,
     "compareAtPrice": null,
-    "stock": 50,
+    "stock": 120,
     "images": [
       "/images/products/telegram/tg-glow-in-dark-sword-21-1.webp"
     ],
@@ -3816,7 +3816,7 @@
       "Lights"
     ],
     "active": true,
-    "updatedAt": "2026-10-31T23:57:01.470Z",
+    "updatedAt": "2026-11-22T11:46:34.879Z",
     "ageRange": "3-5 years",
     "brand": "Toy Bloom Wholesale",
     "theme": "Lights",
