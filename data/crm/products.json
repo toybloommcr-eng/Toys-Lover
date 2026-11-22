@@ -2271,10 +2271,10 @@
     "title": "Hatch Dragon Egg 04",
     "description": "3D hatch egg with a mini dragon inside — a pocket surprise from the new delivery. Centred on a clean white frame so the toy stays sharp on every screen.",
     "category": "action-figures",
-    "price": 2.5,
+    "price": 30,
     "costPrice": 0,
     "compareAtPrice": null,
-    "stock": 19,
+    "stock": 120,
     "images": [
       "/images/products/hatch-dragon-egg-04.jpg"
     ],
@@ -2283,7 +2283,7 @@
       "Surprise"
     ],
     "active": true,
-    "updatedAt": "2026-10-31T23:57:01.470Z",
+    "updatedAt": "2026-11-22T11:57:35.211Z",
     "ageRange": "6-8 years",
     "brand": "Forge & Fun",
     "theme": "Surprise",
@@ -2298,8 +2298,8 @@
     "safety": "Ages 6+. Not a food item. Supervise first use of lights and batteries.",
     "materials": "Plastic egg shell, mini dragon figure.",
     "isNew": true,
-    "piecesPerBox": 1,
-    "moqLabel": "Min order: 1 pcs"
+    "piecesPerBox": 12,
+    "moqLabel": "Min order: 12 pcs"
   },
   {
     "id": "hatch-dragon-egg-05",
