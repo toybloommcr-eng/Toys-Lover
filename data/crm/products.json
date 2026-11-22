@@ -3165,7 +3165,7 @@
     "price": 2.5,
     "costPrice": 0,
     "compareAtPrice": null,
-    "stock": 26,
+    "stock": 120,
     "images": [
       "/images/products/light-up-party-gloves.jpg"
     ],
@@ -3174,7 +3174,7 @@
       "Lights"
     ],
     "active": true,
-    "updatedAt": "2026-10-31T23:57:01.470Z",
+    "updatedAt": "2026-11-22T11:52:23.055Z",
     "ageRange": "6-8 years",
     "brand": "Party Glow",
     "theme": "Lights",
