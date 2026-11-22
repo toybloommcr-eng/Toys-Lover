@@ -1782,43 +1782,6 @@
     "moqLabel": "Min order: 1 pcs"
   },
   {
-    "id": "sunset-sphynx-keyring",
-    "slug": "sunset-sphynx-keyring",
-    "sku": "",
-    "title": "Sunset Sphynx Keyring",
-    "description": "Pink-to-orange jointed sphynx cat with a gold ring. Photographed from the new delivery, centred in a square frame so the toy is easy to recognise on every screen.",
-    "category": "novelty-keyrings",
-    "price": 4.99,
-    "costPrice": 0,
-    "compareAtPrice": null,
-    "stock": 120,
-    "images": [
-      "/images/products/sunset-sphynx-keyring.jpg"
-    ],
-    "tags": [
-      "Street Fun",
-      "Keyrings"
-    ],
-    "active": true,
-    "updatedAt": "2026-11-22T12:03:37.946Z",
-    "ageRange": "13+ years",
-    "brand": "Street Fun",
-    "theme": "Keyrings",
-    "shortDescription": "Pink-to-orange jointed sphynx cat with a gold ring.",
-    "features": [
-      "Min order: 1 pcs",
-      "Sunset fade",
-      "Poseable",
-      "Gold ring",
-      "Bag charm"
-    ],
-    "safety": "Ages 13+ / teen desk toy. Small parts — not for young children.",
-    "materials": "3D-printed jointed figure, gold-tone clip and ring.",
-    "isNew": true,
-    "piecesPerBox": 1,
-    "moqLabel": "Min order: 1 pcs"
-  },
-  {
     "id": "lilac-pocket-fan",
     "slug": "lilac-pocket-fan",
     "sku": "",
