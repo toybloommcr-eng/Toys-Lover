@@ -13443,7 +13443,7 @@
     "description": "New bullet gun a box of 12.",
     "category": "outdoor-sports",
     "price": 18,
-    "costPrice": 1.5,
+    "costPrice": 0,
     "compareAtPrice": null,
     "stock": 140,
     "images": [
@@ -13454,7 +13454,7 @@
       "Outdoor"
     ],
     "active": true,
-    "updatedAt": "2026-11-21T07:46:14.965Z",
+    "updatedAt": "2026-11-22T12:57:19.656Z",
     "ageRange": "3-5 years",
     "brand": "Toy Bloom Wholesale",
     "theme": "Outdoor",
