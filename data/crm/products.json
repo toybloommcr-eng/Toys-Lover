@@ -3128,7 +3128,7 @@
     "price": 2.5,
     "costPrice": 0,
     "compareAtPrice": null,
-    "stock": 20,
+    "stock": 120,
     "images": [
       "/images/products/light-up-shutter-glasses.jpg"
     ],
@@ -3137,7 +3137,7 @@
       "Lights"
     ],
     "active": true,
-    "updatedAt": "2026-10-31T23:57:01.470Z",
+    "updatedAt": "2026-11-22T11:52:32.176Z",
     "ageRange": "9-12 years",
     "brand": "Party Glow",
     "theme": "Lights",
