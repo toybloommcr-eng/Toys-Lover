@@ -6785,7 +6785,7 @@
     "description": "New Stitch bag available now ",
     "category": "bags-accessories",
     "price": 24,
-    "costPrice": 2,
+    "costPrice": 0,
     "compareAtPrice": null,
     "stock": 120,
     "images": [
@@ -6802,7 +6802,7 @@
       "Stitch"
     ],
     "active": true,
-    "updatedAt": "2026-11-22T02:10:59.719Z",
+    "updatedAt": "2026-11-22T13:10:27.359Z",
     "ageRange": "3-5 years",
     "brand": "Toy Bloom Wholesale",
     "theme": "Stitch",
