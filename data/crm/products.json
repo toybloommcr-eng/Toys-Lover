@@ -1159,7 +1159,7 @@
     "price": 1.99,
     "costPrice": 0,
     "compareAtPrice": null,
-    "stock": 52,
+    "stock": 120,
     "images": [
       "/images/products/mini-lit-christmas-trees.jpg"
     ],
@@ -1168,7 +1168,7 @@
       "Christmas"
     ],
     "active": true,
-    "updatedAt": "2026-10-31T23:57:01.470Z",
+    "updatedAt": "2026-11-22T12:07:53.071Z",
     "ageRange": "6-8 years",
     "brand": "Nightfield",
     "theme": "Christmas",
