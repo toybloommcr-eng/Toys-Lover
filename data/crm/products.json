@@ -16088,9 +16088,9 @@
     "title": "Slush Crush Butter Squishy Toy – Colourful Sensory Squeeze Toy",
     "description": "Colourful super-soft slow-rising butter squishies. Manchester Toys Telegram stock (Thu 29 Oct). Not a food item. Ages 3+.",
     "category": "butter-squishies",
-    "price": 42,
-    "costPrice": 3.5,
-    "compareAtPrice": 4,
+    "price": 36,
+    "costPrice": 0,
+    "compareAtPrice": null,
     "stock": 120,
     "images": [
       "/images/products/sq-slush-crush-butter.jpg",
@@ -16101,7 +16101,7 @@
       "Telegram stock"
     ],
     "active": true,
-    "updatedAt": "2026-11-20T16:27:30.691Z",
+    "updatedAt": "2026-11-22T12:27:29.371Z",
     "ageRange": "3-5 years",
     "brand": "Toy Bloom Wholesale",
     "theme": "Telegram stock",
