@@ -14050,7 +14050,7 @@
     "description": "Mini 5.5cm dumpling squishies in assorted colours. Manchester Toys Telegram stock. Not a food item. Ages 3+.",
     "category": "dumpling-squishies",
     "price": 18,
-    "costPrice": 18,
+    "costPrice": 0,
     "compareAtPrice": null,
     "stock": 120,
     "images": [
@@ -14062,7 +14062,7 @@
       "Telegram stock"
     ],
     "active": true,
-    "updatedAt": "2026-11-21T07:37:09.324Z",
+    "updatedAt": "2026-11-22T12:54:41.698Z",
     "ageRange": "3-5 years",
     "brand": "Toy Bloom Wholesale",
     "theme": "Telegram stock",
