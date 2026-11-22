@@ -8971,7 +8971,7 @@
     "description": "New Crocs charms available. For a pack of 6.",
     "category": "novelty-keyrings",
     "price": 6,
-    "costPrice": 1,
+    "costPrice": 0,
     "compareAtPrice": null,
     "stock": 120,
     "images": [
@@ -8989,7 +8989,7 @@
       "Keyrings"
     ],
     "active": true,
-    "updatedAt": "2026-11-22T01:44:38.000Z",
+    "updatedAt": "2026-11-22T13:06:18.592Z",
     "ageRange": "3-5 years",
     "brand": "Toy Bloom Wholesale",
     "theme": "Keyrings",
