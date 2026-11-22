@@ -9811,7 +9811,7 @@
     "description": "MAGIC LABUBU. BLIND BOX. PLUSH KEYRING. If you take a pack of 12.",
     "category": "labubu",
     "price": 30,
-    "costPrice": 2.5,
+    "costPrice": 0,
     "compareAtPrice": null,
     "stock": 120,
     "images": [
@@ -9825,7 +9825,7 @@
       "Labubu"
     ],
     "active": true,
-    "updatedAt": "2026-11-22T01:37:20.638Z",
+    "updatedAt": "2026-11-22T13:04:47.843Z",
     "ageRange": "3-5 years",
     "brand": "Toy Bloom Wholesale",
     "theme": "Labubu",
