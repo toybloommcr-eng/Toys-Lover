@@ -10212,10 +10212,10 @@
     "title": "Labubu Lay Down",
     "description": "Labubu lay down. Style available now.",
     "category": "labubu",
-    "price": 0,
+    "price": 5.5,
     "costPrice": 0,
     "compareAtPrice": null,
-    "stock": 50,
+    "stock": 120,
     "images": [
       "/images/products/telegram/tg-lububu-lay-down-2089-2.webp",
       "/images/products/telegram/tg-lububu-lay-down-2089-3.webp",
@@ -10230,7 +10230,7 @@
       "Labubu"
     ],
     "active": true,
-    "updatedAt": "2026-10-31T23:57:01.470Z",
+    "updatedAt": "2026-11-22T01:37:36.626Z",
     "ageRange": "3-5 years",
     "brand": "Toy Bloom Wholesale",
     "theme": "Labubu",
