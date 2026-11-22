@@ -2311,7 +2311,7 @@
     "price": 2.5,
     "costPrice": 0,
     "compareAtPrice": null,
-    "stock": 24,
+    "stock": 120,
     "images": [
       "/images/products/hatch-dragon-egg-05.jpg"
     ],
@@ -2320,7 +2320,7 @@
       "Surprise"
     ],
     "active": true,
-    "updatedAt": "2026-10-31T23:57:01.470Z",
+    "updatedAt": "2026-11-22T11:59:53.362Z",
     "ageRange": "6-8 years",
     "brand": "Forge & Fun",
     "theme": "Surprise",
