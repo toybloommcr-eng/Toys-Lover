@@ -8577,7 +8577,7 @@
     "description": "Slime available from. 6 in pack.",
     "category": "fidget-spinners",
     "price": 6,
-    "costPrice": 1,
+    "costPrice": 0,
     "compareAtPrice": null,
     "stock": 120,
     "images": [
@@ -8594,7 +8594,7 @@
       "Sensory"
     ],
     "active": true,
-    "updatedAt": "2026-11-22T01:54:00.608Z",
+    "updatedAt": "2026-11-22T13:07:04.635Z",
     "ageRange": "3-5 years",
     "brand": "Toy Bloom Wholesale",
     "theme": "Sensory",
