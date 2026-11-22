@@ -8261,7 +8261,7 @@
     "description": "Stitch plushie available now.",
     "category": "plush-soft-toys",
     "price": 36,
-    "costPrice": 3,
+    "costPrice": 0,
     "compareAtPrice": null,
     "stock": 120,
     "images": [
@@ -8276,7 +8276,7 @@
       "Stitch"
     ],
     "active": true,
-    "updatedAt": "2026-11-22T01:56:55.214Z",
+    "updatedAt": "2026-11-22T13:07:29.712Z",
     "ageRange": "3-5 years",
     "brand": "Toy Bloom Wholesale",
     "theme": "Stitch",
