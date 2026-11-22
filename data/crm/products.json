@@ -15351,7 +15351,7 @@
     "description": "Vaseline-style giant cheese cube squishy. Manchester Toys Telegram stock. Not a food item. Ages 3+.",
     "category": "vaseline-squishies",
     "price": 30,
-    "costPrice": 2.5,
+    "costPrice": 0,
     "compareAtPrice": null,
     "stock": 120,
     "images": [
@@ -15364,7 +15364,7 @@
       "Telegram stock"
     ],
     "active": true,
-    "updatedAt": "2026-11-20T23:59:19.905Z",
+    "updatedAt": "2026-11-22T12:49:07.889Z",
     "ageRange": "3-5 years",
     "brand": "Toy Bloom Wholesale",
     "theme": "Telegram stock",
