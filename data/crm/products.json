@@ -14879,7 +14879,7 @@
     "description": "Labubu-style bunny squishies. Manchester Toys Telegram stock. Not a food item. Ages 3+.",
     "category": "character-squishies",
     "price": 7.5,
-    "costPrice": 7.5,
+    "costPrice": 0,
     "compareAtPrice": null,
     "stock": 120,
     "images": [
@@ -14897,7 +14897,7 @@
       "Telegram stock"
     ],
     "active": true,
-    "updatedAt": "2026-11-21T00:05:17.547Z",
+    "updatedAt": "2026-11-22T12:51:29.892Z",
     "ageRange": "3-5 years",
     "brand": "Toy Bloom Wholesale",
     "theme": "Telegram stock",
