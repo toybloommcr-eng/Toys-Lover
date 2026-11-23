@@ -17456,15 +17456,20 @@
   },
   {
     "title": "Christmas Special Dumplings 🎄",
-    "description": "**Title: Christmas Special Dumplings 🎄🥟**\n\n**Description:**\n\nCelebrate the festive season with our delicious Christmas Special Dumplings! ❤️\n\nFreshly prepared with love, these tasty dumplings are perfect for sharing with family and friends during the Christmas celebrations.\n\nEnjoy a festive treat filled with flavour, warmth and homemade goodness. Perfect for Christmas parties, family gatherings and special occasions.\n\n🎄 Make your Christmas extra delicious with our festive dumplings!",
+    "description": "**Title: Christmas Special Dumplings 🎄\n\n**Description:**\n\nCelebrate the festive season with our delicious Christmas Special Dumplings! ❤️\n\nFreshly prepared with love, these tasty dumplings are perfect for sharing with family and friends during the Christmas celebrations.\n\nEnjoy a festive treat filled with flavour, warmth and homemade goodness. Perfect for Christmas parties, family gatherings and special occasions.\n\n🎄 Make your Christmas extra delicious with our festive dumplings!",
     "category": "squishies",
-    "price": 0,
+    "price": 30,
     "compareAtPrice": null,
-    "stock": 0,
+    "stock": 120,
     "sku": "",
     "costPrice": 0,
-    "images": [],
-    "tags": [],
+    "images": [
+      "/products/1795428607071-megag9.jpg",
+      "/products/1795428610826-um8yal.jpg"
+    ],
+    "tags": [
+      "CrismisDumpling"
+    ],
     "active": true,
     "brand": "Unbranded ",
     "ageRange": "3-5 years",
@@ -17474,6 +17479,6 @@
     "isBestSeller": true,
     "id": "f8baa9bc-0185-41f6-a91f-558edb66779f",
     "slug": "christmas-special-dumplings-s1g7",
-    "updatedAt": "2026-11-22T16:46:20.857Z"
+    "updatedAt": "2026-11-23T10:10:47.372Z"
   }
 ]
