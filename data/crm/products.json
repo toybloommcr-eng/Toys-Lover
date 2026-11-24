@@ -17937,8 +17937,8 @@
     "updatedAt": "2026-11-24T11:28:25.093Z"
   },
   {
-    "title": "Sausage",
-    "description": "",
+    "title": "Crunchy Sausage Squishy – Sensory Fidget Toy",
+    "description": "Crunchy Sausage Squishy – Sensory Fidget Toy\n\nEnjoy satisfying squeezes and crunchy textures with this fun sausage-shaped squishy toy. Perfect for sensory play, fidgeting and everyday stress relief.\n",
     "category": "squishies",
     "price": 0,
     "compareAtPrice": null,
@@ -17948,10 +17948,26 @@
     "images": [
       "/products/1795519719124-e8z4q5.jpg"
     ],
-    "tags": [],
+    "tags": [
+      "Crunchy Sausage Squishy",
+      "Sausage Squishy",
+      "Crunchy Squishy",
+      "Sensory Toy",
+      "Fidget Toy",
+      "Squeeze Toy",
+      "Stress Relief Toy",
+      "Food Squishy",
+      "Squishy Toys"
+    ],
     "active": true,
     "id": "ead48de2-bb12-4e90-b1c7-76ec67a04aad",
     "slug": "sausage-zmvw",
-    "updatedAt": "2026-11-24T11:31:19.382Z"
+    "updatedAt": "2026-11-24T11:48:16.273Z",
+    "isBestSeller": true,
+    "isNew": true,
+    "ageRange": "3-5 years",
+    "moqLabel": "12 pcs",
+    "piecesPerBox": 12,
+    "brand": "unbranded"
   }
 ]
