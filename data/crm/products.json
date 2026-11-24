@@ -17935,5 +17935,23 @@
     "id": "6b84a2fe-2145-4d23-b779-31ee2aeac6c4",
     "slug": "crunchy-duck-satisfying-sensory-fidget-toy-6tyy",
     "updatedAt": "2026-11-24T11:28:25.093Z"
+  },
+  {
+    "title": "Sausage",
+    "description": "",
+    "category": "squishies",
+    "price": 0,
+    "compareAtPrice": null,
+    "stock": 0,
+    "sku": "",
+    "costPrice": 0,
+    "images": [
+      "/products/1795519719124-e8z4q5.jpg"
+    ],
+    "tags": [],
+    "active": true,
+    "id": "ead48de2-bb12-4e90-b1c7-76ec67a04aad",
+    "slug": "sausage-zmvw",
+    "updatedAt": "2026-11-24T11:31:19.382Z"
   }
 ]
