@@ -17969,5 +17969,39 @@
     "moqLabel": "12 pcs",
     "piecesPerBox": 12,
     "brand": "unbranded"
+  },
+  {
+    "title": "Crunchy Crocodile Squishy – Sensory Fidget Toy",
+    "description": "Crunchy Crocodile Squishy – Sensory Fidget Toy\n\nEnjoy satisfying squeezes and crunchy textures with this fun crocodile-shaped squishy toy. Perfect for sensory play, fidgeting and everyday stress relief.\n\n",
+    "category": "squishies",
+    "price": 30,
+    "compareAtPrice": 36,
+    "stock": 120,
+    "sku": "",
+    "costPrice": 0,
+    "images": [
+      "/products/1795521156545-o2nzyc.jpg"
+    ],
+    "tags": [
+      "Crunchy Crocodile Squishy",
+      "Crocodile Squishy",
+      "Crunchy Squishy",
+      "Animal Squishy",
+      "Sensory Toy",
+      "Fidget Toy",
+      "Squeeze Toy",
+      "Stress Relief Toy",
+      "Squishy Toys"
+    ],
+    "active": true,
+    "isBestSeller": true,
+    "isNew": true,
+    "moqLabel": "12 pcs",
+    "ageRange": "3-5 years",
+    "piecesPerBox": 12,
+    "brand": "unbranded",
+    "id": "d0212b9b-1a56-46e6-8a95-3f49711648d9",
+    "slug": "crunchy-crocodile-squishy-sensory-fidget-toy-h94p",
+    "updatedAt": "2026-11-24T11:54:30.311Z"
   }
 ]
