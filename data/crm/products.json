@@ -16356,9 +16356,9 @@
     "title": "Slush Strawberry Squishy",
     "description": "Glitter slush strawberry squishies in assorted colours. Manchester Toys Telegram stock (30 Oct). Not a food item. Ages 3+.",
     "category": "fruit-squishies",
-    "price": 120,
+    "price": 36,
     "costPrice": 0,
-    "compareAtPrice": null,
+    "compareAtPrice": 42,
     "stock": 120,
     "images": [
       "/images/products/sq-slush-strawberry.jpg"
@@ -16368,7 +16368,7 @@
       "Telegram stock"
     ],
     "active": true,
-    "updatedAt": "2026-11-22T12:24:55.133Z",
+    "updatedAt": "2026-11-24T10:11:00.894Z",
     "priceTBC": true,
     "ageRange": "3-5 years",
     "brand": "Toy Bloom Wholesale",
