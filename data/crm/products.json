@@ -19192,7 +19192,9 @@
     "stock": 120,
     "sku": "",
     "costPrice": 0,
-    "images": [],
+    "images": [
+      "/products/1795609857051-8wdwrg.jpg"
+    ],
     "tags": [
       "Squeeze cheese",
       "cheese squishy",
@@ -19214,6 +19216,6 @@
     "isNew": true,
     "id": "3ccf7ee9-fad2-4a61-8909-1caa650b2c8a",
     "slug": "squeeze-cheese-squishy-soft-sensory-fidget-toy-fbyy",
-    "updatedAt": "2026-11-25T12:29:48.669Z"
+    "updatedAt": "2026-11-25T12:31:00.552Z"
   }
 ]
