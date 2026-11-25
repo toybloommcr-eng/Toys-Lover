@@ -21115,7 +21115,9 @@
     "stock": 120,
     "sku": "",
     "costPrice": 0,
-    "images": [],
+    "images": [
+      "/products/1795632623160-t5g4si.jpg"
+    ],
     "tags": [
       "Glitter Cube",
       "Squishy Cube",
@@ -21134,6 +21136,6 @@
     "isBestSeller": true,
     "id": "81d18b82-fef8-46e8-b820-8e7aa6bad274",
     "slug": "glitter-cube-squeeze-ball-12-pcs-1sfj",
-    "updatedAt": "2026-11-25T18:42:08.203Z"
+    "updatedAt": "2026-11-25T18:50:28.313Z"
   }
 ]
