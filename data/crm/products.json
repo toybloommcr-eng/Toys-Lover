@@ -20072,9 +20072,9 @@
     "title": "Keycraft The Big Squij – Giant Cola Bottle Squishy",
     "description": "Keycraft The Big Squij – Giant Cola Bottle Squishy\n\nEnjoy supersized squishy fun with the Giant Cola Squij from Keycraft. Featuring a realistic cola bottle design and a super-squishy texture, this jumbo fidget toy is perfect for squeezing, sensory play and relaxation.\n\nSuitable for ages 3+.\n\nWarning: Choking hazard – small parts. Not suitable for children under 3 years. Do not eat.",
     "category": "squishies",
-    "price": 0,
-    "compareAtPrice": null,
-    "stock": 0,
+    "price": 52,
+    "compareAtPrice": 60,
+    "stock": 120,
     "sku": "",
     "costPrice": 0,
     "images": [
@@ -20099,7 +20099,9 @@
     "isBestSeller": true,
     "id": "61907972-1151-4310-946b-52757b1f9ccf",
     "slug": "keycraft-the-big-squij-giant-cola-bottle-squishy-znln",
-    "updatedAt": "2026-11-25T15:07:42.222Z"
+    "updatedAt": "2026-11-25T16:29:10.131Z",
+    "piecesPerBox": 8,
+    "moqLabel": "8 pcs"
   },
   {
     "title": "Keycraft The Big Squij – Cool as a Cucumber Squishy",
