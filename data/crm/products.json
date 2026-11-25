@@ -20908,13 +20908,15 @@
   {
     "title": "Mini Rainbow Mystery Sugar Dumpling Squishy – Small",
     "description": "Mini Rainbow Mystery Sugar Dumpling Squishy – Small\n\nDiscover colourful mini mystery dumplings with a satisfying squishy texture. Each comes in a mini steamer-style container with a surprise colour inside. Perfect for sensory play, fidgeting, collecting and party bag fillers.\n\nAge: 3+",
-    "category": "squishies",
-    "price": 24,
-    "compareAtPrice": 30,
+    "category": "dumpling-squishies",
+    "price": 36,
+    "compareAtPrice": 42,
     "stock": 120,
     "sku": "",
     "costPrice": 0,
-    "images": [],
+    "images": [
+      "/products/1795629887310-s3fgt3.jpg"
+    ],
     "tags": [
       "mini dumpling",
       "small dumpling",
@@ -20927,13 +20929,13 @@
     ],
     "active": true,
     "brand": "Unbranded ",
-    "piecesPerBox": 12,
+    "piecesPerBox": 24,
     "ageRange": "3-5 years",
-    "moqLabel": "12 pcs",
+    "moqLabel": "24 pcs",
     "isBestSeller": true,
     "isNew": true,
     "id": "220cd0ea-8bde-4870-9cfb-4c08146e7f42",
     "slug": "mini-rainbow-mystery-sugar-dumpling-squishy-small-ecc9",
-    "updatedAt": "2026-11-25T18:03:24.866Z"
+    "updatedAt": "2026-11-25T18:05:07.492Z"
   }
 ]
