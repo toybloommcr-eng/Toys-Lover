@@ -20037,7 +20037,7 @@
   {
     "title": "Jumbo Pineapple Squishy",
     "description": "Jumbo Pineapple Squishy\n\nEnjoy supersized squishy fun with this Jumbo Pineapple Squishy! Featuring a bright yellow pineapple design, green leaves and a soft, squeezable texture. Perfect for sensory play, fidgeting, relaxation and novelty gifts.\n\nWarning: This is a toy. Do not eat.",
-    "category": "squishies",
+    "category": "jumbo-squishies",
     "price": 39,
     "compareAtPrice": 45,
     "stock": 120,
@@ -20066,6 +20066,6 @@
     "isNew": true,
     "id": "89a00a28-f2fb-431c-a3eb-d8326683d965",
     "slug": "jumbo-pineapple-squishy-ugs4",
-    "updatedAt": "2026-11-25T15:01:45.634Z"
+    "updatedAt": "2026-11-25T15:04:04.219Z"
   }
 ]
