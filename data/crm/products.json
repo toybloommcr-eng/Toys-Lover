@@ -21682,7 +21682,7 @@
     "category": "dolls",
     "price": 0,
     "compareAtPrice": null,
-    "stock": 0,
+    "stock": 120,
     "sku": "",
     "costPrice": 0,
     "images": [
@@ -21700,6 +21700,6 @@
     "isBestSeller": true,
     "id": "fdb0ac9f-51d8-40a5-a5bc-78363b66468c",
     "slug": "bio-arm-water-gel-ball-launcher-red-robotic-glove-ages-14-dxiy",
-    "updatedAt": "2026-11-26T23:53:02.568Z"
+    "updatedAt": "2026-11-26T23:53:15.924Z"
   }
 ]
