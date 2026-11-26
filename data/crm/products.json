@@ -21140,18 +21140,37 @@
   },
   {
     "title": "Giant Glitter Ice Cube Squishy – 6 Pcs Display Box",
-    "description": "Giant Glitter Ice Cube Squishy – 6 Pcs Display Box\n\nEnjoy super-sized squishy fun with these colourful glitter ice cubes. Soft, squeezable and sparkly, perfect for sensory play, fidgeting and gifting.\n\n• 6 individually boxed squishies per display box\n• 4 assorted colours\n• Giant glitter cube design\n• Suitable for ages 6+\n\nTags:\nGiant Ice Cube, Glitter Squishy, Ice Cube Squishy, Sensory Toy, Fidget Toy, Squeeze Toy, Stress Relief Toy, Wholesale Toys, Kids Toys, Toy Bloom",
+    "description": "Giant Glitter Ice Cube Squishy – 6 Pcs Display Box\n\nEnjoy super-sized squishy fun with these colourful glitter ice cubes. Soft, squeezable and sparkly, perfect for sensory play, fidgeting and gifting.\n\n• 6 individually boxed squishies per display box\n• 4 assorted colours\n• Giant glitter cube design\n• Suitable for ages 6+\n",
     "category": "needoh-squishies",
-    "price": 0,
-    "compareAtPrice": null,
-    "stock": 0,
+    "price": 30,
+    "compareAtPrice": 36,
+    "stock": 120,
     "sku": "",
     "costPrice": 0,
-    "images": [],
-    "tags": [],
+    "images": [
+      "/products/1795687324603-csbcct.jpg"
+    ],
+    "tags": [
+      "Giant Ice Cube",
+      "Glitter Squishy",
+      "Ice Cube Squishy",
+      "Sensory Toy",
+      "Fidget Toy",
+      "Squeeze Toy",
+      "Stress Relief Toy",
+      "Wholesale Toys",
+      "Kids Toys",
+      "Toy Bloom"
+    ],
     "active": true,
     "id": "984765be-7a35-492e-93c4-e001ab05dad7",
     "slug": "giant-glitter-ice-cube-squishy-6-pcs-display-box-f51y",
-    "updatedAt": "2026-11-26T10:00:26.739Z"
+    "updatedAt": "2026-11-26T10:02:13.531Z",
+    "brand": "Unbranded",
+    "ageRange": "3-5 years",
+    "piecesPerBox": 6,
+    "moqLabel": "6 pcs",
+    "isNew": true,
+    "isBestSeller": true
   }
 ]
