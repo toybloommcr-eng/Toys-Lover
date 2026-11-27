@@ -23687,7 +23687,9 @@
     "stock": 300,
     "sku": "",
     "costPrice": 0,
-    "images": [],
+    "images": [
+      "/products/1795802971077-yu9ors.jpg"
+    ],
     "tags": [],
     "active": true,
     "brand": "Unbranded",
@@ -23698,6 +23700,6 @@
     "isBestSeller": true,
     "id": "e5f1f30c-6f2a-4bad-b526-a40ba0c42e6b",
     "slug": "blue-propeller-magic-wand-c81o",
-    "updatedAt": "2026-11-27T18:08:22.006Z"
+    "updatedAt": "2026-11-27T18:09:36.942Z"
   }
 ]
